@@ -48,6 +48,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **XSS_REFLECTED** : Chercher la faille XSS Reflected
     - **XSS_DOM_TRADINGVIEW** : XSS Dom, donnez votre langue au chat
     - **XSS_DOM_TRADINGVIEW_2** : XSS Dom, cette fois c'est pas les cookies !
+    - **CRLF_XSS_STORED_SESSION** : Un pirate a voulu nous tendre un piège, retournez la situation.
 
 - **Web serveur**
     - **PHP_LFI_RFI_WRAPPER_FTP** : Injection de fichier et gestionnaire de Flux FTP

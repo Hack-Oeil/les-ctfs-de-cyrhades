@@ -322,5 +322,18 @@
     "repository": "https://github.com/Hack-Oeil/XSS_DOM_TRADINGVIEW_2.git",
     "type": "docker",
     "description": "Le niveau de difficulté est plus élevé, on est au croisement entre la XSS et le CSRF"
+},
+{
+    "id": "26",
+    "author" : "Cyrhades",
+    "name":  "XSS Stored + CRLF + vol de session",
+    "dirname": "CRLF_XSS_STORED_SESSION",
+    "techno": "-",
+    "category": "web_client",
+    "level": "2",
+    "flag_validation" : "44b9aabcc7bbfe8c82f7329a18960f6850ca6ba8fb1ab93a6e2a77348e22d978",
+    "repository": "https://github.com/Hack-Oeil/CRLF_XSS_STORED_SESSION.git",
+    "type": "docker",
+    "description": "Un pirate a voulu nous tendre un piège, retournez la situation."
 }
 ]
