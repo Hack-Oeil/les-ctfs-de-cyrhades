@@ -1,0 +1,12 @@
+# Ignorer tout le répertoire resources/CTFs/
+resources/CTFs/*
+# Ignorer tout le répertoire resources/CTFs/bin/
+resources/bin/*
+# Ignorer tout le répertoire resources/CTFs/plateform/
+resources/plateform/*
+# Ignorer tout le répertoire resources/CTFs/tools/
+resources/tools/*
+# on ne changera pas ce fichier
+resources/config.xml
+# Les validations de flags ne sont surtout pas à envoyer
+resources/flags.xml
