@@ -335,5 +335,18 @@
     "repository": "https://github.com/Hack-Oeil/CRLF_XSS_STORED_SESSION.git",
     "type": "docker",
     "description": "Un pirate a voulu nous tendre un piège, retournez la situation."
+},
+{
+    "id": "27",
+    "author" : "Cyrhades",
+    "name":  "Injection SQL, UNION SELECT",
+    "dirname": "INJECTION_SQL_UNION_SELECT",
+    "techno": "SQL",
+    "category": "web_server",
+    "level": "2",
+    "flag_validation" : "e3745bbc21dbeb027efc0d6a52a9121724b63586a5fa0894786e89dc50d26215",
+    "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_UNION_SELECT.git",
+    "type": "docker",
+    "description": "Dans cet exercice il est possible de chercher des vêtements, mais pas que."
 }
 ]

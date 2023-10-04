@@ -62,3 +62,4 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **PHP_COOKIE_SERIALIZE_LOOSE_COMPARAISON** : Devenez admin en émiettant le cookie
     - **LOCAL_FILE_INCLUSION_BUILD_CSS** : Un builder CSS maison
     - **LOCAL_FILE_INCLUSION_DOWNLOAD** : Téléchargement de fichier sans contrôle
+    - **INJECTION_SQL_UNION_SELECT** : Dans cet exercice il est possible de chercher des vêtements, mais pas que.
