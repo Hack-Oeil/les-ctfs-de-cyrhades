@@ -348,5 +348,18 @@
     "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_UNION_SELECT.git",
     "type": "docker",
     "description": "Dans cet exercice il est possible de chercher des vêtements, mais pas que."
+},
+{
+    "id": "28",
+    "author" : "Cyrhades",
+    "name":  "Injection SQL, SQL Routed",
+    "dirname": "INJECTION_SQL_ROUTED",
+    "techno": "SQL",
+    "category": "web_server",
+    "level": "3",
+    "flag_validation" : "1e6eb58a7ed7a6288671ef76757ac58359116ce7aea2cec8aec02240bf0d0e4f",
+    "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_ROUTED.git",
+    "type": "docker",
+    "description": "En fonction de la catégorie choisie, les articles associés sortiront."
 }
 ]
