@@ -413,5 +413,18 @@
     "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_AUTHENTIFICATION_2.git",
     "type": "docker",
     "description": "Le password (hashé) puis l'email dans une requête SQL non sécurisée"
+},
+{
+    "id": "33",
+    "author" : "Cyrhades",
+    "name":  "Injection SQL, SQL Routed 2",
+    "dirname": "INJECTION_SQL_ROUTED_2",
+    "techno": "SQL",
+    "category": "web_server",
+    "level": "3",
+    "flag_validation" : "bf2e14fb4225e149ec554962a18640de044a6b391b0adb8ba1d465d3afab479c",
+    "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_ROUTED_2.git",
+    "type": "docker",
+    "description": "Le développeur a changer sa façon de s'y prendre, il utilise maintenant un id et il utilise la fonction addslashes, pour éviter les guillemets, d'après lui cela empéchera l'injection SQL."
 }
 ]
