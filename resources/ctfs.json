@@ -361,5 +361,31 @@
     "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_ROUTED.git",
     "type": "docker",
     "description": "En fonction de la catégorie choisie, les articles associés sortiront."
+},
+{
+    "id": "29",
+    "author" : "Cyrhades",
+    "name":  "CTF à faire en présentiel",
+    "dirname": "CTF_PRESENTIEL_1",
+    "techno": "-",
+    "category": "various",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/CTF_PRESENTIEL_1.git",
+    "type": "docker",
+    "description": "CTF à faire en présentiel, lock picking + dumpster diving"
+},
+{
+    "id": "30",
+    "author" : "Cyrhades",
+    "name":  "CTF distanciel SSRF avec interaction (Philips Hue)",
+    "dirname": "CTF_SSRF_PHILIPS_HUE",
+    "techno": "-",
+    "category": "various",
+    "level": "1",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/CTF_SSRF_PHILIPS_HUE.git",
+    "type": "docker",
+    "description": "Allumer une ou plusieurs lumière(s) chez le formateur."
 }
 ]
