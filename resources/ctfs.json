@@ -387,5 +387,31 @@
     "repository": "https://github.com/Hack-Oeil/CTF_SSRF_PHILIPS_HUE.git",
     "type": "docker",
     "description": "Allumer une ou plusieurs lumière(s) chez le formateur."
+},
+{
+    "id": "31",
+    "author" : "Cyrhades",
+    "name":  "Injection SQL d'authentification 1",
+    "dirname": "INJECTION_SQL_AUTHENTIFICATION_1",
+    "techno": "SQL",
+    "category": "web_server",
+    "level": "1",
+    "flag_validation" : "800c324d46cefc35c95441e99b766302e73bda3380608c3ec3bd26980984f19f",
+    "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_AUTHENTIFICATION_1.git",
+    "type": "docker",
+    "description": "L'email puis le password (hashé) dans une requête SQL non sécurisée"
+},
+{
+    "id": "32",
+    "author" : "Cyrhades",
+    "name":  "Injection SQL d'authentification 2",
+    "dirname": "INJECTION_SQL_AUTHENTIFICATION_2",
+    "techno": "SQL",
+    "category": "web_server",
+    "level": "1",
+    "flag_validation" : "9a203fbfe28b659906b0bf50b51f226721c359e9e6f87f5d57b6b701ba707435",
+    "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_AUTHENTIFICATION_2.git",
+    "type": "docker",
+    "description": "Le password (hashé) puis l'email dans une requête SQL non sécurisée"
 }
 ]
