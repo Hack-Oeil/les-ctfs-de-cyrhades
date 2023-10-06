@@ -35,6 +35,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **CRYPTANALYSE_BASE64_DIVISE_PAR_2** : Vous connaissez le Base 64, c'est un bon début alors ...
     - **CRYPTANALYSE_ASCIIPARAIT** : L'hexa c'est facile Ascii parait
     - **CRYPTANALYSE_VIGENERE** : Petite lettre à un ami
+
 - **Programmation**
     - **LA_CARTE_MANQUANTE** : La carte manquante
     - **CLAIR_DE_LUNE** : L'algorithme de Luhn, également connu sous le nom de "modulus 10"
@@ -65,3 +66,10 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **LOCAL_FILE_INCLUSION_DOWNLOAD** : Téléchargement de fichier sans contrôle
     - **INJECTION_SQL_UNION_SELECT** : Dans cet exercice il est possible de chercher des vêtements, mais pas que.
     - **INJECTION_SQL_ROUTED** : En fonction de la catégorie choisie, les articles associés sortiront.
+    - **INJECTION_SQL_AUTHENTIFICATION_1** : L'email puis le password (hashé) dans une requête SQL non sécurisée
+    - **INJECTION_SQL_AUTHENTIFICATION_2** : Le password (hashé) puis l'email dans une requête SQL non sécurisée
+    - **INJECTION_SQL_ROUTED_2** : Le développeur a changer sa façon de s'y prendre, il utilise maintenant un id et il utilise la fonction addslashes, pour éviter les guillemets, d'après lui cela empéchera l'injection SQL.
+
+- **Divers**
+    - **CTF_PRESENTIEL_1** : CTF à faire en présentiel, lock picking + dumpster diving
+    - **CTF_SSRF_PHILIPS_HUE** : Allumer une ou plusieurs lumière(s) chez le formateur.
