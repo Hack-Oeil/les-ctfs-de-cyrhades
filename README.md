@@ -73,3 +73,4 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 - **Divers**
     - **CTF_PRESENTIEL_1** : CTF à faire en présentiel, lock picking + dumpster diving
     - **CTF_SSRF_PHILIPS_HUE** : Allumer une ou plusieurs lumière(s) chez le formateur.
+    - **CTF_SSRF_WITHOUT_PHILIPS_HUE** : Allumer les lumière(s) fictive(s) visible(s) via une caméra virtuelle OBS.

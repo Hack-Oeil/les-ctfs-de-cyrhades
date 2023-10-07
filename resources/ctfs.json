@@ -426,5 +426,18 @@
     "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_ROUTED_2.git",
     "type": "docker",
     "description": "Le développeur a changer sa façon de s'y prendre, il utilise maintenant un id et il utilise la fonction addslashes, pour éviter les guillemets, d'après lui cela empéchera l'injection SQL."
+},
+{
+    "id": "34",
+    "author" : "Cyrhades",
+    "name":  "CTF distanciel SSRF avec interaction (alternative sans Philips Hue)",
+    "dirname": "CTF_SSRF_WITHOUT_PHILIPS_HUE",
+    "techno": "-",
+    "category": "various",
+    "level": "1",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/CTF_SSRF_WITHOUT_PHILIPS_HUE.git",
+    "type": "docker",
+    "description": "Allumer les lumière(s) fictive(s) visibles via une caméra virtuel OBS."
 }
 ]
