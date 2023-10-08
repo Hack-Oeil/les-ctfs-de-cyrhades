@@ -1,4 +1,4 @@
-Les CTFs de Cyrhades (version beta)
+Les CTFs de Cyrhades
 ====================
 🎉 🥳 **Nouvelle version en Java.** 🥳 🎉
 
