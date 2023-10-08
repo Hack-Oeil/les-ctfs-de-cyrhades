@@ -439,5 +439,18 @@
     "repository": "https://github.com/Hack-Oeil/CTF_SSRF_WITHOUT_PHILIPS_HUE.git",
     "type": "docker",
     "description": "Allumer les lumière(s) fictive(s) visibles via une caméra virtuel OBS."
+},
+{
+    "id": "35",
+    "author" : "Cyrhades",
+    "name":  "LFI/RFI Wrapper FTP + ZIP",
+    "dirname": "PHP_LFI_RFI_WRAPPER_FTP_ZIP",
+    "techno": "PHP",
+    "category": "web_server",
+    "level": "4",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/PHP_LFI_RFI_WRAPPER_FTP_ZIP.git",
+    "type": "docker",
+    "description": "Suite à son Hack sur le système de recrutement, seul les docx sont acceptés"
 }
 ]

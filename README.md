@@ -69,6 +69,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **INJECTION_SQL_AUTHENTIFICATION_1** : L'email puis le password (hashé) dans une requête SQL non sécurisée
     - **INJECTION_SQL_AUTHENTIFICATION_2** : Le password (hashé) puis l'email dans une requête SQL non sécurisée
     - **INJECTION_SQL_ROUTED_2** : Le développeur a changer sa façon de s'y prendre, il utilise maintenant un id et il utilise la fonction addslashes, pour éviter les guillemets, d'après lui cela empéchera l'injection SQL.
+    - **PHP_LFI_RFI_WRAPPER_FTP_ZIP** : LFI/RFI Wrapper FTP + ZIP
 
 - **Divers**
     - **CTF_PRESENTIEL_1** : CTF à faire en présentiel, lock picking + dumpster diving
