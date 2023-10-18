@@ -2,6 +2,12 @@ Les CTFs de Cyrhades
 ====================
 🎉 🥳 **Nouvelle version en Java.** 🥳 🎉
 
+Vidéo de Présentation
+------------
+[Regardez la vidéo](https://www.youtube.com/watch?v=_uJcXd6Kkhc)
+
+
+
 <img src="resources/interface.png">
 Des challenges seront ajoutés réguliérement (environ 1 par semaine)
 
