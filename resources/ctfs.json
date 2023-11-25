@@ -481,20 +481,20 @@
     "type": "docker",
     "description": "Une CVE de 2022, pour exploiter une injection dans un moteur de template populaire."
 },
-    {
-        "id": "38",
-        "author" : "Cyrhades",
-        "name":  "-",
-        "dirname": "-",
-        "techno": "-",
-        "date_release": "2023-12-03",
-        "category": "web_server",
-        "level": "2",
-        "flag_validation" : "",
-        "repository": "https://github.com/Hack-Oeil/.git",
-        "type": "",
-        "description": ""
-    },
+{
+    "id": "38",
+    "author" : "Cyrhades",
+    "name":  "Authentification SQL - LIKE a boss",
+    "dirname": "SQL_LIKE_A_BOSS",
+    "techno": "SQL",
+    "date_release": "2023-12-03",
+    "category": "web_server",
+    "level": "1",
+    "flag_validation" : "481c906a2112860c2dafe82c31fc7c68f4ce44106dcd9ab4987f23a9aad60bd9",
+    "repository": "https://github.com/Hack-Oeil/SQL_LIKE_A_BOSS.git",
+    "type": "docker",
+    "description": "Connectez vous avec le compte administrateur LIKE a boss"
+},
 {
     "id": "39",
     "author" : "Cyrhades",
