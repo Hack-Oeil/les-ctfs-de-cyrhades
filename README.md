@@ -35,7 +35,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 📅  Calendrier de l'avent
 --------------------------
 - 1er décembre : ID 36 - **IDOR_CODE_SOURCE_1**
-
+- 2 décembre : ID 37 - **EJS_INJECTION_CVE_2022**
 
 🏴 Les CTFs  :
 ----------------
@@ -81,7 +81,8 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **INJECTION_SQL_ROUTED_2** : Le développeur a changer sa façon de s'y prendre, il utilise maintenant un id et il utilise la fonction addslashes, pour éviter les guillemets, d'après lui cela empéchera l'injection SQL.
     - **PHP_LFI_RFI_WRAPPER_FTP_ZIP** : LFI/RFI Wrapper FTP + ZIP
     - **IDOR_CODE_SOURCE_1** : IDOR pour trouver le mot de passe de l'administrateur et se connecter
-
+    - **EJS_INJECTION_CVE_2022** : EJS injection - CVE-2022-29078
+    
 - **Divers**
     - **CTF_PRESENTIEL_1** : CTF à faire en présentiel, lock picking + dumpster diving
     - **CTF_SSRF_PHILIPS_HUE** : Allumer une ou plusieurs lumière(s) chez le formateur.
