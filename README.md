@@ -38,7 +38,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 - 2 décembre : ID 37 - **EJS_INJECTION_CVE_2022**
 - 3 décembre : ID 38 - **SQL_LIKE_A_BOSS**
 - 4 décembre : ID 39 - **OSINT_A_LA_CAMPAGNE**
-
+- 5 décembre : ID 40 - **DOUBTFUL_USB**
 
 🏴 Les CTFs  :
 ----------------
@@ -50,6 +50,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **CRYPTANALYSE_VIGENERE** : Petite lettre à un ami
 
 - **Forensic**
+    - **DOUBTFUL_USB** : Clé USB douteuse
 
 - **OSINT**
     - **OSINT_A_LA_CAMPAGNE** : Retrouvez l'endroit où a été prise la photo"
