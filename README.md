@@ -39,6 +39,8 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 - 3 décembre : ID 38 - **SQL_LIKE_A_BOSS**
 - 4 décembre : ID 39 - **OSINT_A_LA_CAMPAGNE**
 - 5 décembre : ID 40 - **DOUBTFUL_USB**
+- 6 décembre : ID 41 - **IMAGE_PAS_TRES_JOLIE**
+- 7 décembre : ID 42 - **MELODIOUS_SOUNDS_OF_THE_SHADOW**
 
 🏴 Les CTFs  :
 ----------------
@@ -58,6 +60,8 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 - **Programmation**
     - **LA_CARTE_MANQUANTE** : La carte manquante
     - **CLAIR_DE_LUNE** : L'algorithme de Luhn, également connu sous le nom de "modulus 10"
+    - **IMAGE_PAS_TRES_JOLIE** : Une image pas très jolie
+    - **MELODIOUS_SOUNDS_OF_THE_SHADOW** : Les sons mélodieux de l'ombre
     
 - **Stéganographie**
     - **STEGANO_EXERCICE_1** : Une image mais pas que

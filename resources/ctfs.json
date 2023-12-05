@@ -680,16 +680,16 @@
     {
         "id": "52",
         "author" : "Cyrhades",
-        "name":  "-",
-        "dirname": "-",
-        "techno": "-",
+        "name":  "Pas vu pas pris",
+        "dirname": "SQL_INJECTION_BLIND_1",
+        "techno": "SQL",
         "date_release": "2023-12-17",
         "category": "web_server",
         "level": "1",
-        "flag_validation" : "",
-        "repository": "https://github.com/Hack-Oeil/.git",
-        "type": "",
-        "description": ""
+        "flag_validation" : "4b2bde4ab10778bc3680cda352fb28da2a90f1336df08ac2a1b383a1c1e9df9b",
+        "repository": "https://github.com/Hack-Oeil/SQL_INJECTION_BLIND_1.git",
+        "type": "docker",
+        "description": "Pas vu pas pris, ça c'est pas une phrase pour le Blind SQL"
     },
     {
         "id": "53",
