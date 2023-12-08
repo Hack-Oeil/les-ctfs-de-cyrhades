@@ -41,6 +41,9 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 - 5 décembre : ID 40 - **DOUBTFUL_USB**
 - 6 décembre : ID 41 - **IMAGE_PAS_TRES_JOLIE**
 - 7 décembre : ID 42 - **MELODIOUS_SOUNDS_OF_THE_SHADOW**
+- 8 décembre : ID 43 - **COMMAND_INJECTION_NSLOOKUP**
+- 9 décembre : ID 44 - **WAV_CONVERTER_ONLINE**
+
 
 🏴 Les CTFs  :
 ----------------
@@ -96,6 +99,8 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **IDOR_CODE_SOURCE_1** : IDOR pour trouver le mot de passe de l'administrateur et se connecter
     - **EJS_INJECTION_CVE_2022** : EJS injection - CVE-2022-29078
     - **SQL_LIKE_A_BOSS** : Authentification SQL - LIKE a boss
+    - **COMMAND_INJECTION_NSLOOKUP** : DNS MX - injection de commande
+    - **WAV_CONVERTER_ONLINE** : Conversion de fichier wav en mp3
     
 - **Divers**
     - **CTF_PRESENTIEL_1** : CTF à faire en présentiel, lock picking + dumpster diving
