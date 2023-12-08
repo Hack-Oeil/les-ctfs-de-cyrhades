@@ -610,16 +610,16 @@
     {
         "id": "47",
         "author" : "Cyrhades",
-        "name":  "-",
-        "dirname": "-",
+        "name":  "eval(ECHEC ET MATH)",
+        "dirname": "EVAL_ECHEC_ET_MATH",
         "techno": "-",
         "date_release": "2023-12-12",
         "category": "web_server",
-        "level": "1",
-        "flag_validation" : "",
-        "repository": "https://github.com/Hack-Oeil/.git",
-        "type": "",
-        "description": ""
+        "level": "4",
+        "flag_validation" : "8dac3f18c9ede6ee5f63beedd958318a839e724e01e58b88b4bc473f7852f4da",
+        "repository": "https://github.com/Hack-Oeil/EVAL_ECHEC_ET_MATH.git",
+        "type": "docker",
+        "description": "Le filtrage des données utilisateur ne sont pas toujours efficaces"
     },
     {
         "id": "48",
