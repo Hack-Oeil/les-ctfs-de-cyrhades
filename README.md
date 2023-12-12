@@ -43,7 +43,10 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 - 7 décembre : ID 42 - **MELODIOUS_SOUNDS_OF_THE_SHADOW**
 - 8 décembre : ID 43 - **COMMAND_INJECTION_NSLOOKUP**
 - 9 décembre : ID 44 - **WAV_CONVERTER_ONLINE**
-
+- 10 décembre : ID 45 - **FORMUL_NO2**
+- 11 décembre : ID 46 - **OSINT_CHIEN_PERDU**
+- 12 décembre : ID 47 - **EVAL_ECHEC_ET_MATH**
+- 13 décembre : ID 48 - **MESSAGE_AU_ROI**
 
 🏴 Les CTFs  :
 ----------------
@@ -53,12 +56,15 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **CRYPTANALYSE_BASE64_DIVISE_PAR_2** : Vous connaissez le Base 64, c'est un bon début alors ...
     - **CRYPTANALYSE_ASCIIPARAIT** : L'hexa c'est facile Ascii parait
     - **CRYPTANALYSE_VIGENERE** : Petite lettre à un ami
+    - **MESSAGE_AU_ROI** : Message au roi Polybe
 
 - **Forensic**
     - **DOUBTFUL_USB** : Clé USB douteuse
 
 - **OSINT**
     - **OSINT_A_LA_CAMPAGNE** : Retrouvez l'endroit où a été prise la photo"
+    - **OSINT_CHIEN_PERDU** : Chien perdu
+
 
 - **Programmation**
     - **LA_CARTE_MANQUANTE** : La carte manquante
@@ -77,6 +83,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **WEB_CLIENT_DISABLED_BUTTON_AND_CONTROL** : Le bouton est désactivé mais même en le réactivant on ne peut pas jouer !
     - **XSS_DOM_TRADINGVIEW_2** : XSS Dom, cette fois c'est pas les cookies !
     - **CRLF_XSS_STORED_SESSION** : Un pirate a voulu nous tendre un piège, retournez la situation.
+    - **FORMUL_NO2** : Formulaire en chamboule tout
 
 - **Web serveur**
     - **PHP_LFI_RFI_WRAPPER_FTP** : Injection de fichier et gestionnaire de Flux FTP
@@ -101,6 +108,8 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **SQL_LIKE_A_BOSS** : Authentification SQL - LIKE a boss
     - **COMMAND_INJECTION_NSLOOKUP** : DNS MX - injection de commande
     - **WAV_CONVERTER_ONLINE** : Conversion de fichier wav en mp3
+    - **EVAL_ECHEC_ET_MATH** : eval(ECHEC ET MATH)
+
     
 - **Divers**
     - **CTF_PRESENTIEL_1** : CTF à faire en présentiel, lock picking + dumpster diving
