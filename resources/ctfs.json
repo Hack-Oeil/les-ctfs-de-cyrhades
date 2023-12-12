@@ -665,17 +665,17 @@
     },
     {
         "id": "51",
-        "author" : "Cyrhades",
-        "name":  "-",
-        "dirname": "-",
+        "author" : "Noobosaurus R3x",
+        "name":  "Le voyage de Noobosaurus R3x",
+        "dirname": "OSINT_VOYAGE_NOOBOSAURUS_R3X",
         "techno": "-",
         "date_release": "2023-12-16",
-        "category": "web_server",
-        "level": "1",
-        "flag_validation" : "",
-        "repository": "https://github.com/Hack-Oeil/.git",
-        "type": "",
-        "description": ""
+        "category": "osint",
+        "level": "3",
+        "flag_validation" : "bbd83e9743b8dfd207d8aad67dd5fa1dfd43f52a85f58ca69605ad00b40198d7",
+        "repository": "https://github.com/Hack-Oeil/OSINT_VOYAGE_NOOBOSAURUS_R3X.git",
+        "type": "file",
+        "description": "Le voyage de Noobosaurus R3x, trouvez les infos de son vol"
     },
     {
         "id": "52",
@@ -750,16 +750,16 @@
     {
         "id": "57",
         "author" : "Cyrhades",
-        "name":  "-",
-        "dirname": "-",
+        "name":  "La momie",
+        "dirname": "VOL_TABLETTE_EGYPTIENNE",
         "techno": "-",
         "date_release": "2023-12-22",
         "category": "web_server",
-        "level": "1",
-        "flag_validation" : "",
-        "repository": "https://github.com/Hack-Oeil/.git",
-        "type": "",
-        "description": ""
+        "level": "2",
+        "flag_validation" : "511552c049d8ea45f4478c265704034f80e34c36184687db960463e5e8ed35fa",
+        "repository": "https://github.com/Hack-Oeil/VOL_TABLETTE_EGYPTIENNE.git",
+        "type": "docker",
+        "description": "Retrouvez la tablette égyptienne volée au musée du Louvre"
     },
     {
         "id": "58",
@@ -788,5 +788,18 @@
         "repository": "https://github.com/Hack-Oeil/HARMONY_AND_SILENCE.git",
         "type": "file",
         "description": "Trouvez le flag à partir du fichier audio."
+    },
+    {
+        "id": "60",
+        "author" : "@cryptanalyse",
+        "name":  "FCSC 2019 Secure Vault",
+        "dirname": "fcsc2019-pwn-secure-vault",
+        "techno": "-",
+        "category": "fcsc_2019",
+        "level": "3",
+        "flag_validation" : "bb853c1a5fdd3665ec37475bb488ce78d268b1af0c05ec2dcc7a6d65f0061a57",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-pwn-secure-vault.git",
+        "type": "docker",
+        "description": "Challenge fcsc2019-pwn-secure-vault de hackropole.fr"
     }
 ]
