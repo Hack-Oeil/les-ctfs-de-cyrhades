@@ -801,5 +801,18 @@
         "repository": "https://github.com/Hack-Oeil/fcsc2019-pwn-secure-vault.git",
         "type": "docker",
         "description": "Challenge fcsc2019-pwn-secure-vault de hackropole.fr"
+    },
+    {
+        "id": "61",
+        "author" : "@cryptanalyse",
+        "name":  "FCSC 2019 Crayon Cochon",
+        "dirname": "fcsc2019-crayon-cochon",
+        "techno": "-",
+        "category": "fcsc_2019",
+        "level": "1",
+        "flag_validation" : "e4a22f45c5c1f0ba7a7a684a994eac2112a800e4a7c1c4a01b42ff46e4dcc09a",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-crayon-cochon.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-crypto-crayon-cochon de hackropole.fr"
     }
 ]
