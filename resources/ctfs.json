@@ -814,5 +814,44 @@
         "repository": "https://github.com/Hack-Oeil/fcsc2019-crayon-cochon.git",
         "type": "file",
         "description": "Challenge fcsc2019-crypto-crayon-cochon de hackropole.fr"
+    },
+    {
+        "id": "62",
+        "author" : "@alx",
+        "name":  "FCSC 2019 Not so FAT",
+        "dirname": "fcsc2019-forensics-not-so-fat",
+        "techno": "-",
+        "category": "fcsc_2019",
+        "level": "1",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-not-so-fat.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-forensics-not-so-fat de hackropole.fr"
+    },
+    {
+        "id": "63",
+        "author" : "@alx",
+        "name":  "FCSC 2019 Petites Notes",
+        "dirname": "fcsc2019-forensics-petites-notes",
+        "techno": "-",
+        "category": "fcsc_2019",
+        "level": "1",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-petites-notes.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-forensics-petites-notes de hackropole.fr"
+    },
+    {
+        "id": "64",
+        "author" : "ack",
+        "name":  "FCSC 2019 Scully 1",
+        "dirname": "fcsc2019-scully-1",
+        "techno": "SQL",
+        "category": "fcsc_2019",
+        "level": "1",
+        "flag_validation" : "2138ee76bde8483abcac06a0f8ea7ee01573a8d3249ae7b0be9dc1eef91e8253",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-scully-1.git",
+        "type": "docker",
+        "description": "Challenge fcsc2019-scully-1 de hackropole.fr"
     }
 ]
