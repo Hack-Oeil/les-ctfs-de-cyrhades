@@ -944,5 +944,18 @@
         "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-amok.git",
         "type": "file",
         "description": "Challenge fcsc2019-crypto-amok de hackropole.fr"
+    },
+    {
+        "id": "72",
+        "author" : "@cryptanalyse",
+        "name":  "FCSC 2019 Armory",
+        "dirname": "fcsc2019-pwn-armory",
+        "techno": "pwn",
+        "category": "fcsc_2019",
+        "level": "1",
+        "flag_validation" : "77ac4a6a755ebbaf61346af771d5757ef5685abfa4e71a0f266d596ae7489f19",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-pwn-armory.git",
+        "type": "docker",
+        "description": "Challenge fcsc2019-pwn-armory de hackropole.fr"
     }
 ]
