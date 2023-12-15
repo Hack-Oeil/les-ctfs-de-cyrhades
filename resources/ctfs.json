@@ -3,6 +3,7 @@
     "author" : "Cyrhades",
     "name": "LFI/RFI Wrapper FTP",
     "dirname": "PHP_LFI_RFI_WRAPPER_FTP",
+    "readme" : "toto.md",
     "techno": "PHP",
     "category": "web_server",
     "level": "3",
@@ -957,5 +958,48 @@
         "repository": "https://github.com/Hack-Oeil/fcsc2019-pwn-armory.git",
         "type": "docker",
         "description": "Challenge fcsc2019-pwn-armory de hackropole.fr"
+    },
+    {
+        "id": "73",
+        "author" : "alx",
+        "name":  "FCSC 2019 3615 Incident 1/3",
+        "dirname": "fcsc2019-forensics-3615-incident",
+        "readme": "README_1_3.md",
+        "techno": "forensics / memory",
+        "category": "fcsc_2019",
+        "level": "1",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-3615-incident.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-forensics-3615-incident-1 de hackropole.fr"
+    },
+    {
+        "id": "74",
+        "author" : "alx",
+        "name":  "FCSC 2019 3615 Incident 2/3",
+        "dirname": "fcsc2019-forensics-3615-incident",
+        "readme": "README_2_3.md",
+        "techno": "forensics / memory",
+        "category": "fcsc_2019",
+        "level": "2",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-3615-incident.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-forensics-3615-incident-2 de hackropole.fr"
+    },
+    {
+        "id": "75",
+        "author" : "alx",
+        "name":  "FCSC 2019 3615 Incident 3/3",
+        "dirname": "fcsc2019-forensics-3615-incident",
+        "readme": "README_3_3.md",
+        "techno": "forensics / memory",
+        "category": "fcsc_2019",
+        "level": "2",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-3615-incident.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-forensics-3615-incident-3 de hackropole.fr"
     }
+
 ]
