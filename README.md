@@ -47,6 +47,10 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 - 11 décembre : ID 46 - **OSINT_CHIEN_PERDU**
 - 12 décembre : ID 47 - **EVAL_ECHEC_ET_MATH**
 - 13 décembre : ID 48 - **MESSAGE_AU_ROI**
+- 14 décembre : ID 49 - **STEG_IMAGE_SECRET_MESSAGE**
+- 15 décembre : ID 50 - **IDOR_CODE_SOURCE_2**
+- 16 décembre : ID 50 - **OSINT_VOYAGE_NOOBOSAURUS_R3X**
+
 
 🏴 Les CTFs  :
 ----------------
@@ -64,7 +68,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 - **OSINT**
     - **OSINT_A_LA_CAMPAGNE** : Retrouvez l'endroit où a été prise la photo"
     - **OSINT_CHIEN_PERDU** : Chien perdu
-
+    - **OSINT_VOYAGE_NOOBOSAURUS_R3X** : Le voyage de Noobosaurus R3x
 
 - **Programmation**
     - **LA_CARTE_MANQUANTE** : La carte manquante
@@ -76,6 +80,9 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **STEGANO_EXERCICE_1** : Une image mais pas que
     - **STEGANO_EXERCICE_2** : Sage comme une imageS
     - **STEGANO_EXERCICE_3** : A la recherche des pixels presque invisibles
+    - **IMAGE_PAS_TRES_JOLIE** : Une image pas très jolie
+    - **MELODIOUS_SOUNDS_OF_THE_SHADOW** : Les sons mélodieux de l'ombre
+    - **STEG_IMAGE_SECRET_MESSAGE** : Message secret dans une image
 
 - **Web client**
     - **XSS_REFLECTED** : Chercher la faille XSS Reflected
@@ -109,7 +116,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **COMMAND_INJECTION_NSLOOKUP** : DNS MX - injection de commande
     - **WAV_CONVERTER_ONLINE** : Conversion de fichier wav en mp3
     - **EVAL_ECHEC_ET_MATH** : eval(ECHEC ET MATH)
-
+    - **IDOR_CODE_SOURCE_2** : IDOR, Code Source et hash
     
 - **Divers**
     - **CTF_PRESENTIEL_1** : CTF à faire en présentiel, lock picking + dumpster diving
