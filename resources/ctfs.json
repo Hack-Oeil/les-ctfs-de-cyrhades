@@ -97,7 +97,7 @@
         "dirname": "STEGANO_EXERCICE_3",
         "techno": "-",
         "category": "steganography",
-        "level": "3",
+        "level": "2",
         "flag_validation" : "f1e1459f6ef23c7dfad8610330a260aa868c640ea09bf50665c26a85a4b8af6a",
         "repository": "https://github.com/Hack-Oeil/STEGANO_EXERCICE_3.git",
         "type": "image",
