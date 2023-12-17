@@ -49,8 +49,15 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
 - 13 décembre : ID 48 - **MESSAGE_AU_ROI**
 - 14 décembre : ID 49 - **STEG_IMAGE_SECRET_MESSAGE**
 - 15 décembre : ID 50 - **IDOR_CODE_SOURCE_2**
-- 16 décembre : ID 50 - **OSINT_VOYAGE_NOOBOSAURUS_R3X**
-
+- 16 décembre : ID 51 - **OSINT_VOYAGE_NOOBOSAURUS_R3X**
+- 17 décembre : ID 52 - **SQL_INJECTION_BLIND_1**
+- 18 décembre : ID 53 - **RDV-W3W**
+- 19 décembre : ID 54 - **STEG_AUDIO_SECRET_MESSAGE**
+- 20 décembre : ID 55 - **WAR_MESSAGE**
+- 21 décembre : ID 56 - **OFFICE_MATRIOCHKAS**
+- 22 décembre : ID 57 - **VOL_TABLETTE_EGYPTIENNE**
+- 23 décembre : ID 58 - **JS_PASSWORD_CLIENT**
+- 24 décembre : ID 59 - **HARMONY_AND_SILENCE**
 
 🏴 Les CTFs  :
 ----------------
@@ -61,6 +68,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **CRYPTANALYSE_ASCIIPARAIT** : L'hexa c'est facile Ascii parait
     - **CRYPTANALYSE_VIGENERE** : Petite lettre à un ami
     - **MESSAGE_AU_ROI** : Message au roi Polybe
+    - **WAR_MESSAGE** : Message seconde guerre mondiale
 
 - **Forensic**
     - **DOUBTFUL_USB** : Clé USB douteuse
@@ -69,6 +77,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **OSINT_A_LA_CAMPAGNE** : Retrouvez l'endroit où a été prise la photo"
     - **OSINT_CHIEN_PERDU** : Chien perdu
     - **OSINT_VOYAGE_NOOBOSAURUS_R3X** : Le voyage de Noobosaurus R3x
+    - **RDV-W3W** : Agent X Rendez-vous demain 21h
 
 - **Programmation**
     - **LA_CARTE_MANQUANTE** : La carte manquante
@@ -83,6 +92,9 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **IMAGE_PAS_TRES_JOLIE** : Une image pas très jolie
     - **MELODIOUS_SOUNDS_OF_THE_SHADOW** : Les sons mélodieux de l'ombre
     - **STEG_IMAGE_SECRET_MESSAGE** : Message secret dans une image
+    - **STEG_AUDIO_SECRET_MESSAGE** : Message secret dans un fichier audio
+    - **OFFICE_MATRIOCHKAS** : DOCx et XLSx poupées russes
+    - **HARMONY_AND_SILENCE** : Les sons mélodieux de l'ombre 
 
 - **Web client**
     - **XSS_REFLECTED** : Chercher la faille XSS Reflected
@@ -91,6 +103,7 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **XSS_DOM_TRADINGVIEW_2** : XSS Dom, cette fois c'est pas les cookies !
     - **CRLF_XSS_STORED_SESSION** : Un pirate a voulu nous tendre un piège, retournez la situation.
     - **FORMUL_NO2** : Formulaire en chamboule tout
+    - **JS_PASSWORD_CLIENT** : Password coté client = inutile
 
 - **Web serveur**
     - **PHP_LFI_RFI_WRAPPER_FTP** : Injection de fichier et gestionnaire de Flux FTP
@@ -117,8 +130,12 @@ Cependant il n'est pas obligatoire si vous utilisez l'application pour les chall
     - **WAV_CONVERTER_ONLINE** : Conversion de fichier wav en mp3
     - **EVAL_ECHEC_ET_MATH** : eval(ECHEC ET MATH)
     - **IDOR_CODE_SOURCE_2** : IDOR, Code Source et hash
+    - **SQL_INJECTION_BLIND_1** : Pas vu pas pris
     
 - **Divers**
     - **CTF_PRESENTIEL_1** : CTF à faire en présentiel, lock picking + dumpster diving
     - **CTF_SSRF_PHILIPS_HUE** : Allumer une ou plusieurs lumière(s) chez le formateur.
     - **CTF_SSRF_WITHOUT_PHILIPS_HUE** : Allumer les lumière(s) fictive(s) visible(s) via une caméra virtuelle OBS.
+
+- **Réaliste**
+    - **VOL_TABLETTE_EGYPTIENNE** : La momie
