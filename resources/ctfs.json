@@ -824,7 +824,7 @@
         "techno": "forensic",
         "category": "fcsc_2019",
         "level": "1",
-        "flag_validation" : "-",
+        "flag_validation" : "af940ebac5297a6cb9c8601d38820cb13d400fded1406f9f28e9f3aeabacec95",
         "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-not-so-fat.git",
         "type": "file",
         "description": "Challenge fcsc2019-forensics-not-so-fat de hackropole.fr"
