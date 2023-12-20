@@ -1153,5 +1153,59 @@
         "repository": "https://github.com/Hack-Oeil/fcsc2019-web-ceci-n-est-pas-une-pipe.git",
         "type": "docker",
         "description": "Challenge fcsc2019-web-ceci-n-est-pas-une-pipe de hackropole.fr"
+    },
+    {
+        "id": "87",
+        "author" : "alx",
+        "name":  "FCSC 2019 Exfiltration",
+        "dirname": "fcsc2019-forensics-exfiltration",
+        "techno": "forensics / network",
+        "category": "fcsc_2019",
+        "level": "2",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-exfiltration.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-forensics-exfiltration de hackropole.fr"
+    },
+    {
+        "id": "88",
+        "author" : "@cryptanalyse",
+        "name":  "FCSC 2019 Factorial",
+        "dirname": "fcsc2019-misc-factorial",
+        "techno": "misc / algo",
+        "category": "fcsc_2019",
+        "level": "2",
+        "flag_validation" : "15945e3913711730bf6b1bf419410a7507c5fca9ab9ab84ab349b6064961054c",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-misc-factorial.git",
+        "type": "docker",
+        "description": "Challenge fcsc2019-misc-factorial de hackropole.fr"
+    },
+    {
+        "id": "89",
+        "author" : "@cryptanalyse",
+        "name":  "FCSC 2019 Hvítur Kassi 1",
+        "dirname": "fcsc2019-crypto-hvitur-kassi",
+        "readme": "README_1_2.md",
+        "techno": "crypto",
+        "category": "fcsc_2019",
+        "level": "2",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-hvitur-kassi.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-crypto-hvitur-kassi-1 de hackropole.fr"
+    },
+    {
+        "id": "90",
+        "author" : "@cryptanalyse",
+        "name":  "FCSC 2019 Hvítur Kassi 2",
+        "dirname": "fcsc2019-crypto-hvitur-kassi",
+        "readme": "README_2_2.md",
+        "techno": "crypto",
+        "category": "fcsc_2019",
+        "level": "3",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-hvitur-kassi.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-crypto-hvitur-kassi-2 de hackropole.fr"
     }
 ]
