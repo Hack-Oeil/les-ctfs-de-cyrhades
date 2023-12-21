@@ -858,15 +858,16 @@
     {
         "id": "65",
         "author" : "ack",
-        "name":  "FCSC 2019 StegCryptoDIY - RNG",
-        "dirname": "fcsc2019-crypto-steg-crypto-diy-2",
+        "name":  "FCSC 2019 StegCryptoDIY - PNG",
+        "dirname": "fcsc2019-crypto-steg-crypto-diy",
+        "readme": "README_1_3.md",
         "techno": "crypto",
         "category": "fcsc_2019",
-        "level": "2",
-        "flag_validation" : "-",
-        "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-steg-crypto-diy-2.git",
+        "level": "1",
+        "flag_validation" : "4a1ae48b6e968a96f382ff4013b97bd813351e15e7cca6d064663eb250b30786",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-steg-crypto-diy.git",
         "type": "file",
-        "description": "Challenge fcsc2019-crypto-steg-crypto-diy-2 de hackropole.fr"
+        "description": "Challenge fcsc2019-crypto-steg-crypto-diy-1 de hackropole.fr"
     },
     {
         "id": "66",
@@ -1207,5 +1208,33 @@
         "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-hvitur-kassi.git",
         "type": "file",
         "description": "Challenge fcsc2019-crypto-hvitur-kassi-2 de hackropole.fr"
+    },
+    {
+        "id": "91",
+        "author" : "ack",
+        "name":  "FCSC 2019 StegCryptoDIY - RNG",
+        "dirname": "fcsc2019-crypto-steg-crypto-diy",
+        "readme": "README_2_3.md",
+        "techno": "crypto",
+        "category": "fcsc_2019",
+        "level": "2",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-steg-crypto-diy.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-crypto-steg-crypto-diy-2 de hackropole.fr"
+    },
+    {
+        "id": "92",
+        "author" : "ack",
+        "name":  "FCSC 2019 StegCryptoDIY - Final Boss",
+        "dirname": "fcsc2019-crypto-steg-crypto-diy",
+        "readme": "README_3_3.md",
+        "techno": "crypto",
+        "category": "fcsc_2019",
+        "level": "2",
+        "flag_validation" : "-",
+        "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-steg-crypto-diy.git",
+        "type": "file",
+        "description": "Challenge fcsc2019-crypto-steg-crypto-diy-3 de hackropole.fr"
     }
 ]
