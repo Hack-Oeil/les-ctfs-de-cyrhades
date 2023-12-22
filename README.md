@@ -1,9 +1,13 @@
 Les CTFs de Cyrhades
 ====================
+
+
+**Accès au discord** : [https://discord.gg/FkFh55qcBz](https://discord.gg/FkFh55qcBz)
+
 🎉 🥳 **Nouvelle version en Java.** 🥳 🎉
 
 Vidéo de Présentation
-------------
+----------------------
 [Regardez la vidéo](https://www.youtube.com/watch?v=_uJcXd6Kkhc)
 
 
