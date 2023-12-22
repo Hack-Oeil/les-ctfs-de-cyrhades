@@ -10,3 +10,5 @@ resources/tools/*
 resources/config.xml
 # Les validations de flags ne sont surtout pas à envoyer
 resources/flags.xml
+# On ignore l'envoi de ce fichier maintenant (plus de probleme)
+les-ctfs-de-cyrhades.jar

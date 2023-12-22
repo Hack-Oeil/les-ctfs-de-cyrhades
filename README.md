@@ -2,11 +2,6 @@ Les CTFs de Cyrhades
 ====================
 🎉 🥳 **Nouvelle version en Java.** 🥳 🎉
 
-Potentiel probleme de MAJ
-------------
-Suite à une tentativ de correction le systeme de MAJ peut être impacté
-
-
 Vidéo de Présentation
 ------------
 [Regardez la vidéo](https://www.youtube.com/watch?v=_uJcXd6Kkhc)
