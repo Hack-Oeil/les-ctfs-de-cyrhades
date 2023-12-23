@@ -523,5 +523,18 @@
     "repository": "https://github.com/Hack-Oeil/fcsc2019-pwn-secure-vault.git",
     "type": "docker",
     "description": "Challenge fcsc2019-pwn-secure-vault de hackropole.fr"
+  },
+  {
+    "id": "99",
+    "author" : "@cryptanalyse",
+    "name":  "FCSC 2019 Weak RSA",
+    "dirname": "fcsc2019-crypto-weak-rsa",
+    "techno": "crypto / RSA",
+    "category": "fcsc_2019",
+    "level": "1",
+    "flag_validation" : "1b5a13fca90977f7aa0d2fdc959c4651e840da3c79ae03aa85a88fdb457a8b7f",
+    "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-weak-rsa.git",
+    "type": "file",
+    "description": "Challenge fcsc2019-crypto-weak-rsa de hackropole.fr"
   }
 ]
