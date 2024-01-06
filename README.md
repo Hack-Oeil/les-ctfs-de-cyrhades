@@ -35,33 +35,6 @@ Dependances
 🐋 Docker est indispensable pour les challenges dockerisés, comme c'est le cas pour les catégories WEB et Programmation.
 Cependant il n'est pas obligatoire si vous utilisez l'application pour les challenges  de type cryptanalyse, stéganographie, forensic, OSINT. 
 
-----------------------
-📅  Calendrier de l'avent
---------------------------
-- 1er décembre : ID 36 - **IDOR_CODE_SOURCE_1**
-- 2 décembre : ID 37 - **EJS_INJECTION_CVE_2022**
-- 3 décembre : ID 38 - **SQL_LIKE_A_BOSS**
-- 4 décembre : ID 39 - **OSINT_A_LA_CAMPAGNE**
-- 5 décembre : ID 40 - **DOUBTFUL_USB**
-- 6 décembre : ID 41 - **IMAGE_PAS_TRES_JOLIE**
-- 7 décembre : ID 42 - **MELODIOUS_SOUNDS_OF_THE_SHADOW**
-- 8 décembre : ID 43 - **COMMAND_INJECTION_NSLOOKUP**
-- 9 décembre : ID 44 - **WAV_CONVERTER_ONLINE**
-- 10 décembre : ID 45 - **FORMUL_NO2**
-- 11 décembre : ID 46 - **OSINT_CHIEN_PERDU**
-- 12 décembre : ID 47 - **EVAL_ECHEC_ET_MATH**
-- 13 décembre : ID 48 - **MESSAGE_AU_ROI**
-- 14 décembre : ID 49 - **STEG_IMAGE_SECRET_MESSAGE**
-- 15 décembre : ID 50 - **IDOR_CODE_SOURCE_2**
-- 16 décembre : ID 51 - **OSINT_VOYAGE_NOOBOSAURUS_R3X**
-- 17 décembre : ID 52 - **SQL_INJECTION_BLIND_1**
-- 18 décembre : ID 53 - **RDV-W3W**
-- 19 décembre : ID 54 - **STEG_AUDIO_SECRET_MESSAGE**
-- 20 décembre : ID 55 - **WAR_MESSAGE**
-- 21 décembre : ID 56 - **OFFICE_MATRIOCHKAS**
-- 22 décembre : ID 57 - **VOL_TABLETTE_EGYPTIENNE**
-- 23 décembre : ID 58 - **JS_PASSWORD_CLIENT**
-- 24 décembre : ID 59 - **HARMONY_AND_SILENCE**
 
 🏴 Les CTFs  :
 ----------------

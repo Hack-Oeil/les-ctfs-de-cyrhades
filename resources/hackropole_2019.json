@@ -536,5 +536,57 @@
     "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-weak-rsa.git",
     "type": "file",
     "description": "Challenge fcsc2019-crypto-weak-rsa de hackropole.fr"
+  },
+  {
+    "id": "100",
+    "author" : "@cryptanalyse",
+    "name":  "FCSC 2019 RDRL",
+    "dirname": "fcsc2019-crypto-rdrl",
+    "techno": "crypto / symetric / LFSR",
+    "category": "fcsc_2019",
+    "level": "1",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-rdrl.git",
+    "type": "file",
+    "description": "Challenge fcsc2019-crypto-rdrl de hackropole.fr"
+  },
+  {
+    "id": "101",
+    "author" : "Olivier",
+    "name":  "FCSC 2019 Ariane",
+    "dirname": "fcsc2019-reverse-ariane",
+    "techno": "reverse / windows / x86/x64",
+    "category": "fcsc_2019",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2019-reverse-ariane.git",
+    "type": "file",
+    "description": "Challenge fcsc2019-reverse-ariane de hackropole.fr"
+  },
+  {
+    "id": "102",
+    "author" : "Alternative",
+    "name":  "FCSC 2019 RScA",
+    "dirname": "fcsc2019-misc-rsca",
+    "techno": "misc / hardware",
+    "category": "fcsc_2019",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2019-misc-rsca.git",
+    "type": "file",
+    "description": "Challenge fcsc2019-misc-rsca de hackropole.fr"
+  },
+  {
+    "id": "103",
+    "author" : "Guena",
+    "name":  "FCSC 2019 StegDIY",
+    "dirname": "fcsc2019-crypto-steg-diy",
+    "techno": "crypto / elliptic curve",
+    "category": "fcsc_2019",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-steg-diy.git",
+    "type": "file",
+    "description": "Challenge fcsc2019-crypto-steg-diy de hackropole.fr"
   }
 ]
