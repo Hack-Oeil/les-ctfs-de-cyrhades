@@ -2,7 +2,7 @@
   {
     "id": "60",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Crayon Cochon",
+    "name": "Crayon Cochon",
     "dirname": "fcsc2019-crayon-cochon",
     "techno": "crypto",
     "category": "fcsc_2019",
@@ -15,7 +15,7 @@
   {
     "id": "61",
     "author" : "alx",
-    "name":  "FCSC 2019 Not so FAT",
+    "name": "Not so FAT",
     "dirname": "fcsc2019-forensics-not-so-fat",
     "techno": "forensic",
     "category": "fcsc_2019",
@@ -28,7 +28,7 @@
   {
     "id": "62",
     "author" : "alx",
-    "name":  "FCSC 2019 Petites Notes",
+    "name": "Petites Notes",
     "dirname": "fcsc2019-forensics-petites-notes",
     "techno": "forensic",
     "category": "fcsc_2019",
@@ -41,7 +41,7 @@
   {
     "id": "63",
     "author" : "ack",
-    "name":  "FCSC 2019 Scully 1",
+    "name": "Scully 1",
     "dirname": "fcsc2019-scully-1",
     "techno": "SQL",
     "category": "fcsc_2019",
@@ -54,7 +54,7 @@
   {
     "id": "64",
     "author" : "ack",
-    "name":  "FCSC 2019 StegCryptoDIY - PNG",
+    "name": "StegCryptoDIY - PNG",
     "dirname": "fcsc2019-crypto-steg-crypto-diy",
     "readme": "README_1_3.md",
     "techno": "crypto",
@@ -68,7 +68,7 @@
   {
     "id": "65",
     "author" : "ack",
-    "name":  "FCSC 2019 Vault",
+    "name": "Vault",
     "dirname": "fcsc2019-reverse-vault",
     "techno": "reverse",
     "category": "fcsc_2019",
@@ -81,7 +81,7 @@
   {
     "id": "66",
     "author" : "ack",
-    "name":  "FCSC 2019 ybab",
+    "name": "ybab",
     "dirname": "fcsc2019-reverse-ybab",
     "techno": "reverse",
     "category": "fcsc_2019",
@@ -94,7 +94,7 @@
   {
     "id": "67",
     "author" : "alx",
-    "name":  "FCSC 2019 103_spx",
+    "name": "103_spx",
     "dirname": "fcsc2019-forensics-103-spx",
     "techno": "SQL",
     "category": "fcsc_2019",
@@ -107,7 +107,7 @@
   {
     "id": "68",
     "author" : "ack",
-    "name":  "FCSC 2019 2tp",
+    "name": "2tp",
     "dirname": "fcsc2019-crypto-2tp",
     "techno": "crypto",
     "category": "fcsc_2019",
@@ -120,7 +120,7 @@
   {
     "id": "69",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Aarchibald",
+    "name": "Aarchibald",
     "dirname": "fcsc2019-pwn-aarchibald",
     "techno": "pwn",
     "category": "fcsc_2019",
@@ -133,7 +133,7 @@
   {
     "id": "70",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Amok",
+    "name": "Amok",
     "dirname": "fcsc2019-crypto-amok",
     "techno": "crypto",
     "category": "fcsc_2019",
@@ -146,7 +146,7 @@
   {
     "id": "71",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Armory",
+    "name": "Armory",
     "dirname": "fcsc2019-pwn-armory",
     "techno": "pwn",
     "category": "fcsc_2019",
@@ -159,7 +159,7 @@
   {
     "id": "72",
     "author" : "alx",
-    "name":  "FCSC 2019 3615 Incident 1/3",
+    "name": "3615 Incident 1/3",
     "dirname": "fcsc2019-forensics-3615-incident",
     "readme": "README_1_3.md",
     "files":  {
@@ -176,7 +176,7 @@
   {
     "id": "73",
     "author" : "alx",
-    "name":  "FCSC 2019 3615 Incident 2/3",
+    "name": "3615 Incident 2/3",
     "dirname": "fcsc2019-forensics-3615-incident",
     "readme": "README_2_3.md",
     "files":  {
@@ -193,7 +193,7 @@
   {
     "id": "74",
     "author" : "alx",
-    "name":  "FCSC 2019 3615 Incident 3/3",
+    "name": "3615 Incident 3/3",
     "dirname": "fcsc2019-forensics-3615-incident",
     "readme": "README_3_3.md",
     "files": {
@@ -211,7 +211,7 @@
   {
     "id": "75",
     "author" : "ack",
-    "name":  "FCSC 2019 CQFD",
+    "name": "CQFD",
     "dirname": "fcsc2019-crypto-cqfd",
     "techno": "réseau",
     "category": "fcsc_2019",
@@ -224,7 +224,7 @@
   {
     "id": "76",
     "author" : "Guena",
-    "name":  "FCSC 2019 Crypto DIY",
+    "name": "Crypto DIY",
     "dirname": "fcsc2019-crypto-crypto-diy",
     "techno": "forensics",
     "category": "fcsc_2019",
@@ -237,7 +237,7 @@
   {
     "id": "77",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Harmless",
+    "name": "Harmless",
     "dirname": "fcsc2019-pwn-harmless",
     "techno": "-",
     "category": "fcsc_2019",
@@ -250,7 +250,7 @@
   {
     "id": "78",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Hola Armigo",
+    "name": "Hola Armigo",
     "dirname": "fcsc2019-pwn-hola-armigo",
     "techno": "-",
     "category": "fcsc_2019",
@@ -263,7 +263,7 @@
   {
     "id": "79",
     "author" : "ack",
-    "name":  "FCSC 2019 m04r_s1gz",
+    "name": "m04r_s1gz",
     "dirname": "fcsc2019-crypto-m04r-s1gz",
     "techno": "-",
     "category": "fcsc_2019",
@@ -276,7 +276,7 @@
   {
     "id": "80",
     "author" : "Gabriel Compan",
-    "name":  "FCSC 2019 PHP Sandbox",
+    "name": "PHP Sandbox",
     "dirname": "fcsc2019-web-php-sandbox",
     "techno": "Web / PHP",
     "category": "fcsc_2019",
@@ -289,7 +289,7 @@
   {
     "id": "81",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 QR Code",
+    "name": "QR Code",
     "dirname": "fcsc2019-misc-qrcode",
     "techno": "misc",
     "category": "fcsc_2019",
@@ -302,7 +302,7 @@
   {
     "id": "82",
     "author" : "ack",
-    "name":  "FCSC 2019 Scully 2",
+    "name": "Scully 2",
     "dirname": "fcsc2019-scully-2",
     "techno": "Web / SQL",
     "category": "fcsc_2019",
@@ -315,7 +315,7 @@
   {
     "id": "83",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Alfred Hitchlock",
+    "name": "Alfred Hitchlock",
     "dirname": "fcsc2019-pwn-alfred-hitchlock",
     "techno": "pwn",
     "category": "fcsc_2019",
@@ -328,7 +328,7 @@
   {
     "id": "84",
     "author" : "ack",
-    "name":  "FCSC 2019 Build Your Own ECSC Team",
+    "name": "Build Your Own ECSC Team",
     "dirname": "fcsc2019-pwn-build-your-own-team",
     "techno": "pwn / heap",
     "category": "fcsc_2019",
@@ -341,7 +341,7 @@
   {
     "id": "85",
     "author" : "Gabriel Compan",
-    "name":  "FCSC 2019 Ceci n'est pas une pipe",
+    "name": "Ceci n'est pas une pipe",
     "dirname": "fcsc2019-web-ceci-n-est-pas-une-pipe",
     "techno": "Web / PHP",
     "category": "fcsc_2019",
@@ -354,7 +354,7 @@
   {
     "id": "86",
     "author" : "alx",
-    "name":  "FCSC 2019 Exfiltration",
+    "name": "Exfiltration",
     "dirname": "fcsc2019-forensics-exfiltration",
     "techno": "forensics / network",
     "category": "fcsc_2019",
@@ -367,7 +367,7 @@
   {
     "id": "87",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Factorial",
+    "name": "Factorial",
     "dirname": "fcsc2019-misc-factorial",
     "techno": "misc / algo",
     "category": "fcsc_2019",
@@ -380,7 +380,7 @@
   {
     "id": "88",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Hvítur Kassi 1",
+    "name": "Hvítur Kassi 1",
     "dirname": "fcsc2019-crypto-hvitur-kassi",
     "readme": "README_1_2.md",
     "techno": "crypto",
@@ -394,7 +394,7 @@
   {
     "id": "89",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Hvítur Kassi 2",
+    "name": "Hvítur Kassi 2",
     "dirname": "fcsc2019-crypto-hvitur-kassi",
     "readme": "README_2_2.md",
     "techno": "crypto",
@@ -408,7 +408,7 @@
   {
     "id": "90",
     "author" : "ack",
-    "name":  "FCSC 2019 StegCryptoDIY - RNG",
+    "name": "StegCryptoDIY - RNG",
     "dirname": "fcsc2019-crypto-steg-crypto-diy",
     "readme": "README_2_3.md",
     "techno": "crypto",
@@ -422,7 +422,7 @@
   {
     "id": "91",
     "author" : "ack",
-    "name":  "FCSC 2019 StegCryptoDIY - Final Boss",
+    "name": "StegCryptoDIY - Final Boss",
     "dirname": "fcsc2019-crypto-steg-crypto-diy",
     "readme": "README_3_3.md",
     "techno": "crypto",
@@ -436,7 +436,7 @@
   {
     "id": "92",
     "author" : "zma",
-    "name":  "FCSC 2019 jajaja",
+    "name": "jajaja",
     "dirname": "fcsc2019-web-jajaja",
     "techno": "Web / python",
     "category": "fcsc_2019",
@@ -449,7 +449,7 @@
   {
     "id": "93",
     "author" : "cld",
-    "name":  "FCSC 2019 Magasin à Secret",
+    "name": "Magasin à Secret",
     "dirname": "fcsc2019-reverse-magasin-a-secret",
     "techno": "reverse / linux / x86/x64",
     "category": "fcsc_2019",
@@ -462,7 +462,7 @@
   {
     "id": "94",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Petit Poucet",
+    "name": "Petit Poucet",
     "dirname": "fcsc2019-misc-petit-poucet",
     "techno": "misc / algo",
     "category": "fcsc_2019",
@@ -475,7 +475,7 @@
   {
     "id": "95",
     "author" : "alx",
-    "name":  "FCSC 2019 Take It Down",
+    "name": "Take It Down",
     "dirname": "fcsc2019-forensics-take-it-down",
     "techno": "forensics / network",
     "category": "fcsc_2019",
@@ -488,7 +488,7 @@
   {
     "id": "96",
     "author" : "sheidan",
-    "name":  "FCSC 2019 The Pytector",
+    "name": "The Pytector",
     "dirname": "fcsc2019-reverse-the-pytector",
     "techno": "reverse / windows / x86/x64",
     "category": "fcsc_2019",
@@ -501,7 +501,7 @@
   {
     "id": "97",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 protation",
+    "name": "protation",
     "dirname": "fcsc2019-misc-protation",
     "techno": "misc / algo",
     "category": "fcsc_2019",
@@ -514,7 +514,7 @@
   {
     "id": "98",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Secure Vault",
+    "name": "Secure Vault",
     "dirname": "fcsc2019-pwn-secure-vault",
     "techno": "pwn",
     "category": "fcsc_2019",
@@ -527,7 +527,7 @@
   {
     "id": "99",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 Weak RSA",
+    "name": "Weak RSA",
     "dirname": "fcsc2019-crypto-weak-rsa",
     "techno": "crypto / RSA",
     "category": "fcsc_2019",
@@ -540,7 +540,7 @@
   {
     "id": "100",
     "author" : "@cryptanalyse",
-    "name":  "FCSC 2019 RDRL",
+    "name": "RDRL",
     "dirname": "fcsc2019-crypto-rdrl",
     "techno": "crypto / symetric / LFSR",
     "category": "fcsc_2019",
@@ -553,7 +553,7 @@
   {
     "id": "101",
     "author" : "Olivier",
-    "name":  "FCSC 2019 Ariane",
+    "name": "Ariane",
     "dirname": "fcsc2019-reverse-ariane",
     "techno": "reverse / windows / x86/x64",
     "category": "fcsc_2019",
@@ -566,7 +566,7 @@
   {
     "id": "102",
     "author" : "Alternative",
-    "name":  "FCSC 2019 RScA",
+    "name": "RScA",
     "dirname": "fcsc2019-misc-rsca",
     "techno": "misc / hardware",
     "category": "fcsc_2019",
@@ -579,7 +579,7 @@
   {
     "id": "103",
     "author" : "Guena",
-    "name":  "FCSC 2019 StegDIY",
+    "name": "StegDIY",
     "dirname": "fcsc2019-crypto-steg-diy",
     "techno": "crypto / elliptic curve",
     "category": "fcsc_2019",
