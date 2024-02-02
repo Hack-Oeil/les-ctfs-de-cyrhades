@@ -654,5 +654,70 @@
     "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-cryptolocker-v2.git",
     "type": "file",
     "description": "Challenge fcsc2020-forensics-cryptolocker-v2 de hackropole.fr"
+  },
+  {
+    "id": "150",
+    "author": "Guena",
+    "name": "GroundRule",
+    "dirname": "fcsc2020-crypto-groundrule",
+    "techno": "crypto / elliptic / curve / linux / x86/x64",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "228827154d6d89a24bec09559bcf6a0875b865b396580cce473d052b93d7db32",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-groundrule.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-crypto-groundrule de hackropole.fr"
+  },
+  {
+    "id": "151",
+    "author": "Cryptanalyse",
+    "name": "Habemus Clavem Corrumpere",
+    "dirname": "fcsc2020-crypto-habemus-clavem-corrumpere",
+    "techno": "crypto / forensics / RSA",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-habemus-clavem-corrumpere.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-crypto-habemus-clavem-corrumpere de hackropole.fr"
+  },
+  {
+    "id": "152",
+    "author": "Cryptanalyse",
+    "name": "Hello Rootkitty",
+    "dirname": "fcsc2020-pwn-hello-rootkitty",
+    "techno": "pwn / kernel / x86/x64",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "ced67ea26fa54b7f7dec9d91c286b53b12eb492326167180267dd2d344531a33",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-hello-rootkitty.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-hello-rootkitty de hackropole.fr"
+  },
+  {
+    "id": "153",
+    "author": "Cryptanalyse",
+    "name": "Le Rustique",
+    "dirname": "fcsc2020-misc-le-rustique",
+    "techno": "misc",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "3d03b0444b4a361003b02f9f95349c75f14c5704bae5f37d1bd30d445a3fb6d5",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-misc-le-rustique.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-misc-le-rustique de hackropole.fr"
+  },
+  {
+    "id": "154",
+    "author": "Cryptanalyse",
+    "name": "Learning from Mistakes",
+    "dirname": "fcsc2020-crypto-learning-from-mistakes",
+    "techno": "crypto / post-quantum",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "e4f38da761a7c563ca45ae80dbfd96b6dc70cf6967c086ddeecdff836df9332a",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-learning-from-mistakes.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-crypto-learning-from-mistakes de hackropole.fr"
   }
 ]
