@@ -30,6 +30,15 @@ Vous pouvez lancer l'application en double cliquant sur **les-ctfs-de-cyrhades.j
 
 
 
+pour démarrer SOUS MAC 
+------------
+pour mettre à jour :
+> java -jar app.jar
+
+puis pour démarrer l'appli :
+> java -jar app.jar
+
+
 Dependances
 -----------
 🐋 Docker est indispensable pour les challenges dockerisés, comme c'est le cas pour les catégories WEB et Programmation.
