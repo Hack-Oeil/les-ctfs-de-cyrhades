@@ -67,34 +67,6 @@
   },
   {
     "id": "109",
-    "author": "alx",
-    "name": "Petite frappe 2/3",
-    "dirname": "fcsc2020-forensics-petite-frappe",
-    "readme": "README_2_3.md",
-    "techno": "forensics",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "3a351ca3fc1d64c0bfcf81c015cc2013e8753e552cc3f205cbf158ea5b5cb3c5",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-petite-frappe.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-forensics-petite-frappe-2 de hackropole.fr"
-  },
-  {
-    "id": "110",
-    "author": "alx",
-    "name": "Petite frappe 3/3",
-    "dirname": "fcsc2020-forensics-petite-frappe",
-    "readme": "README_3_3.md",
-    "techno": "forensics",
-    "category": "fcsc_2020",
-    "level": "2",
-    "flag_validation" : "-",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-petite-frappe.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-forensics-petite-frappe-3 de hackropole.fr"
-  },
-  {
-    "id": "111",
     "author": "@Cryptanalyse",
     "name": "Poney",
     "dirname": "fcsc2020-pwn-poney",
@@ -107,7 +79,7 @@
     "description": "Challenge fcsc2020-pwn-poney de hackropole.fr"
   },
   {
-    "id": "112",
+    "id": "110",
     "author": "@Cryptanalyse",
     "name": "Sbox",
     "dirname": "fcsc2020-hardware-sbox",
@@ -120,7 +92,7 @@
     "description": "Challenge fcsc2020-hardware-sbox de hackropole.fr"
   },
   {
-    "id": "113",
+    "id": "111",
     "author": "@Cryptanalyse",
     "name": "SMIC (1)",
     "dirname": "fcsc2020-crypto-smic-1",
@@ -133,7 +105,7 @@
     "description": "Challenge fcsc2020-crypto-smic-1 de hackropole.fr"
   },
   {
-    "id": "114",
+    "id": "112",
     "author": "@Cryptanalyse",
     "name": "SMIC (2)",
     "dirname": "fcsc2020-crypto-smic-2",
@@ -146,7 +118,7 @@
     "description": "Challenge fcsc2020-crypto-smic-2 de hackropole.fr"
   },
   {
-    "id": "115",
+    "id": "113",
     "author": "@Cryptanalyse",
     "name": "SuSHi",
     "dirname": "fcsc2020-misc-sushi",
@@ -159,7 +131,7 @@
     "description": "Challenge fcsc2020-misc-sushi de hackropole.fr"
   },
   {
-    "id": "116",
+    "id": "114",
     "author": "@Cryptanalyse",
     "name": "Tarte Tatin",
     "dirname": "fcsc2020-reverse-tarte-tatin",
@@ -172,7 +144,7 @@
     "description": "Challenge fcsc2020-reverse-tarte-tatin de hackropole.fr"
   },
   {
-    "id": "117",
+    "id": "115",
     "author": "alx",
     "name": "Académie de l'investigation - C'est la rentrée",
     "dirname": "fcsc2020-forensics-academie-de-l-investigation",
@@ -189,7 +161,345 @@
     "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-1 de hackropole.fr"
   },
   {
+    "id": "116",
+    "author": "alx",
+    "name": "Académie de l'investigation - Porte dérobée",
+    "dirname": "fcsc2020-forensics-academie-de-l-investigation",
+    "techno": "forensics / memory / linux",
+    "readme": "README_4_7.md",
+    "files": {
+      "dmp.mem.tar.xz": "https://hackropole.fr/filer/fcsc2020-forensics-academie-de-l-investigation/public_filer/dmp.mem.tar.xz"
+    },
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "2cf2ca9371cddfd9af7fa8aeaaf809fe41613355051318fecca663c300ccf15b",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-academie-de-l-investigation.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-4 de hackropole.fr"
+  },
+  {
+    "id": "117",
+    "author": "alx",
+    "name": "Académie de l'investigation - Premiers artéfacts",
+    "dirname": "fcsc2020-forensics-academie-de-l-investigation",
+    "techno": "forensics / memory / linux",
+    "readme": "README_3_7.md",
+    "files": {
+      "dmp.mem.tar.xz": "https://hackropole.fr/filer/fcsc2020-forensics-academie-de-l-investigation/public_filer/dmp.mem.tar.xz"
+    },
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "092cf06ba52e877f96c90c37fcdad3cf52ee8c46f5c071024c9ceba229dcaa94",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-academie-de-l-investigation.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-3 de hackropole.fr"
+  },
+  {
     "id": "118",
+    "author": "@Cryptanalyse",
+    "name": "Bugs Buggy Easy",
+    "dirname": "fcsc2020-crypto-bugs-buggy-easy",
+    "techno": "crypto / RSA",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "50baa665f6a71c7c7740b0a535870866a94efdcc0ee57042afbe25cdb018a31d",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-bugs-buggy-easy.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-crypto-bugs-buggy-easy de hackropole.fr"
+  },
+  {
+    "id": "119",
+    "author": "om",
+    "name": "Clepsydre",
+    "dirname": "fcsc2020-misc-clepsydre",
+    "techno": "misc",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "f5431cd041c210624281dad8acbd72490e5f3ac44587859de0246a866ce2c71a",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-misc-clepsydre.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-misc-clepsydre de hackropole.fr"
+  },
+  {
+    "id": "120",
+    "author": "haxom",
+    "name": "CryptoLocker v1",
+    "dirname": "fcsc2020-forensics-cryptolocker-v1",
+    "techno": "misc",
+    "files": {
+      "cryptolocker-v1.tar.xz": "https://hackropole.fr/filer/fcsc2020-forensics-cryptolocker-v1/public_filer/cryptolocker-v1.tar.xz"
+    },
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "8169db6f925ac9349cf568c654fa9420408aa867e9dd1731e68f98d05d94b9ae",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-cryptolocker-v1.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-forensics-cryptolocker-v1 de hackropole.fr"
+  },
+  {
+    "id": "121",
+    "author": "@Cryptanalyse",
+    "name": "Deterministic ECDSA",
+    "dirname": "fcsc2020-crypto-deterministic-ecdsa",
+    "techno": "crypto / elliptic curve",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "6c001c5bfe7ff849950c957c6e55b2a2e1c45291dc7e3d64edb7c90f14b4c737",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-deterministic-ecdsa.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-crypto-deterministic-ecdsa de hackropole.fr"
+  },
+  {
+    "id": "122",
+    "author": "@Cryptanalyse",
+    "name": "Encryptor 2000",
+    "dirname": "fcsc2020-crypto-encryptor2000",
+    "techno": "crypto / symmetric",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "0dad1755e152a04c2c7c81fd7b974b62a0afa8a88982e0b06323538c79486a83",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-encryptor2000.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-crypto-encryptor2000 de hackropole.fr"
+  },
+  {
+    "id": "123",
+    "author": "haxom",
+    "name": "Enter The Dungeon",
+    "dirname": "fcsc2020-web-enter-the-dungeon",
+    "techno": "web / PHP",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "7b675faa4deabbef8e261000cd9b47e447df28541cf6d2a0c80d28204ed73d03",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-enter-the-dungeon.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-enter-the-dungeon de hackropole.fr"
+  },
+  {
+    "id": "124",
+    "author": "lie",
+    "name": "Find Me",
+    "dirname": "fcsc2020-forensics-find-me",
+    "techno": "forensic / disk / linux",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "7237673a2dd812a95c6bbe6cfbf583a390cff574a2fc8d02d3eccdf33833b448",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-find-me.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-forensics-find-me de hackropole.fr"
+  },
+  {
+    "id": "125",
+    "author": "@Cryptanalyse",
+    "name": "Flag Checker",
+    "dirname": "fcsc2020-web-flag-checker-1",
+    "techno": "web / wasm",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "969028b305f23bbd46d1be50a467524204268bc2660e35ae87b17d872ab6f54b",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-flag-checker-1.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-flag-checker-1 de hackropole.fr"
+  },
+  {
+    "id": "126",
+    "author": "@Cryptanalyse",
+    "name": "FUSS 1",
+    "dirname": "fcsc2020-web-fuss-1",
+    "techno": "web / nodejs",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "88b5ba6578ac706bcf087232713b8f064f944b3a6ee0aa549c01fdc72db844bb",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-fuss-1.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-fuss-1 de hackropole.fr"
+  },
+  {
+    "id": "127",
+    "author": "alx",
+    "name": "Histoire sans fin 1/2",
+    "dirname": "fcsc2020-forensics-histoire-sans-fin",
+    "techno": "forensics / linux",
+    "category": "fcsc_2020",
+    "readme": "README_1_2.md",
+    "files": {
+      "access.log": "https://hackropole.fr/challenges/fcsc2020-forensics-histoire-sans-fin/public/access.log"
+    },
+    "level": "1",
+    "flag_validation" : "04c90c192d26e711edfef51704db0fce1305a19cbb035739e3e835890d530711",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-histoire-sans-fin.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-forensics-histoire-sans-fin-1 de hackropole.fr"
+  },
+  {
+    "id": "128",
+    "author": "alx",
+    "name": "Histoire sans fin 2/2",
+    "dirname": "fcsc2020-forensics-histoire-sans-fin",
+    "techno": "forensics",
+    "category": "fcsc_2020",
+    "readme": "README_2_2.md",
+    "files": {
+      "access.log": "https://hackropole.fr/challenges/fcsc2020-forensics-histoire-sans-fin/public/access.log"
+    },
+    "level": "1",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-histoire-sans-fin.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-forensics-histoire-sans-fin-2 de hackropole.fr"
+  },
+  {
+    "id": "129",
+    "author": "protoz",
+    "name": "Infiltrate",
+    "dirname": "fcsc2020-reverse-infiltrate",
+    "techno": "forensics",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "a9050ec746878069fc71dead3eaadd00d417b59c378c78516e99e177de597555",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-reverse-infiltrate.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-reverse-infiltrate de hackropole.fr"
+  },
+  {
+    "id": "130",
+    "author": "ElyKar",
+    "name": "NECessIR",
+    "dirname": "fcsc2020-hardware-necessir",
+    "techno": "hardware / radio",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "74ba89948b6fd6927b22c5c96bd923e557acf57bc027378a6c49e72f8c94f603",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-hardware-necessir.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-hardware-necessir de hackropole.fr"
+  },
+  {
+    "id": "131",
+    "author": "@Cryptanalyse",
+    "name": "Patchinko",
+    "dirname": "fcsc2020-pwn-patchinko",
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "d2e6e00eb43a92ac0b9f1da73c49dcf5206257e0abc76da333d299be88b2a667",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-patchinko.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-patchinko de hackropole.fr"
+  },
+  {
+    "id": "132",
+    "author": "@Cryptanalyse",
+    "name": "Pépin",
+    "dirname": "fcsc2020-pwn-pepin",
+    "techno": "pwn / kernel / x86/x64",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "1c329fdb54708a4c206ebac4d37709255061f8db1ffdc76d1568286f71dda568",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-pepin.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-pepin de hackropole.fr"
+  },
+  {
+    "id": "133",
+    "author": "alx",
+    "name": "Petite frappe 2/3",
+    "dirname": "fcsc2020-forensics-petite-frappe",
+    "readme": "README_2_3.md",
+    "techno": "forensics",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "3a351ca3fc1d64c0bfcf81c015cc2013e8753e552cc3f205cbf158ea5b5cb3c5",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-petite-frappe.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-forensics-petite-frappe-2 de hackropole.fr"
+  },
+  {
+    "id": "134",
+    "author": "David / @Cryptanalyse",
+    "name": "Quarantaine",
+    "dirname": "fcsc2020-hardware-quarantaine",
+    "techno": "hardware",
+    "category": "fcsc_2020",
+    "level": "1",
+    "files": {
+      "circuit.pdf": "https://hackropole.fr/challenges/fcsc2020-hardware-quarantaine/public/circuit.pdf"
+    },
+    "flag_validation" : "9bb649092aafc03bde93132ff4761f8aeef91d9be8304634981018c2079dc1c3",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-hardware-quarantaine.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-hardware-quarantaine de hackropole.fr"
+  },
+  {
+    "id": "135",
+    "author": "@Cryptanalyse",
+    "name": "Rainbow Pages 1",
+    "dirname": "fcsc2020-web-rainbow-pages-1",
+    "techno": "web / graphql",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "1c6ca994c08b1e8a169c6c5f43896b8bd95635945df3d7b2321d8eaf95a96b33",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-rainbow-pages-1.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-rainbow-pages-1 de hackropole.fr"
+  },
+  {
+    "id": "136",
+    "author": "@Cryptanalyse",
+    "name": "Randomito",
+    "dirname": "fcsc2020-misc-randomito",
+    "techno": "misc",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "2d587e8b3e8429afe2f35c6699d6fb15c6c66dbd6df5a4f483bf1d5ebfd60481",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-misc-randomito.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-misc-randomito de hackropole.fr"
+  },
+  {
+    "id": "137",
+    "author": "om",
+    "name": "Revision",
+    "dirname": "fcsc2020-web-revision",
+    "techno": "web / crypto",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "7496ff8f5df1fbe274a15e201897a3ebb3beb3e74ff7c86c7782ec2a3b05a7e0",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-revision.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-revision de hackropole.fr"
+  },
+  {
+    "id": "138",
+    "author": "@Cryptanalyse",
+    "name": "Serial Keyler",
+    "dirname": "fcsc2020-reverse-serial-keyler",
+    "techno": "reverse / linux / x86/x64",
+    "category": "fcsc_2020",
+    "level": "1",
+    "files": {
+      "SerialKeyler": "https://hackropole.fr/challenges/fcsc2020-reverse-serial-keyler/public/SerialKeyler"
+    },
+    "flag_validation" : "105c785bf658c46c2215fb4a433b8c227a7955ee3f6b2a3a25ee7c9d5d8bdcee",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-reverse-serial-keyler.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-reverse-serial-keyler de hackropole.fr"
+  },
+  {
+    "id": "139",
+    "author": "haxom",
+    "name": "Shuffle Shop",
+    "dirname": "fcsc2020-web-shuffle-shop",
+    "techno": "web / php / crypto",
+    "category": "fcsc_2020",
+    "level": "1",
+    "flag_validation" : "c44197f6b470b204766b62986e317ea6a9a7f8b34f3b11a708bba89f6104da63",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-shuffle-shop.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-shuffle-shop de hackropole.fr"
+  },
+  {
+    "id": "140",
     "author": "alx",
     "name": "Académie de l'investigation - Administration",
     "dirname": "fcsc2020-forensics-academie-de-l-investigation",
@@ -207,58 +517,7 @@
     "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-2 de hackropole.fr"
   },
   {
-    "id": "119",
-    "author": "alx",
-    "name": "Académie de l'investigation - Premiers artéfacts",
-    "dirname": "fcsc2020-forensics-academie-de-l-investigation",
-    "techno": "forensics / memory / linux",
-    "readme": "README_3_7.md",
-    "files": {
-      "dmp.mem.tar.xz": "https://hackropole.fr/filer/fcsc2020-forensics-academie-de-l-investigation/public_filer/dmp.mem.tar.xz"
-    },
-    "category": "fcsc_2020",
-    "level": "2",
-    "flag_validation" : "092cf06ba52e877f96c90c37fcdad3cf52ee8c46f5c071024c9ceba229dcaa94",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-academie-de-l-investigation.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-3 de hackropole.fr"
-  },
-  {
-    "id": "120",
-    "author": "alx",
-    "name": "Académie de l'investigation - Porte dérobée",
-    "dirname": "fcsc2020-forensics-academie-de-l-investigation",
-    "techno": "forensics / memory / linux",
-    "readme": "README_4_7.md",
-    "files": {
-      "dmp.mem.tar.xz": "https://hackropole.fr/filer/fcsc2020-forensics-academie-de-l-investigation/public_filer/dmp.mem.tar.xz"
-    },
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "2cf2ca9371cddfd9af7fa8aeaaf809fe41613355051318fecca663c300ccf15b",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-academie-de-l-investigation.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-4 de hackropole.fr"
-  },
-  {
-    "id": "121",
-    "author": "alx",
-    "name": "Académie de l'investigation - Rédaction",
-    "dirname": "fcsc2020-forensics-academie-de-l-investigation",
-    "techno": "forensics / memory / linux",
-    "readme": "README_5_7.md",
-    "files": {
-      "dmp.mem.tar.xz": "https://hackropole.fr/filer/fcsc2020-forensics-academie-de-l-investigation/public_filer/dmp.mem.tar.xz"
-    },
-    "category": "fcsc_2020",
-    "level": "2",
-    "flag_validation" : "47f2ec9829a29b834209368c107105e652835a2efc745a1ca0bcb7e6e36f7a76",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-academie-de-l-investigation.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-5 de hackropole.fr"
-  },
-  {
-    "id": "122",
+    "id": "141",
     "author": "alx",
     "name": "Académie de l'investigation - Partage",
     "dirname": "fcsc2020-forensics-academie-de-l-investigation",
@@ -275,327 +534,24 @@
     "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-6 de hackropole.fr"
   },
   {
-    "id": "123",
+    "id": "142",
     "author": "alx",
-    "name": "Académie de l'investigation - Dans les nuages",
+    "name": "Académie de l'investigation - Rédaction",
     "dirname": "fcsc2020-forensics-academie-de-l-investigation",
     "techno": "forensics / memory / linux",
-    "readme": "README_7_7.md",
+    "readme": "README_5_7.md",
     "files": {
       "dmp.mem.tar.xz": "https://hackropole.fr/filer/fcsc2020-forensics-academie-de-l-investigation/public_filer/dmp.mem.tar.xz"
     },
     "category": "fcsc_2020",
-    "level": "3",
-    "flag_validation" : "9c2c87565b8d9bef3de565b96a6d43ec4f983a510ba7c2ef78ac0f7f2137f6be",
+    "level": "2",
+    "flag_validation" : "47f2ec9829a29b834209368c107105e652835a2efc745a1ca0bcb7e6e36f7a76",
     "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-academie-de-l-investigation.git",
     "type": "file",
-    "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-7 de hackropole.fr"
-  },
-  {
-    "id": "124",
-    "author": "@Cryptanalyse",
-    "name": "Bugs Buggy Easy",
-    "dirname": "fcsc2020-crypto-bugs-buggy-easy",
-    "techno": "crypto / RSA",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "50baa665f6a71c7c7740b0a535870866a94efdcc0ee57042afbe25cdb018a31d",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-bugs-buggy-easy.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-crypto-bugs-buggy-easy de hackropole.fr"
-  },
-  {
-    "id": "125",
-    "author": "om",
-    "name": "Clepsydre",
-    "dirname": "fcsc2020-misc-clepsydre",
-    "techno": "misc",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "f5431cd041c210624281dad8acbd72490e5f3ac44587859de0246a866ce2c71a",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-misc-clepsydre.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-misc-clepsydre de hackropole.fr"
-  },
-  {
-    "id": "126",
-    "author": "haxom",
-    "name": "CryptoLocker v1",
-    "dirname": "fcsc2020-forensics-cryptolocker-v1",
-    "techno": "misc",
-    "files": {
-      "cryptolocker-v1.tar.xz": "https://hackropole.fr/filer/fcsc2020-forensics-cryptolocker-v1/public_filer/cryptolocker-v1.tar.xz"
-    },
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "8169db6f925ac9349cf568c654fa9420408aa867e9dd1731e68f98d05d94b9ae",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-cryptolocker-v1.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-forensics-cryptolocker-v1 de hackropole.fr"
-  },
-  {
-    "id": "127",
-    "author": "@Cryptanalyse",
-    "name": "Deterministic ECDSA",
-    "dirname": "fcsc2020-crypto-deterministic-ecdsa",
-    "techno": "crypto / elliptic curve",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "6c001c5bfe7ff849950c957c6e55b2a2e1c45291dc7e3d64edb7c90f14b4c737",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-deterministic-ecdsa.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-crypto-deterministic-ecdsa de hackropole.fr"
-  },
-  {
-    "id": "128",
-    "author": "@Cryptanalyse",
-    "name": "Encryptor 2000",
-    "dirname": "fcsc2020-crypto-encryptor2000",
-    "techno": "crypto / symmetric",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "0dad1755e152a04c2c7c81fd7b974b62a0afa8a88982e0b06323538c79486a83",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-encryptor2000.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-crypto-encryptor2000 de hackropole.fr"
-  },
-  {
-    "id": "129",
-    "author": "haxom",
-    "name": "Enter The Dungeon",
-    "dirname": "fcsc2020-web-enter-the-dungeon",
-    "techno": "web / PHP",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "7b675faa4deabbef8e261000cd9b47e447df28541cf6d2a0c80d28204ed73d03",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-enter-the-dungeon.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-web-enter-the-dungeon de hackropole.fr"
-  },
-  {
-    "id": "130",
-    "author": "lie",
-    "name": "Find Me",
-    "dirname": "fcsc2020-forensics-find-me",
-    "techno": "forensic / disk / linux",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "7237673a2dd812a95c6bbe6cfbf583a390cff574a2fc8d02d3eccdf33833b448",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-find-me.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-forensics-find-me de hackropole.fr"
-  },
-  {
-    "id": "131",
-    "author": "@Cryptanalyse",
-    "name": "Flag Checker",
-    "dirname": "fcsc2020-web-flag-checker-1",
-    "techno": "web / wasm",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "969028b305f23bbd46d1be50a467524204268bc2660e35ae87b17d872ab6f54b",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-flag-checker-1.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-web-flag-checker-1 de hackropole.fr"
-  },
-  {
-    "id": "132",
-    "author": "@Cryptanalyse",
-    "name": "FUSS 1",
-    "dirname": "fcsc2020-web-fuss-1",
-    "techno": "web / nodejs",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "88b5ba6578ac706bcf087232713b8f064f944b3a6ee0aa549c01fdc72db844bb",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-fuss-1.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-web-fuss-1 de hackropole.fr"
-  },
-  {
-    "id": "133",
-    "author": "@Cryptanalyse",
-    "name": "FUSS 2",
-    "dirname": "fcsc2020-web-fuss-2",
-    "techno": "web / nodejs",
-    "category": "fcsc_2020",
-    "level": "2",
-    "flag_validation" : "da07987d12ba2568b37bdd28b1ff67aad35e10fed9af216f808a25a890316842",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-fuss-2.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-web-fuss-2 de hackropole.fr"
-  },
-  {
-    "id": "134",
-    "author": "@Cryptanalyse",
-    "name": "FUSS 3",
-    "dirname": "fcsc2020-web-fuss-3",
-    "techno": "web / nodejs",
-    "category": "fcsc_2020",
-    "level": "3",
-    "flag_validation" : "a8a16b440a9d2bd24a37a8d8d44f6eb1f86d64886726e77b485d4fe0244f612d",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-fuss-3.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-web-fuss-3 de hackropole.fr"
-  },
-  {
-    "id": "135",
-    "author": "alx",
-    "name": "Histoire sans fin 1/2",
-    "dirname": "fcsc2020-forensics-histoire-sans-fin",
-    "techno": "forensics / linux",
-    "category": "fcsc_2020",
-    "readme": "README_1_2.md",
-    "files": {
-      "access.log": "https://hackropole.fr/challenges/fcsc2020-forensics-histoire-sans-fin/public/access.log"
-    },
-    "level": "1",
-    "flag_validation" : "04c90c192d26e711edfef51704db0fce1305a19cbb035739e3e835890d530711",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-histoire-sans-fin.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-forensics-histoire-sans-fin-1 de hackropole.fr"
-  },
-  {
-    "id": "136",
-    "author": "alx",
-    "name": "Histoire sans fin 2/2",
-    "dirname": "fcsc2020-forensics-histoire-sans-fin",
-    "techno": "forensics",
-    "category": "fcsc_2020",
-    "readme": "README_2_2.md",
-    "files": {
-      "access.log": "https://hackropole.fr/challenges/fcsc2020-forensics-histoire-sans-fin/public/access.log"
-    },
-    "level": "1",
-    "flag_validation" : "-",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-histoire-sans-fin.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-forensics-histoire-sans-fin-2 de hackropole.fr"
-  },
-  {
-    "id": "137",
-    "author": "protoz",
-    "name": "Infiltrate",
-    "dirname": "fcsc2020-reverse-infiltrate",
-    "techno": "forensics",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "a9050ec746878069fc71dead3eaadd00d417b59c378c78516e99e177de597555",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-reverse-infiltrate.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-reverse-infiltrate de hackropole.fr"
-  },
-  {
-    "id": "138",
-    "author": "ElyKar",
-    "name": "NECessIR",
-    "dirname": "fcsc2020-hardware-necessir",
-    "techno": "hardware / radio",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "74ba89948b6fd6927b22c5c96bd923e557acf57bc027378a6c49e72f8c94f603",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-hardware-necessir.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-hardware-necessir de hackropole.fr"
-  },
-  {
-    "id": "139",
-    "author": "@Cryptanalyse",
-    "name": "Patchinko",
-    "dirname": "fcsc2020-pwn-patchinko",
-    "techno": "pwn / x86/x64",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "d2e6e00eb43a92ac0b9f1da73c49dcf5206257e0abc76da333d299be88b2a667",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-patchinko.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-pwn-patchinko de hackropole.fr"
-  },
-  {
-    "id": "140",
-    "author": "@Cryptanalyse",
-    "name": "Pépin",
-    "dirname": "fcsc2020-pwn-pepin",
-    "techno": "pwn / kernel / x86/x64",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "1c329fdb54708a4c206ebac4d37709255061f8db1ffdc76d1568286f71dda568",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-pepin.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-pwn-pepin de hackropole.fr"
-  },
-  {
-    "id": "141",
-    "author": "David / @Cryptanalyse",
-    "name": "Quarantaine",
-    "dirname": "fcsc2020-hardware-quarantaine",
-    "techno": "hardware",
-    "category": "fcsc_2020",
-    "level": "1",
-    "files": {
-      "circuit.pdf": "https://hackropole.fr/challenges/fcsc2020-hardware-quarantaine/public/circuit.pdf"
-    },
-    "flag_validation" : "9bb649092aafc03bde93132ff4761f8aeef91d9be8304634981018c2079dc1c3",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-hardware-quarantaine.git",
-    "type": "file",
-    "description": "Challenge fcsc2020-hardware-quarantaine de hackropole.fr"
-  },
-  {
-    "id": "142",
-    "author": "@Cryptanalyse",
-    "name": "Randomito",
-    "dirname": "fcsc2020-misc-randomito",
-    "techno": "misc",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "2d587e8b3e8429afe2f35c6699d6fb15c6c66dbd6df5a4f483bf1d5ebfd60481",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-misc-randomito.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-misc-randomito de hackropole.fr"
+    "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-5 de hackropole.fr"
   },
   {
     "id": "143",
-    "author": "om",
-    "name": "Revision",
-    "dirname": "fcsc2020-web-revision",
-    "techno": "web / crypto",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "7496ff8f5df1fbe274a15e201897a3ebb3beb3e74ff7c86c7782ec2a3b05a7e0",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-revision.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-web-revision de hackropole.fr"
-  },
-  {
-    "id": "144",
-    "author": "@Cryptanalyse",
-    "name": "Serial Keyler",
-    "dirname": "fcsc2020-reverse-serial-keyler",
-    "techno": "reverse / linux / x86/x64",
-    "category": "fcsc_2020",
-    "level": "1",
-    "files": {
-      "SerialKeyler": "https://hackropole.fr/challenges/fcsc2020-reverse-serial-keyler/public/SerialKeyler"
-    },
-    "flag_validation" : "105c785bf658c46c2215fb4a433b8c227a7955ee3f6b2a3a25ee7c9d5d8bdcee",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-reverse-serial-keyler.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-reverse-serial-keyler de hackropole.fr"
-  },
-  {
-    "id": "145",
-    "author": "haxom",
-    "name": "Shuffle Shop",
-    "dirname": "fcsc2020-web-shuffle-shop",
-    "techno": "web / php / crypto",
-    "category": "fcsc_2020",
-    "level": "1",
-    "flag_validation" : "c44197f6b470b204766b62986e317ea6a9a7f8b34f3b11a708bba89f6104da63",
-    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-shuffle-shop.git",
-    "type": "docker",
-    "description": "Challenge fcsc2020-web-shuffle-shop de hackropole.fr"
-  },
-  {
-    "id": "146",
     "author": "haxom",
     "name": "Bestiary",
     "dirname": "fcsc2020-web-bestiary",
@@ -608,7 +564,7 @@
     "description": "Challenge fcsc2020-web-bestiary de hackropole.fr"
   },
   {
-    "id": "147",
+    "id": "144",
     "author": "alx",
     "name": "Chapardeur de mots de passe",
     "dirname": "fcsc2020-forensics-chapardeur-de-mots-de-passe",
@@ -624,7 +580,7 @@
     "description": "Challenge fcsc2020-forensics-chapardeur-de-mots-de-passe de hackropole.fr"
   },
   {
-    "id": "148",
+    "id": "145",
     "author": "sheidan",
     "name": "Coq en Stock",
     "dirname": "fcsc2020-misc-coq-en-stock",
@@ -640,7 +596,7 @@
     "description": "Challenge fcsc2020-misc-coq-en-stock de hackropole.fr"
   },
   {
-    "id": "149",
+    "id": "146",
     "author": "haxom",
     "name": "CryptoLocker v2",
     "dirname": "fcsc2020-forensics-cryptolocker-v2",
@@ -656,7 +612,20 @@
     "description": "Challenge fcsc2020-forensics-cryptolocker-v2 de hackropole.fr"
   },
   {
-    "id": "150",
+    "id": "147",
+    "author": "@Cryptanalyse",
+    "name": "FUSS 2",
+    "dirname": "fcsc2020-web-fuss-2",
+    "techno": "web / nodejs",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "da07987d12ba2568b37bdd28b1ff67aad35e10fed9af216f808a25a890316842",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-fuss-2.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-fuss-2 de hackropole.fr"
+  },
+  {
+    "id": "148",
     "author": "Guena",
     "name": "GroundRule",
     "dirname": "fcsc2020-crypto-groundrule",
@@ -669,8 +638,8 @@
     "description": "Challenge fcsc2020-crypto-groundrule de hackropole.fr"
   },
   {
-    "id": "151",
-    "author": "Cryptanalyse",
+    "id": "149",
+    "author": "@Cryptanalyse",
     "name": "Habemus Clavem Corrumpere",
     "dirname": "fcsc2020-crypto-habemus-clavem-corrumpere",
     "techno": "crypto / forensics / RSA",
@@ -682,8 +651,8 @@
     "description": "Challenge fcsc2020-crypto-habemus-clavem-corrumpere de hackropole.fr"
   },
   {
-    "id": "152",
-    "author": "Cryptanalyse",
+    "id": "150",
+    "author": "@Cryptanalyse",
     "name": "Hello Rootkitty",
     "dirname": "fcsc2020-pwn-hello-rootkitty",
     "techno": "pwn / kernel / x86/x64",
@@ -695,8 +664,8 @@
     "description": "Challenge fcsc2020-pwn-hello-rootkitty de hackropole.fr"
   },
   {
-    "id": "153",
-    "author": "Cryptanalyse",
+    "id": "151",
+    "author": "@Cryptanalyse",
     "name": "Le Rustique",
     "dirname": "fcsc2020-misc-le-rustique",
     "techno": "misc",
@@ -708,8 +677,8 @@
     "description": "Challenge fcsc2020-misc-le-rustique de hackropole.fr"
   },
   {
-    "id": "154",
-    "author": "Cryptanalyse",
+    "id": "152",
+    "author": "@Cryptanalyse",
     "name": "Learning from Mistakes",
     "dirname": "fcsc2020-crypto-learning-from-mistakes",
     "techno": "crypto / post-quantum",
@@ -719,5 +688,404 @@
     "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-learning-from-mistakes.git",
     "type": "docker",
     "description": "Challenge fcsc2020-crypto-learning-from-mistakes de hackropole.fr"
+  },
+  {
+    "id": "153",
+    "author": "@Cryptanalyse",
+    "name": "Lipogrammeurs",
+    "dirname": "fcsc2020-web-lipogrammeurs",
+    "techno": "web / php",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "fc142ee32cf19dd945eac8a4a2d8204267999b20c73fd2c246b95edcdd838365",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-lipogrammeurs.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-lipogrammeurs de hackropole.fr"
+  },
+  {
+    "id": "154",
+    "author": "lok",
+    "name": "Macaron",
+    "dirname": "fcsc2020-crypto-macaron",
+    "techno": "crypto / symmetric",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "a718e9af53b40e58bc84afc3a173142807c4ba7e227848fecf6b431293c56c48",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-macaron.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-crypto-macaron de hackropole.fr"
+  },
+  {
+    "id": "155",
+    "author": "@Cryptanalyse",
+    "name": "Mazopotamia",
+    "dirname": "fcsc2020-misc-mazopotamia",
+    "techno": "misc / algo",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "a42c4b15df6aa51b6c39ba7eb8779498c141ee64bbe686d3f38e03ea16f30931",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-misc-mazopotamia.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-misc-mazopotamia de hackropole.fr"
+  },
+  {
+    "id": "156",
+    "author": "Mélissa",
+    "name": "Merry",
+    "dirname": "fcsc2020-crypto-merry",
+    "techno": "crypto / post-quantum",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "3d753c605ddb1d1196469a9eeec5891f707f9a7b4210fa47ca4863d672931ad3",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-merry.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-crypto-merry de hackropole.fr"
+  },
+  {
+    "id": "157",
+    "author": "@Cryptanalyse",
+    "name": "Nightwish",
+    "dirname": "fcsc2020-reverse-nightwish",
+    "techno": "reverse / windows / x86/x64 / keygenme",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "6904ad74009737dd0f5f79fe761628af56970d6fea82fc77597f6e183149d897",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-reverse-nightwish.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-reverse-nightwish de hackropole.fr"
+  },
+  {
+    "id": "158",
+    "author": "alx",
+    "name": "Petite frappe 3/3",
+    "dirname": "fcsc2020-forensics-petite-frappe",
+    "readme": "README_3_3.md",
+    "techno": "forensics",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-petite-frappe.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-forensics-petite-frappe-3 de hackropole.fr"
+  },
+  {
+    "id": "159",
+    "author": "Mélissa",
+    "name": "Pippin",
+    "dirname": "fcsc2020-crypto-pippin",
+    "techno": "crypto / post-quantum",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "74796969b0619432fbc8e903fc18906b3c2955ba028d2e7e529c7978cf415698",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-pippin.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-crypto-pippin de hackropole.fr"
+  },
+  {
+    "id": "160",
+    "author": "@Cryptanalyse",
+    "name": "Plouf Plouf",
+    "dirname": "fcsc2020-pwn-plouf-plouf",
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "e9ff401d35e5c0402dc03625b2a88b6c348e3dfdb7ea400adb0215f889155207",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-plouf-plouf.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-plouf-plouf de hackropole.fr"
+  },
+  {
+    "id": "161",
+    "author": "ElyKar",
+    "name": "RaDio Suspecte",
+    "dirname": "fcsc2020-hardware-radio-suspecte",
+    "files": {
+      "capture.iq": "https://hackropole.fr/filer/fcsc2020-hardware-radio-suspecte/public_filer/capture.iq"
+    },
+    "techno": "hardware / radio",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "242907d3ea944d647ccb93e59451e25f02162e2b8e51253e53850c9bfd4b7091",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-hardware-radio-suspecte.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-hardware-radio-suspecte de hackropole.fr"
+  },
+  {
+    "id": "162",
+    "author": "@Cryptanalyse",
+    "name": "Risky Business",
+    "dirname": "fcsc2020-pwn-risky-business",
+    "techno": "pwn / risc-v",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "7026789d5cd7a6c88ef12efc5c22c918c9b79806566e29a42d76fe6f02a134ed",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-risky-business.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-risky-business de hackropole.fr"
+  },
+  {
+    "id": "163",
+    "author": "@Cryptanalyse",
+    "name": "Slowppiness",
+    "dirname": "fcsc2020-reverse-slowppiness",
+    "files": {
+      "slowppiness": "https://hackropole.fr/challenges/fcsc2020-reverse-slowppiness/public/slowppiness",
+      "data16.u32": "https://hackropole.fr/challenges/fcsc2020-reverse-slowppiness/public/data16.u32",
+      "data128.u32": "https://hackropole.fr/challenges/fcsc2020-reverse-slowppiness/public/data128.u32",
+      "data256.u32": "https://hackropole.fr/challenges/fcsc2020-reverse-slowppiness/public/data256.u32",
+      "data4096.u32": "https://hackropole.fr/challenges/fcsc2020-reverse-slowppiness/public/data4096.u32"
+    },
+    "techno": "reverse / algo / linux / x86/x64",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-reverse-slowppiness.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-reverse-slowppiness de hackropole.fr"
+  },
+  {
+    "id": "164",
+    "author": "ElyKar",
+    "name": "Un contrôleur sCANdALeux",
+    "dirname": "fcsc2020-hardware-un-controleur-scandaleux",
+    "techno": "pwn / risc-v",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-hardware-un-controleur-scandaleux.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-hardware-un-controleur-scandaleux de hackropole.fr"
+  },
+  {
+    "id": "165",
+    "author": "sheidan",
+    "name": "Why not a Sandbox",
+    "dirname": "fcsc2020-pwn-why-not-a-sandbox",
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-why-not-a-sandbox.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-why-not-a-sandbox de hackropole.fr"
+  },
+  {
+    "id": "166",
+    "author": "@Cryptanalyse",
+    "name": "Xoring Networks (Baby)",
+    "dirname": "fcsc2020-misc-xoring-networks-baby",
+    "techno": "misc / algo",
+    "category": "fcsc_2020",
+    "level": "2",
+    "flag_validation" : "060365a42ed466599b56b12abde9783ad76075ad7b8f1cd606008ad443bade91",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-misc-xoring-networks-baby.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-misc-xoring-networks-baby de hackropole.fr"
+  },
+  {
+    "id": "167",
+    "author": "alx",
+    "name": "Académie de l'investigation - Dans les nuages",
+    "dirname": "fcsc2020-forensics-academie-de-l-investigation",
+    "techno": "forensics / memory / linux",
+    "readme": "README_7_7.md",
+    "files": {
+      "dmp.mem.tar.xz": "https://hackropole.fr/filer/fcsc2020-forensics-academie-de-l-investigation/public_filer/dmp.mem.tar.xz"
+    },
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "9c2c87565b8d9bef3de565b96a6d43ec4f983a510ba7c2ef78ac0f7f2137f6be",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-forensics-academie-de-l-investigation.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-forensics-academie-de-l-investigation-7 de hackropole.fr"
+  },
+
+  {
+    "id": "168",
+    "author": "nop",
+    "name": "BASHi Bouzouk",
+    "dirname": "fcsc2020-pwn-bashi-bouzouk",
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "76cb2ddb782af1b6e15f73fe623e1a0f33716ebbc0aca2ae7f3afee510f69be3",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-bashi-bouzouk.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-bashi-bouzouk de hackropole.fr"
+  },
+  {
+    "id": "169",
+    "author": "ElyKar",
+    "name": "Bluetooth Low Energy",
+    "dirname": "fcsc2020-hardware-bluetooth-low-energy",
+    "files": {
+      "ble.sig": "https://hackropole.fr/challenges/fcsc2020-hardware-bluetooth-low-energy/public/ble.sig",
+      "gr_waterfall_tuto.png": "https://hackropole.fr/challenges/fcsc2020-hardware-bluetooth-low-energy/public/gr_waterfall_tuto.png"
+    },
+    "techno": "hardware / radio",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-hardware-bluetooth-low-energy.git",
+    "type": "file",
+    "description": "Challenge fcsc2020-hardware-bluetooth-low-energy de hackropole.fr"
+  },
+  {
+    "id": "170",
+    "author": "@Cryptanalyse",
+    "name": "Bugs Buggy",
+    "dirname": "fcsc2020-crypto-bugs-buggy",
+    "techno": "crypto / reverse / RSA / linux / x86/x64",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "ae696d21ea3b40c352040144798590cd34eb09846d75270f60bf7e337e616d4b",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-crypto-bugs-buggy.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-crypto-bugs-buggy de hackropole.fr"
+  },
+  {
+    "id": "171",
+    "author": "@Cryptanalyse",
+    "name": "Flag Checker 2",
+    "dirname": "fcsc2020-reverse-flag-checker-2",
+    "techno": "reverse / crypto / wasm",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-reverse-flag-checker-2.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-reverse-flag-checker-2 de hackropole.fr"
+  },
+  {
+    "id": "172",
+    "author": "@Cryptanalyse",
+    "name": "FUSS 3",
+    "dirname": "fcsc2020-web-fuss-3",
+    "techno": "web / nodejs",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "a8a16b440a9d2bd24a37a8d8d44f6eb1f86d64886726e77b485d4fe0244f612d",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-fuss-3.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-fuss-3 de hackropole.fr"
+  },
+  {
+    "id": "173",
+    "author": "@Cryptanalyse",
+    "name": "Hello Rootkitty (Harder)",
+    "dirname": "fcsc2020-pwn-hello-rootkitty-harder",
+    "files": {
+      "bzImage": "https://hackropole.fr/challenges/fcsc2020-pwn-hello-rootkitty-harder/public/bzImage",
+      "initramfs.example.cpio": "https://hackropole.fr/challenges/fcsc2020-pwn-hello-rootkitty-harder/public/initramfs.example.cpio",
+      "ecsc.ko": "https://hackropole.fr/challenges/fcsc2020-pwn-hello-rootkitty-harder/public/ecsc.ko"
+    },
+    "techno": "pwn / kernel / x86/x64",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-hello-rootkitty-harder.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-hello-rootkitty-harder de hackropole.fr"
+  },
+  {
+    "id": "174",
+    "author": "@Cryptanalyse",
+    "name": "IT Security 101",
+    "dirname": "fcsc2020-misc-it-security",
+    "files": {
+      "message.tex": "https://hackropole.fr/challenges/fcsc2020-misc-it-security-101/public/message.tex",
+      "message.pdf": "https://hackropole.fr/challenges/fcsc2020-misc-it-security-101/public/message.pdf",
+      "flag.pdf": "https://hackropole.fr/challenges/fcsc2020-misc-it-security-101/public/flag.pdf"
+    },
+    "techno": "misc",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "1a802517886c80e9269ab63ce8077d348aeeb560e328bfb87823d0f5adbb53c1",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-misc-it-security.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-misc-it-security-101 de hackropole.fr"
+  },
+  {
+    "id": "175",
+    "author": "@Cryptanalyse",
+    "name": "keykoolol",
+    "dirname": "fcsc2020-reverse-keykoolol",
+    "techno": "reverse / crypto / linux /  x86/x64 / keygenme",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "468a643b233e40d0328891363af2575e2118cf812ded684d50009ad3b3ddeaac",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-reverse-keykoolol.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-reverse-keykoolol de hackropole.fr"
+  },
+  {
+    "id": "176",
+    "author": "@Cryptanalyse",
+    "name": "Rainbow Pages 2",
+    "dirname": "fcsc2020-web-rainbow-pages-2",
+    "techno": "web / graphql",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "6dd897f1873987dd889ce97389875bb1b2abe68998b14103f4ff1c81f684a719",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-web-rainbow-pages-2.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-web-rainbow-pages-2 de hackropole.fr"
+  },
+  {
+    "id": "177",
+    "author": "@Cryptanalyse",
+    "name": "RsaCE",
+    "dirname": "fcsc2020-pwn-rsace",
+    "techno": "pwn / crypto / x86/x64",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "43cefda2138c6710af85afd646286a9d06ab9653fad05d4e5015103a51c9a1aa",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-rsace.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-rsace de hackropole.fr"
+  },
+  {
+    "id": "178",
+    "author": "@Cryptanalyse",
+    "name": "SSEcret",
+    "dirname": "fcsc2020-reverse-ssecret",
+    "techno": "reverse / crypto / linux / x86/x64",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "86b8ace548acb377fa4821b161f8283da4e1ee34fa9e204e82c2b857b06feb17",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-reverse-ssecret.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-reverse-ssecret de hackropole.fr"
+  },
+  {
+    "id": "179",
+    "author": "@Cryptanalyse",
+    "name": "Tik Tak Tok",
+    "dirname": "fcsc2020-pwn-tik-tak-tok",
+    "files": {
+      "tiktaktok.c": "https://hackropole.fr/challenges/fcsc2020-pwn-tik-tak-tok/public/tiktaktok.c",
+      "tiktaktok": "https://hackropole.fr/challenges/fcsc2020-pwn-tik-tak-tok/public/tiktaktok",
+      "libc-2.28.so": "https://hackropole.fr/challenges/fcsc2020-pwn-tik-tak-tok/public/libc-2.28.so"
+    },
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "a59e714ed560d0e1ca41d2c3561445c8c9e1e5c5e3482d0e1852a9bef41ed02b",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-tik-tak-tok.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-pwn-tik-tak-tok de hackropole.fr"
+  },
+  {
+    "id": "180",
+    "author": "@Cryptanalyse",
+    "name": "Xoring Networks",
+    "dirname": "fcsc2020-misc-xoring-networks",
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2020",
+    "level": "3",
+    "flag_validation" : "f5f3a18bed46b93e5b052a74e7f47e77499c54605f22eed29993ffa33f8dd203",
+    "repository": "https://github.com/Hack-Oeil/fcsc2020-misc-xoring-networks.git",
+    "type": "docker",
+    "description": "Challenge fcsc2020-misc-xoring-networks de hackropole.fr"
   }
 ]
