@@ -1,6 +1,22 @@
 Les CTFs de Cyrhades
 ====================
 
+# Pas de Panique
+Si vous tentez de télécharger l'application sous Windows via un zip depuis github, Windows Defender détectera un virus, mais pas de panique.
+
+<img src="resources/infos/no_virus_1.png">
+
+<img src="resources/infos/no_virus_2.png">
+
+En réalité la cause étant que mon application vous permet de télécharger les challenges au fur et à mesure.
+<img src="resources/infos/no_virus_3.png">
+
+Mon conseil utilisez comme recommandé dans l'installation la commande : 
+> git clone https://github.com/Hack-Oeil/les-ctfs-de-cyrhades
+
+
+----------------------
+
 
 **Accès au discord** : [https://discord.gg/FkFh55qcBz](https://discord.gg/FkFh55qcBz)
 
