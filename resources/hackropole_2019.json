@@ -73,7 +73,7 @@
     "techno": "reverse",
     "category": "fcsc_2019",
     "level": "1",
-    "flag_validation" : "-",
+    "flag_validation" : "989776ec3d9d7bf92411496d88b662bd8fa4f79b597ad2142e55d0f15125fbf3",
     "repository": "https://github.com/Hack-Oeil/fcsc2019-reverse-vault.git",
     "type": "file",
     "description": "Challenge fcsc2019-reverse-vault de hackropole.fr"
