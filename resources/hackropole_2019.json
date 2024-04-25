@@ -33,7 +33,7 @@
     "techno": "forensic",
     "category": "fcsc_2019",
     "level": "1",
-    "flag_validation" : "-",
+    "flag_validation" : "4301d3da315a459f88da656012412664b1ab78f0141f6e6df481f120229e7f2d",
     "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-petites-notes.git",
     "type": "file",
     "description": "Challenge fcsc2019-forensics-petites-notes de hackropole.fr"
