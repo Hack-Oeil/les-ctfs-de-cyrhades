@@ -181,7 +181,7 @@
     "techno": "réseau",
     "category": "fcsc_2019",
     "level": "1",
-    "flag_validation" : "-",
+    "flag_validation" : "912de07f2da8fe43b668e843911457b0c5e397f01a6d596402634d3e01805682",
     "repository": "https://github.com/Hack-Oeil/fcsc2019-crypto-cqfd.git",
     "type": "file",
     "description": "Challenge fcsc2019-crypto-cqfd de hackropole.fr"
