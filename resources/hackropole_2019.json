@@ -129,7 +129,7 @@
     "techno": "forensics / memory",
     "category": "fcsc_2019",
     "level": "1",
-    "flag_validation" : "-",
+    "flag_validation" : "daf681dc254cc1b624fdc2fdfb098ace97bd5b71bc43706a9dc9346bde8811b2",
     "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-3615-incident.git",
     "type": "file",
     "description": "Challenge fcsc2019-forensics-3615-incident-1 de hackropole.fr"
@@ -315,7 +315,7 @@
     "techno": "forensics / memory",
     "category": "fcsc_2019",
     "level": "2",
-    "flag_validation" : "-",
+    "flag_validation" : "daf681dc254cc1b624fdc2fdfb098ace97bd5b71bc43706a9dc9346bde8811b2",
     "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-3615-incident.git",
     "type": "file",
     "description": "Challenge fcsc2019-forensics-3615-incident-2 de hackropole.fr"
@@ -333,7 +333,7 @@
     "techno": "forensics / memory",
     "category": "fcsc_2019",
     "level": "2",
-    "flag_validation" : "-",
+    "flag_validation" : "0b5dc67f710f94b3fe3758160122978fbedf2a0a0eaef354578d387b3184bb77",
     "repository": "https://github.com/Hack-Oeil/fcsc2019-forensics-3615-incident.git",
     "type": "file",
     "description": "Challenge fcsc2019-forensics-3615-incident-3 de hackropole.fr"
