@@ -1,9 +1,11 @@
 Les CTFs de Cyrhades
 ====================
 
-Pas de Panique
-----------------------
-Si vous tentez de télécharger l'application sous Windows via un zip depuis github, Windows Defender détectera un virus, mais pas de panique.
+> [!IMPORTANT]
+> Pas de Panique
+> 
+> Si vous tentez de télécharger l'application sous Windows via un zip depuis github, Windows Defender détectera un virus, mais pas de panique.
+
 
 <img src="resources/infos/no_virus_1.png">
 
@@ -19,8 +21,10 @@ Mon conseil utilisez comme recommandé dans l'installation la commande :
 
 ----------------------
 
+> [!NOTE]
+> **Accès au discord** : [https://discord.gg/FkFh55qcBz](https://discord.gg/FkFh55qcBz)
 
-**Accès au discord** : [https://discord.gg/FkFh55qcBz](https://discord.gg/FkFh55qcBz)
+
 
 🎉 🥳 **Nouvelle version en Java.** 🥳 🎉
 
@@ -47,14 +51,6 @@ Vous pouvez lancer l'application en double cliquant sur **les-ctfs-de-cyrhades.j
 > java -jar les-ctfs-de-cyrhades.jar
 
 
-
-pour démarrer SOUS MAC 
-------------
-pour mettre à jour :
-> java -jar app.jar
-
-puis pour démarrer l'appli :
-> java -jar app.jar
 
 
 Dependances
