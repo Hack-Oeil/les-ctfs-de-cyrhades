@@ -329,7 +329,7 @@
         "id": "26",
         "author" : "Cyrhades",
         "name":  "XSS Stored + CRLF + vol de session",
-        "dirname": "b",
+        "dirname": "CRLF_XSS_STORED_SESSION",
         "techno": "-",
         "category": "web_client",
         "level": "2",
