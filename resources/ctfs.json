@@ -329,7 +329,7 @@
         "id": "26",
         "author" : "Cyrhades",
         "name":  "XSS Stored + CRLF + vol de session",
-        "dirname": "CRLF_XSS_STORED_SESSION",
+        "dirname": "b",
         "techno": "-",
         "category": "web_client",
         "level": "2",
@@ -454,5 +454,18 @@
         "repository": "https://github.com/Hack-Oeil/PHP_LFI_RFI_WRAPPER_FTP_ZIP.git",
         "type": "docker",
         "description": "Suite à son Hack sur le système de recrutement, seul les docx sont acceptés"
+    },
+    {
+        "id": "181",
+        "author" : "Cyrhades",
+        "name":  "DOM_CLOBBERING",
+        "dirname": "DOM_CLOBBERING",
+        "techno": "DOM / Javascript",
+        "category": "web_client",
+        "level": "3",
+        "flag_validation" : "96dffbed51d92ba0f3ab42b98ff27b9b2a59c8841e3147edd6d7f1d675f0b77f",
+        "repository": "https://github.com/Hack-Oeil/DOM_CLOBBERING.git",
+        "type": "docker",
+        "description": "Vous allez devoir prendre les choses en main, pour valider votre compte."
     }
 ]
