@@ -467,5 +467,18 @@
         "repository": "https://github.com/Hack-Oeil/DOM_CLOBBERING.git",
         "type": "docker",
         "description": "Vous allez devoir prendre les choses en main, pour valider votre compte."
+    },
+    {
+        "id": "324",
+        "author" : "Cyrhades",
+        "name":  "Grand mère sait faire un 0xbadcoffee",
+        "dirname": "BAD_COFFEE",
+        "techno": "BUFFER STACK OVERFLOW",
+        "category": "various",
+        "level": "1",
+        "flag_validation" : "aa7c8f513ba6f2f011dc64ca95289835f6e8375cbf4143eef357d97453ca0ca2",
+        "repository": "https://github.com/Hack-Oeil/BAD_COFFEE.git",
+        "type": "docker",
+        "description": "Vous devez réussir à lire le contenu du fichier .passwd"
     }
 ]
