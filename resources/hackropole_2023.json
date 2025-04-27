@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "325",
+    "author": "pva",
+    "name": "Aaarg",
+    "dirname": "fcsc2023-reverse-aaarg",
+    "files": {
+      "aaarg": "https://hackropole.fr/challenges/fcsc2023-reverse-aaarg/public/aaarg"
+    },
+    "techno": "reverse / linux / x86/x64",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "e0c23359b0ff893eee9b35ba6ca9367979349132386bdb86dca3786b1adf9769",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-aaarg.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-reverse-aaarg de hackropole.fr"
+  },
+  {
+    "id": "326",
+    "author": "Neige",
+    "name": "Comparaison",
+    "dirname": "fcsc2023-hardware-asm-comparaison",
+    "files": {
+      "assembly.py": "https://hackropole.fr/challenges/fcsc2023-hardware-asm-comparaison/public/assembly.py",
+      "challenge.py": "https://hackropole.fr/challenges/fcsc2023-hardware-asm-comparaison/public/challenge.py",
+      "machine.py": "https://hackropole.fr/challenges/fcsc2023-hardware-asm-comparaison/public/machine.py"
+    },
+    "techno": "hardware",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "09c7b1bace11ea552e61237acbb928e77e0309076318183a84c34d823bb04e4a",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-asm-comparaison.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-asm-comparaison de hackropole.fr"
+  },  
+  {
+    "id": "327",
+    "author": "erdnaxe",
+    "name": "Dystylosaurus",
+    "dirname": "fcsc2023-hardware-dystylosaurus",
+    "files": {
+      "dystylosaurus.sal": "https://hackropole.fr/challenges/fcsc2023-hardware-dystylosaurus/public/dystylosaurus.sal"
+    },
+    "techno": "hardware / boot security",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "25e83367feb59eaa08e6f4b67b57f709b02166093138b12bef0101c930a181c8",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-dystylosaurus.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-hardware-dystylosaurus de hackropole.fr"
+  },
+  {
+    "id": "328",
+    "author": "ribt",
+    "name": "La gazette de Windows",
+    "dirname": "fcsc2023-forensics-la-gazette-de-windows",
+    "files": {
+      "Microsoft-Windows-PowerShell%4Operational.evtx": "https://hackropole.fr/challenges/fcsc2023-forensics-la-gazette-de-windows/public/Microsoft-Windows-PowerShell%254Operational.evtx"
+    },
+    "techno": "forensics / windows / logs",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "a8603c7f9d2e09297649afe29951f518c3c8ba267135b7f75a3efdaf7e656fc7",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-forensics-la-gazette-de-windows.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-forensics-la-gazette-de-windows de hackropole.fr"
+  },
+  {
+    "id": "329",
+    "author": "Cryptanalyse",
+    "name": "ROT13",
+    "dirname": "fcsc2023-crypto-rot13",
+    "techno": "crypto",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "733ce2f4ac188b3428bf135b4e02de95cc0cf38b17099d205574ede3fe6ef384",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-crypto-rot13.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-crypto-rot13 de hackropole.fr"
+  },
+  {
+    "id": "330",
+    "author": "erdnaxe",
+    "name": "SPAnosaurus",
+    "dirname": "fcsc2023-hardware-spanosaurus",
+    "files": {
+      "spanosaurus.png": "https://hackropole.fr/challenges/fcsc2023-hardware-spanosaurus/public/spanosaurus.png",
+      "trace_admin.csv": "https://hackropole.fr/challenges/fcsc2023-hardware-spanosaurus/public/trace_admin.csv",
+      "trace_utilisateur.csv": "https://hackropole.fr/challenges/fcsc2023-hardware-spanosaurus/public/trace_utilisateur.csv"
+    },
+    "techno": "hardware / attaque side channel",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "382a92b1a91bd4faada90cc5544d1d694851cb2579d5589df9469c9ed1980c07",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-spanosaurus.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-hardware-spanosaurus de hackropole.fr"
+  },
+  {
+    "id": "331",
+    "author": "Cryptanalyse",
+    "name": "T'es lent",
+    "dirname": "fcsc2023-web-tes-lent",
+    "techno": "web",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "3f09c1e530b342df8e874a5d454ff470bc30904eaa0218f3816d425e6e9fee49",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-tes-lent.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-tes-lent de hackropole.fr"
+  },
+  {
+    "id": "332",
+    "author": "Cryptanalyse",
+    "name": "Tri Sélectif",
+    "dirname": "fcsc2023-misc-tri-selectif",
+    "files": {
+      "client.py": "https://hackropole.fr/challenges/fcsc2023-misc-tri-selectif/public/client.py",
+      "tri-selectif.py": "https://hackropole.fr/challenges/fcsc2023-misc-tri-selectif/public/tri-selectif.py"
+    },
+    "techno": "misc / algo",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "ca9fc56cb7b6f9e47bd62ffc5bbf26a975e5781e929b928e402b010a5e014d26",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-tri-selectif.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-misc-tri-selectif de hackropole.fr"
+  },
+  {
+    "id": "333",
+    "author": "Cryptanalyse",
+    "name": "uid",
+    "dirname": "fcsc2023-pwn-uid",
+    "files": {
+      "uid": "https://hackropole.fr/challenges/fcsc2023-pwn-uid/public/uid"
+    },
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "2acb2f23168ddd8d81d15635cb2fdd66a9a755e96a0d126f34a5857270537ecc",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-uid.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-uid de hackropole.fr"
+  },
+  {
+    "id": "334",
+    "author": "Cryptanalyse",
+    "name": "uid",
+    "dirname": "fcsc2023-pwn-uid",
+    "files": {
+      "uid": "https://hackropole.fr/challenges/fcsc2023-pwn-uid/public/uid"
+    },
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2023",
+    "level": "1",
+    "flag_validation" : "2acb2f23168ddd8d81d15635cb2fdd66a9a755e96a0d126f34a5857270537ecc",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-uid.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-uid de hackropole.fr"
+  },
+  {
+    "id": "335",
+    "author": "rbe",
+    "name": "Au Boolot",
+    "dirname": "fcsc2023-hardware-au-boolot",
+    "techno": "hardware",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "d4533646388b62bac47d1dd3a5bbf95a200375032a5071dfa737096bd99170a8",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-au-boolot.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-au-boolot de hackropole.fr"
+  },
+  {
+    "id": "336",
+    "author": "rbe",
+    "name": "canflag",
+    "dirname": "fcsc2023-hardware-canflag",
+    "files": {
+      "canflag.pcap": "https://hackropole.fr/challenges/fcsc2023-hardware-canflag/public/canflag.pcap"
+    },
+    "techno": "hardware / bus de communication",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "cbe0fd3d4ea09b9e0e370d08c806cd772532cb52b5089068136130ba9c43f440",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-canflag.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-canflag de hackropole.fr"
+  },
+  {
+    "id": "337",
+    "author": "Cryptanalyse",
+    "name": "Chaussette (XS)",
+    "dirname": "fcsc2023-reverse-chaussette-xs",
+    "files": {
+      "chaussette-xs": "https://hackropole.fr/challenges/fcsc2023-reverse-chaussette-xs/public/chaussette-xs"
+    },
+    "techno": "reverse / linux / x86/x64",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "d68897fb33bcd144a5b66dc0e734012344804a2d9864c5d20dd4565b10d1be1d",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-chaussette-xs.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-reverse-chaussette-xs de hackropole.fr"
+  },
+  {
+    "id": "338",
+    "author": "ElyKar",
+    "name": "Chiffre Unique",
+    "dirname": "fcsc2023-reverse-chiffre-unique",
+    "files": {
+      "chiffre-unique": "https://hackropole.fr/challenges/fcsc2023-reverse-chiffre-unique/public/chiffre-unique"
+    },
+    "techno": "reverse / linux / x86/x64",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "8a4bbae138470eb0dd77a5be8a8ea50f0c72cef10b2f289079ecf3924bda9909",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-chiffre-unique.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-reverse-chiffre-unique de hackropole.fr"
+  },
+  {
+    "id": "339",
+    "author": "rbe",
+    "name": "Des p'tits trous",
+    "dirname": "fcsc2023-misc-des-ptits-trous",
+    "files": {
+      "cards.tar.xz": "https://hackropole.fr/challenges/fcsc2023-misc-des-ptits-trous/public/cards.tar.xz"
+    },
+    "techno": "misc",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "3bac6d49a01e0a61d6c65751c1cf9be31e5230ff7f38987f4fa1fc034671cea6",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-des-ptits-trous.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-misc-des-ptits-trous de hackropole.fr"
+  },
+  {
+    "id": "340",
+    "author": "Cryptanalyse",
+    "name": "Elliptic Addventure",
+    "dirname": "fcsc2023-crypto-elliptic-addventure",
+    "files": {
+      "cards.tar.xz": "https://hackropole.fr/challenges/fcsc2023-crypto-elliptic-addventure/public/elliptic-addventure.sage",
+      "output.txt": "https://hackropole.fr/challenges/fcsc2023-crypto-elliptic-addventure/public/output.txt"
+    },
+    "techno": "crypto / courbe elliptique",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "4ce99130a53e52b3daff04e1e1c351027a8dec5a82b3e4b50f5f18858345f61f",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-crypto-elliptic-addventure.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-crypto-elliptic-addventure de hackropole.fr"
+  },
+  {
+    "id": "341",
+    "author": "Cryptanalyse",
+    "name": "ENISA Flag Store 1/2",
+    "readme": "README_1_2.md",
+    "dirname": "fcsc2023-web-enisa-flag-store",
+    "files": {
+      "enisa-flag-store.go": "https://hackropole.fr/challenges/fcsc2023-web-enisa-flag-store/public/enisa-flag-store.go"
+    },
+    "techno": "web / golang",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "04d3e866aaf39de0ab415ea5f5a5608e688ad7ab501d7a24c9705a6fc6d433c7",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-enisa-flag-store.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-enisa-flag-store-1 de hackropole.fr"
+  },
+  {
+    "id": "342",
+    "author": "Ludo",
+    "name": "Evil Plant",
+    "dirname": "fcsc2023-misc-evil-plant",
+    "techno": "misc / protocole industriel",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "4e61e306cc0eaa58981636b4b263eba1fde14d6cfc96ad449d7bc050303b0bf0",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-evil-plant.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-misc-evil-plant de hackropole.fr"
+  },
+  {
+    "id": "343",
+    "author": "Neige",
+    "name": "Fibonacci",
+    "dirname": "fcsc2023-hardware-asm-fibonacci",
+    "files": {
+      "assembly.py": "https://hackropole.fr/challenges/fcsc2023-hardware-asm-fibonacci/public/assembly.py",
+      "challenge.py": "https://hackropole.fr/challenges/fcsc2023-hardware-asm-fibonacci/public/challenge.py",
+      "machine.py": "https://hackropole.fr/challenges/fcsc2023-hardware-asm-fibonacci/public/machine.py"
+    },
+    "techno": "hardware",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "746a777a73883bae951eab106b3ffbe5652cb79c6473464375a1d231a7f01942",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-asm-fibonacci.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-asm-fibonacci de hackropole.fr"
+  },
+  {
+    "id": "344",
+    "author": "DrStache",
+    "name": "Hello from the inside",
+    "dirname": "fcsc2023-web-hello-from-the-inside",
+    "techno": "web / PHP / bot",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "2eca5684c15e2f76f0e7b036b75d70b85cd9a3b04d91da7c19b89681ca366b19",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-hello-from-the-inside.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-hello-from-the-inside de hackropole.fr"
+  },
+  {
+    "id": "345",
+    "author": "Cryptanalyse",
+    "name": "La base",
+    "dirname": "fcsc2023-misc-la-base",
+    "files": {
+      "la-base.py": "https://hackropole.fr/challenges/fcsc2023-misc-la-base/public/la-base.py"
+    },
+    "techno": "misc",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "959450d8dac44265deae0b0858879e5161be02bb8bbb64ea91cfa268b75adbed",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-la-base.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-misc-la-base de hackropole.fr"
+  },
+  {
+    "id": "346",
+    "author": "erdnaxe",
+    "name": "Lapin Blanc",
+    "dirname": "fcsc2023-hardware-lapin-blanc",
+    "techno": "hardware / attaque side channel",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "798456c11623a9372716b224fa21a5db5c0533f7079e93336b127151a442002d",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-lapin-blanc.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-lapin-blanc de hackropole.fr"
+  },
+  {
+    "id": "347",
+    "author": "Cryptanalyse",
+    "name": "Le hash qui rit",
+    "dirname": "fcsc2023-crypto-le-hash-qui-rit",
+    "files": {
+      "le-hash-qui-rit.py": "https://hackropole.fr/challenges/fcsc2023-crypto-le-hash-qui-rit/public/le-hash-qui-rit.py"
+    },
+    "techno": "crypto / symétrique",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "baba5025c7ab596384c8b026caab6f12ba539288e6978f0780514ce02cf6ea44",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-crypto-le-hash-qui-rit.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-crypto-le-hash-qui-rit de hackropole.fr"
+  },
+  {
+    "id": "348",
+    "author": "cde",
+    "name": "May the Forth",
+    "dirname": "fcsc2023-pwn-may-the-forth",
+    "files": {
+      "may-the-forth": "https://hackropole.fr/challenges/fcsc2023-pwn-may-the-forth/public/may-the-forth",
+      "may-the-forth-public.tar.xz": "https://hackropole.fr/challenges/fcsc2023-pwn-may-the-forth/public/may-the-forth-public.tar.xz"
+    },
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "b0106e548e2a1d6532c3895991d234231a679af0186b9868c2beb6c1e1d2cb4b",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-may-the-forth.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-may-the-forth de hackropole.fr"
+  },
+  {
+    "id": "349",
+    "author": "haxom",
+    "name": "Ransomémoire 0/3 - Pour commencer",
+    "readme": "README_0_3.md",
+    "dirname": "fcsc2023-forensics-ransomemoire",
+    "files": {
+      "fcsc.7z": "https://hackropole.fr/filer/fcsc2023-forensics-ransomemoire/public_filer/fcsc.7z"
+    },
+    "techno": "forensics / mémoire / windows",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "438ef309401ddad6310e71fae969d95375d783ef2cc9e5743d76b43718aa3b6a",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-forensics-ransomemoire.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-forensics-ransomemoire-1 de hackropole.fr"
+  },
+  {
+    "id": "350",
+    "author": "Neige",
+    "name": "RSA Secure Dev 1/3",
+    "readme": "README_1_3.md",
+    "dirname": "fcsc2023-hardware-rsa-secure-dev",
+    "files": {
+      "assembly.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/assembly.py",
+      "challenge.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/challenge.py",
+      "machine.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/machine.py",
+      "rsa_keygeneration.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/rsa_keygeneration.py"
+    },
+    "techno": "hardware / attaque par faute",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "6aee329ca68b33304c66d1831b0a27e3a3ae0e34d671d2bb5f46f8d306b8516a",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-rsa-secure-dev.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-rsa-secure-dev-1 de hackropole.fr"
+  },
+  {
+    "id": "351",
+    "author": "DrStache",
+    "name": "Salty authentication",
+    "dirname": "fcsc2023-web-salty-authentication",
+    "techno": "web / PHP",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "ffd9097ee1a4357156384231ee08484842d7ae9e93adb550d08627e4937dd893",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-salty-authentication.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-salty-authentication de hackropole.fr"
+  },
+  {
+    "id": "352",
+    "author": "\\E",
+    "name": "Sensor Watch",
+    "dirname": "fcsc2023-reverse-sensorwatch",
+    "files": {
+      "watch.uf2": "https://hackropole.fr/challenges/fcsc2023-reverse-sensorwatch/public/watch.uf2",
+      "emulator.tar.xz": "https://hackropole.fr/challenges/fcsc2023-reverse-sensorwatch/public/emulator.tar.xz"
+    },
+    "techno": "reverse / exotique",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "305565e3c10c46232e4101e30a60274c20b840cad9a1e53d392c57fc66aadc4f",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-sensorwatch.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-reverse-sensorwatch de hackropole.fr"
+  },
+  {
+    "id": "353",
+    "author": "Cryptanalyse",
+    "name": "Tri Très Sélectif",
+    "dirname": "fcsc2023-misc-tri-tres-selectif",
+    "files": {
+      "client.py": "https://hackropole.fr/challenges/fcsc2023-misc-tri-tres-selectif/public/client.py",
+      "tri-tres-selectif.py": "https://hackropole.fr/challenges/fcsc2023-misc-tri-tres-selectif/public/tri-tres-selectif.py"
+    },
+    "techno": "misc / algo",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "d31b920de557d5fd3cdbb52fb41aeb19402b8b5578a2e985ab634b13274b2ddc",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-tri-tres-selectif.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-misc-tri-tres-selectif de hackropole.fr"
+  },
+  {
+    "id": "354",
+    "author": "Ker",
+    "name": "Un truc qui cloche",
+    "dirname": "fcsc2023-hardware-un-truc-qui-cloche",
+    "techno": "hardware / attaque par faute",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "f33ed721e3b693c78ffe932f7474c33be8f939f75f178788c72e07a57f92142d",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-un-truc-qui-cloche.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-un-truc-qui-cloche de hackropole.fr"
+  },
+  {
+    "id": "355",
+    "author": "ribt",
+    "name": "Weird Shell",
+    "dirname": "fcsc2023-forensics-weird-shell",
+    "files": {
+      "Microsoft-Windows-PowerShell%254Operational.evtx": "https://hackropole.fr/challenges/fcsc2023-forensics-weird-shell/public/Microsoft-Windows-PowerShell%254Operational.evtx",
+      "Security.evtx": "https://hackropole.fr/filer/fcsc2023-forensics-weird-shell/public_filer/Security.evtx"
+    },
+    "techno": "forensics / windows / logs",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "c3f035a5230252157f057c9c47a6c5b07b15dc5e2076192f406fddee8d1e080f",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-forensics-weird-shell.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-forensics-weird-shell de hackropole.fr"
+  },
+  {
+    "id": "356",
+    "author": "Cryptanalyse",
+    "name": "Zéro Pointé",
+    "dirname": "fcsc2023-misc-zero-pointe",
+    "files": {
+      "zero-pointe": "https://hackropole.fr/challenges/fcsc2023-misc-zero-pointe/public/zero-pointe",
+      "zero-pointe.c": "https://hackropole.fr/challenges/fcsc2023-misc-zero-pointe/public/zero-pointe.c"
+    },
+    "techno": "misc",
+    "category": "fcsc_2023",
+    "level": "2",
+    "flag_validation" : "5bde9aed033d4bdf44f1b0cb1ccd5a962a63607ee78b22b8abf256d1d19dc40f",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-zero-pointe.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-misc-zero-pointe de hackropole.fr"
+  },
+  {
+    "id": "357",
+    "author": "Ludo",
+    "name": "Baleine sous graviers",
+    "dirname": "fcsc2023-forensics-baleine-sous-graviers",
+    "files": {
+      "baleine-sous-graviers.tar.xz": "https://hackropole.fr/filer/fcsc2023-forensics-baleine-sous-graviers/public_filer/baleine-sous-graviers.tar.xz"
+    },
+    "techno": "forensics / réseau",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-forensics-baleine-sous-graviers.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-forensics-baleine-sous-graviers de hackropole.fr"
+  },
+  {
+    "id": "358",
+    "author": "Cryptanalyse",
+    "name": "Chaussette",
+    "dirname": "fcsc2023-reverse-chaussette",
+    "files": {
+      "chaussette": "https://hackropole.fr/challenges/fcsc2023-reverse-chaussette/public/chaussette"
+    },
+    "techno": "reverse / linux / x86/x64",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "aecd7994afd724a3af4aab3530ef257f30413fcee229d62141d2a0ec7fe11ab5",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-chaussette.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-reverse-chaussette de hackropole.fr"
+  },
+  {
+    "id": "359",
+    "author": "Cryptanalyse",
+    "name": "Elliptic Addrenaline",
+    "dirname": "fcsc2023-crypto-elliptic-addrenaline",
+    "files": {
+      "elliptic-addrenaline.sage": "https://hackropole.fr/challenges/fcsc2023-crypto-elliptic-addrenaline/public/elliptic-addrenaline.sage",
+      "output.txt": "https://hackropole.fr/challenges/fcsc2023-crypto-elliptic-addrenaline/public/output.txt"
+    },
+    "techno": "crypto / courbe elliptique",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "4c7318e9ee99391c17fcbb18fec4924b98b85eb589978ce619b687afc81fa8a5",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-crypto-elliptic-addrenaline.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-crypto-elliptic-addrenaline de hackropole.fr"
+  },
+  {
+    "id": "360",
+    "author": "Cryptanalyse",
+    "name": "ENISA Flag Store 2/2",
+    "readme": "README_2_2.md",
+    "dirname": "fcsc2023-web-enisa-flag-store",
+    "files": {
+      "enisa-flag-store.go": "https://hackropole.fr/challenges/fcsc2023-web-enisa-flag-store/public/enisa-flag-store.go"
+    },
+    "techno": "web / golang",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "02752ec33d1cafd5dd87c4789c6a8361158a3ffa1a831fa122327d0c8737ae9d",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-enisa-flag-store.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-enisa-flag-store-2 de hackropole.fr"
+  },
+  {
+    "id": "361",
+    "author": "Cryptanalyse",
+    "name": "Keskidi",
+    "dirname": "fcsc2023-pwn-keskidi",
+    "files": {
+      "keskidi": "https://hackropole.fr/challenges/fcsc2023-pwn-keskidi/public/keskidi"
+    },
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "4e72049c0a966a5d7be8cc86478e57b1064f3998be2d2c4eeaa60ed9eb52724c",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-keskidi.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-keskidi de hackropole.fr"
+  },
+  {
+    "id": "362",
+    "author": "rbe",
+    "name": "keypadbol",
+    "dirname": "fcsc2023-hardware-keypadbol",
+    "files": {
+      "capture.vcd": "https://hackropole.fr/challenges/fcsc2023-hardware-keypadbol/public/capture.vcd"
+    },
+    "techno": "hardware / bus de communication",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-keypadbol.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-keypadbol de hackropole.fr"
+  },
+  {
+    "id": "363",
+    "author": "cde / Cryptanalyse",
+    "name": "May the Fifth",
+    "dirname": "fcsc2023-pwn-may-the-fifth",
+    "files": {
+      "may-the-fifth": "https://hackropole.fr/challenges/fcsc2023-pwn-may-the-fifth/public/may-the-fifth",
+      "may-the-fifth-public.tar.xz": "https://hackropole.fr/challenges/fcsc2023-pwn-may-the-fifth/public/may-the-fifth-public.tar.xz"
+    },
+    "techno": "hardware / bus de communication",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "e0295b314d376b5cc132776a9c93a446aa06d09d5725283a613acea6fe04747f",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-may-the-fifth.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-may-the-fifth de hackropole.fr"
+  },
+  {
+    "id": "364",
+    "author": "jrr",
+    "name": "Niagara",
+    "dirname": "fcsc2023-crypto-niagara",
+    "files": {
+      "niagara.py": "https://hackropole.fr/challenges/fcsc2023-crypto-niagara/public/niagara.py",
+      "flag.txt.enc": "https://hackropole.fr/challenges/fcsc2023-crypto-niagara/public/flag.txt.enc"
+    },
+    "techno": "crypto / symétrique / LFSR",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-crypto-niagara.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-crypto-niagara de hackropole.fr"
+  },
+  {
+    "id": "365",
+    "author": "Cryptanalyse",
+    "name": "Pain in the Hash",
+    "dirname": "fcsc2023-crypto-pain-in-the-hash",
+    "files": {
+      "pain-in-the-hash.py": "https://hackropole.fr/challenges/fcsc2023-crypto-pain-in-the-hash/public/pain-in-the-hash.py"
+    },
+    "techno": "crypto / symétrique",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-crypto-pain-in-the-hash.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-crypto-pain-in-the-hash de hackropole.fr"
+  },
+  {
+    "id": "366",
+    "author": "BitK",
+    "name": "Peculiar Caterpillar",
+    "dirname": "fcsc2023-web-peculiar-caterpillar",
+    "files": {
+      "peculiar-caterpillar-public.tar.xz": "https://hackropole.fr/challenges/fcsc2023-web-peculiar-caterpillar/public/peculiar-caterpillar-public.tar.xz"
+    },
+    "techno": "web / NodeJS",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "8488138a2604bdb0535074753abaee2d11e9c59fbaed2e379766c67009e7dfce",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-peculiar-caterpillar.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-peculiar-caterpillar de hackropole.fr"
+  },
+  {
+    "id": "367",
+    "author": "Cryptanalyse",
+    "name": "Prechall FCSC 2023",
+    "dirname": "fcsc2023-misc-teaser",
+    "files": {
+      "fcsc2023_teaser.png": "https://hackropole.fr/challenges/fcsc2023-misc-teaser/public/fcsc2023_teaser.png"
+    },
+    "techno": "misc",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "acb7d7c6d64f9f3f4d475f6a9729a1988f7ef3f5cfbfcf811984b1171a3ec37f",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-teaser.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-misc-teaser de hackropole.fr"
+  },
+  {
+    "id": "368",
+    "author": "Cryptanalyse",
+    "name": "Ptérodactyle",
+    "dirname": "fcsc2023-pwn-pterodactyle",
+    "files": {
+      "pterodactyle": "https://hackropole.fr/challenges/fcsc2023-pwn-pterodactyle/public/pterodactyle"
+    },
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-pterodactyle.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-pterodactyle de hackropole.fr"
+  },
+  {
+    "id": "369",
+    "author": "rbe",
+    "name": "pwnduino",
+    "dirname": "fcsc2023-pwn-pwnduino",
+    "files": {
+      "firmware_debug.bin": "https://hackropole.fr/challenges/fcsc2023-pwn-pwnduino/public/firmware_debug.bin",
+      "pwnduino-src-debug.tar.xz": "https://hackropole.fr/challenges/fcsc2023-pwn-pwnduino/public/pwnduino-src-debug.tar.xz"
+    },
+    "techno": "pwn / AVR",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "eb3e0786acb3e8fabdaaff616353271ba0f75c43b08f63a18f15d3a707f6fd34",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-pwnduino.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-pwnduino de hackropole.fr"
+  },
+  {
+    "id": "370",
+    "author": "haxom",
+    "name": "Ransomémoire 1/3 - Mon précieux",
+    "readme": "README_1_3.md",
+    "dirname": "fcsc2023-forensics-ransomemoire",
+    "files": {
+      "fcsc.7z": "https://hackropole.fr/filer/fcsc2023-forensics-ransomemoire/public_filer/fcsc.7z"
+    },
+    "techno": "forensics / mémoire / windows",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "ef855ff8ad09339e4bccb196e36f51a75ae1a455856715b1960a02a930ea5e82",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-forensics-ransomemoire.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-forensics-ransomemoire-2 de hackropole.fr"
+  },
+  {
+    "id": "371",
+    "author": "haxom",
+    "name": "Ransomémoire 2/3 - Début d'investigation",
+    "readme": "README_2_3.md",
+    "dirname": "fcsc2023-forensics-ransomemoire",
+    "files": {
+      "fcsc.7z": "https://hackropole.fr/filer/fcsc2023-forensics-ransomemoire/public_filer/fcsc.7z"
+    },
+    "techno": "forensics / mémoire / windows",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "278ee8e0e810c8239cf96c0de02d7a677c4f262233275d8c9ce08fecf7a61a74",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-forensics-ransomemoire.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-forensics-ransomemoire-3 de hackropole.fr"
+  },
+  {
+    "id": "372",
+    "author": "pva",
+    "name": "Rechatdrage",
+    "dirname": "fcsc2023-misc-rechatdrage",
+    "files": {
+      "rechatdrage.jpg": "https://hackropole.fr/challenges/fcsc2023-misc-rechatdrage/public/rechatdrage.jpg"
+    },
+    "techno": "misc",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "acd701c68a36c16adce64f0d8689d5460bd3bddc6c4d6b820eb66529a5d4af54",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-rechatdrage.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-misc-rechatdrage de hackropole.fr"
+  },
+  {
+    "id": "373",
+    "author": "AMI",
+    "name": "Robot",
+    "dirname": "fcsc2023-pwn-robot",
+    "files": {
+      "robot": "https://hackropole.fr/challenges/fcsc2023-pwn-robot/public/robot",
+      "robot.c": "https://hackropole.fr/challenges/fcsc2023-pwn-robot/public/robot.c"
+    },
+    "techno": "pwn / heap / x86/x64",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "32b15ea460663163a62dc117bc9ea34b74538226bce4b44930f9894a48b76a1b",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-robot.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-robot de hackropole.fr"
+  },
+  {
+    "id": "374",
+    "author": "AMI",
+    "name": "Rouge Saumon",
+    "dirname": "fcsc2023-misc-rouge-saumon",
+    "files": {
+      "sat_data.bin": "https://hackropole.fr/challenges/fcsc2023-misc-rouge-saumon/public/sat_data.bin"
+    },
+    "techno": "misc",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "4d09989852bb90998d478c54f5df97d1b0bb752daedeb752c24d898a198e18ff",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-rouge-saumon.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-misc-rouge-saumon de hackropole.fr"
+  },
+  {
+    "id": "375",
+    "author": "Neige",
+    "name": "RSA Secure Dev 2/3",
+    "readme": "README_2_3.md",
+    "dirname": "fcsc2023-hardware-rsa-secure-dev",
+    "files": {
+      "assembly.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/assembly.py",
+      "challenge.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/challenge.py",
+      "machine.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/machine.py",
+      "rsa_keygeneration.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/rsa_keygeneration.py"
+    },
+    "techno": "hardware / attaque par faute",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "ed125af4979ab2ad1eee7d0840bfdda0b7d40923e7d916808b1af2ecc2f59fed",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-rsa-secure-dev.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-rsa-secure-dev-2 de hackropole.fr"
+  },
+  {
+    "id": "376",
+    "author": "cde",
+    "name": "sadmind",
+    "dirname": "fcsc2023-forensics-sadmind",
+    "files": {
+      "HD3.hda.xz": "https://hackropole.fr/filer/fcsc2023-forensics-sadmind/public_filer/HD3.hda.xz",
+      "sadmind.pcap": "https://hackropole.fr/challenges/fcsc2023-forensics-sadmind/public/sadmind.pcap"
+    },
+    "techno": "forensics / disque / réseau / linux",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-forensics-sadmind.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-forensics-sadmind de hackropole.fr"
+  },
+  {
+    "id": "377",
+    "author": "erdnaxe",
+    "name": "Sous marin",
+    "dirname": "fcsc2023-hardware-sous-marin",
+    "files": {
+      "bootloader.bin": "https://hackropole.fr/challenges/fcsc2023-hardware-sous-marin/public/bootloader.bin"
+    },
+    "techno": "hardware / boot security",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "ac743c9f0b7693f7d61555e53a75db2087eb272b99a71740a7481f303b66c5fe",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-sous-marin.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-sous-marin de hackropole.fr"
+  },
+  {
+    "id": "378",
+    "author": "BitK",
+    "name": "Tweedle Dum",
+    "dirname": "fcsc2023-web-tweedle-dum",
+    "files": {
+      "tweedle-dum-public.tar.xz": "https://hackropole.fr/challenges/fcsc2023-web-tweedle-dum/public/tweedle-dum-public.tar.xz"
+    },
+    "techno": "web / python",
+    "category": "fcsc_2023",
+    "level": "3",
+    "flag_validation" : "f78d2249533e0fb3357d2881e1632c1819ecd6c14dda2a600494935815573dee",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-tweedle-dum.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-tweedle-dum de hackropole.fr"
+  },
+  {
+    "id": "379",
+    "author": "hg / jrr / Cryptanalyse",
+    "name": "Black Block",
+    "dirname": "fcsc2023-crypto-black-block",
+    "files": {
+      "BlackBlock.sage": "https://hackropole.fr/challenges/fcsc2023-crypto-black-block/public/BlackBlock.sage",
+      "output.txt": "https://hackropole.fr/challenges/fcsc2023-crypto-black-block/public/output.txt"
+    },
+    "techno": "crypto / symétrique",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-crypto-black-block.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-crypto-black-block de hackropole.fr"
+  },
+  {
+    "id": "380",
+    "author": "Cryptanalyse",
+    "name": "Brachiosaure",
+    "dirname": "fcsc2023-reverse-brachiosaure",
+    "files": {
+      "brachiosaure": "https://hackropole.fr/challenges/fcsc2023-reverse-brachiosaure/public/brachiosaure"
+    },
+    "techno": "reverse / algo / linux / x86/x64 / keygenme",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation" : "1dc404d6528284b9fb2631bee4665178ee47e0c1faf761cd3720a2d1d614fbf2",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-brachiosaure.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-reverse-brachiosaure de hackropole.fr"
+  },
+  {
+    "id": "381",
+    "author": "sheidan",
+    "name": "Contrôleur de licence",
+    "dirname": "fcsc2023-reverse-controleur-de-licence",
+    "files": {
+      "controleur-de-licence.exe": "https://hackropole.fr/challenges/fcsc2023-reverse-controleur-de-licence/public/controleur-de-licence.exe"
+    },
+    "techno": "reverse / windows / x86/x64",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation" : "7577f4bf483dfa3e8ab87643b428777178d894cbabfc069cb2ae6a2774f6b200",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-controleur-de-licence.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-reverse-controleur-de-licence de hackropole.fr"
+  },
+  {
+    "id": "382",
+    "author": "Cryptanalyse",
+    "name": "Cry Me a River",
+    "dirname": "fcsc2023-crypto-cry-me-a-river",
+    "files": {
+      "cry-me-a-river.py": "https://hackropole.fr/challenges/fcsc2023-crypto-cry-me-a-river/public/cry-me-a-river.py"
+    },
+    "techno": "crypto / courbe elliptique",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-crypto-cry-me-a-river.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-crypto-cry-me-a-river de hackropole.fr"
+  },
+  {
+    "id": "383",
+    "author": "BitK",
+    "name": "Follow the Rabbit",
+    "dirname": "fcsc2023-web-follow-the-rabbit",
+    "files": {
+      "follow-the-rabbit-public.tar.xz": "https://hackropole.fr/challenges/fcsc2023-web-follow-the-rabbit/public/follow-the-rabbit-public.tar.xz"
+    },
+    "techno": "web",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation" : "1d83f27ab919bacd57f0fc605ac5c2d1a0f4af15401941aadfd41babf94bc578",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-follow-the-rabbit.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-follow-the-rabbit de hackropole.fr"
+  },
+  {
+    "id": "384",
+    "author": "BitK",
+    "name": "Follow the Rabbit (Harder)",
+    "dirname": "fcsc2023-web-follow-the-rabbit-harder",
+    "files": {
+      "follow-the-rabbit-harder-public.tar.gz": "https://hackropole.fr/challenges/fcsc2023-web-follow-the-rabbit-harder/public/follow-the-rabbit-harder-public.tar.gz"
+    },
+    "techno": "web",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "c9aa82b94b75982a22a7c289091e3d80c1cba1fd50606f709b45097d158a711d",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-follow-the-rabbit-harder.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-follow-the-rabbit-harder de hackropole.fr"
+  },
+  {
+    "id": "385",
+    "author": "hr",
+    "name": "Grabin",
+    "dirname": "fcsc2023-crypto-grabin",
+    "files": {
+      "grabin.py": "https://hackropole.fr/challenges/fcsc2023-crypto-grabin/public/grabin.py",
+      "output.txt": "https://hackropole.fr/challenges/fcsc2023-crypto-grabin/public/output.txt"
+    },
+    "techno": "crypto",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "e23f7a34e7fd10c935b05c88c1d124056b438716fd359f251f9f10948ec0e1b0",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-crypto-grabin.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-crypto-grabin de hackropole.fr"
+  },
+  {
+    "id": "386",
+    "author": "rbe",
+    "name": "Hola Amigo",
+    "dirname": "fcsc2023-reverse-hola-amigo",
+    "files": {
+      "ransomware_floppy.adf": "https://hackropole.fr/challenges/fcsc2023-reverse-hola-amigo/public/ransomware_floppy.adf",
+      "flag_floppy_enc.adf": "https://hackropole.fr/challenges/fcsc2023-reverse-hola-amigo/public/flag_floppy_enc.adf"
+    },
+    "techno": "reverse / crypto / exotique",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "bb14bd069bb8ad096792d5946d1dbe41d605cee7569e50eb6f1a5e9d5b2e4f90",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-hola-amigo.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-reverse-hola-amigo de hackropole.fr"
+  },
+  {
+    "id": "387",
+    "author": "XeR",
+    "name": "HTTP 2",
+    "dirname": "fcsc2023-pwn-http2",
+    "files": {
+      "http2-public.tar.xz": "https://hackropole.fr/challenges/fcsc2023-pwn-http2/public/http2-public.tar.xz"
+    },
+    "techno": "pwn / x86/x64",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "44b6c9e5a7fb671a6bc95ea19356fae8dc04c430e8e7df70add56bce8056888c",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-http2.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-http2 de hackropole.fr"
+  },
+  {
+    "id": "388",
+    "author": "XeR",
+    "name": "ktruc",
+    "dirname": "fcsc2023-pwn-ktruc",
+    "files": {
+      "ktruc-public.tar.xz": "https://hackropole.fr/filer/fcsc2023-pwn-ktruc/public_filer/ktruc-public.tar.xz"
+    },
+    "techno": "pwn / kernel / x86/x64",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "7b558e4944760aa88a4906386b7b034e2c7222f0286fab19302f8c9d550c9153",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-ktruc.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-pwn-ktruc de hackropole.fr"
+  },
+  {
+    "id": "389",
+    "author": "johndoe",
+    "name": "Mauvaise baleine",
+    "dirname": "fcsc2023-misc-mauvaise-baleine",
+    "files": {
+      "mauvaise-baleine.tar.gz": "https://hackropole.fr/challenges/fcsc2023-misc-mauvaise-baleine/public/mauvaise-baleine.tar.gz"
+    },
+    "techno": "misc",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "8584b40ebd660274f84e7c3b97866161473a7337aeee0f671752ffad19714745",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-mauvaise-baleine.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-misc-mauvaise-baleine de hackropole.fr"
+  },
+  {
+    "id": "390",
+    "author": "rbe",
+    "name": "PALeoTV",
+    "dirname": "fcsc2023-hardware-paleotv",
+    "files": {
+      "capture.vcd": "https://hackropole.fr/challenges/fcsc2023-hardware-paleotv/public/capture.vcd"
+    },
+    "techno": "hardware",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "cbbd9fc825a002307d0eac7ab050d168f698ed7b2dd0741320530f90f78c153f",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-paleotv.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-hardware-paleotv de hackropole.fr"
+  },
+  {
+    "id": "391",
+    "author": "Cryptanalyse",
+    "name": "Picasso",
+    "dirname": "fcsc2023-reverse-picasso",
+    "files": {
+      "picasso": "https://hackropole.fr/challenges/fcsc2023-reverse-picasso/public/picasso"
+    },
+    "techno": "reverse / algo / linux / x86/x64",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "54a984caed36d956001dc48a46e5156b2c8755f7ff817f0a1cb500f883b296c4",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-picasso.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-reverse-picasso de hackropole.fr"
+  },
+  {
+    "id": "392",
+    "author": "haxom",
+    "name": "Ransomémoire 3/3 - Doppelgänger",
+    "readme": "README_3_3.md",
+    "dirname": "fcsc2023-forensics-ransomemoire",
+    "files": {
+      "fcsc.7z": "https://hackropole.fr/filer/fcsc2023-forensics-ransomemoire/public_filer/fcsc.7z"
+    },
+    "techno": "forensics / mémoire / windows",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation" : "278ee8e0e810c8239cf96c0de02d7a677c4f262233275d8c9ce08fecf7a61a74",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-forensics-ransomemoire.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-forensics-ransomemoire-4 de hackropole.fr"
+  },
+  {
+    "id": "393",
+    "author": "Neige",
+    "name": "RSA Secure Dev 3/3",
+    "readme": "README_3_3.md",
+    "dirname": "fcsc2023-hardware-rsa-secure-dev",
+    "files": {
+      "assembly.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/assembly.py",
+      "challenge.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/challenge.py",
+      "machine.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/machine.py",
+      "rsa_keygeneration.py": "https://hackropole.fr/challenges/fcsc2023-hardware-rsa-secure-dev/public/rsa_keygeneration.py"
+    },
+    "techno": "hardware / attaque par faute",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation" : "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-hardware-rsa-secure-dev.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-hardware-rsa-secure-dev-3 de hackropole.fr"
+  },
+  {
+    "id": "394",
+    "author": "erdnaxe",
+    "name": "The Colour of Magic",
+    "dirname": "fcsc2023-misc-the-colour-of-magic",
+    "files": {
+      "the-colour-of-magic.tar.xz": "https://hackropole.fr/challenges/fcsc2023-misc-the-colour-of-magic/public/the-colour-of-magic.tar.xz"
+    },
+    "techno": "misc",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "-",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-misc-the-colour-of-magic.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-misc-the-colour-of-magic de hackropole.fr"
+  },
+  {
+    "id": "395",
+    "author": "BitK",
+    "name": "Tweedle Dee",
+    "dirname": "fcsc2023-web-tweedle-dee",
+    "files": {
+      "tweedle-dee-public.tar.xz": "https://hackropole.fr/challenges/fcsc2023-web-tweedle-dee/public/tweedle-dee-public.tar.xz"
+    },
+    "techno": "web / python",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "b58a1a63cf60891cc306c2e9fdbf2274aff098895f9a25e74eccce286172df12",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-tweedle-dee.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-tweedle-dee de hackropole.fr"
+  },
+  {
+    "id": "396",
+    "author": "pva",
+    "name": "Video Games Awards",
+    "dirname": "fcsc2023-reverse-video-games-awards",
+    "files": {
+      "video-games-awards.img": "https://hackropole.fr/challenges/fcsc2023-reverse-video-games-awards/public/video-games-awards.img"
+    },
+    "techno": "reverse / exotique",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "8b821a24bfe3adb88fee540e26f7b510afadd1fcf57551dbe6a06d6285876fea",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-reverse-video-games-awards.git",
+    "type": "file",
+    "description": "Challenge fcsc2023-reverse-video-games-awards de hackropole.fr"
+  },
+  {
+    "id": "397",
+    "author": "BitK",
+    "name": "Whiskers in the dark",
+    "dirname": "fcsc2023-web-whiskers-in-the-dark",
+    "files": {
+      "whiskers-in-the-dark-public.tar.xz": "https://hackropole.fr/challenges/fcsc2023-web-whiskers-in-the-dark/public/whiskers-in-the-dark-public.tar.xz"
+    },
+    "techno": "web / NodeJS",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "bcedf574c84c1aac29165e724ae7fe716c297991614de3cb05d7f89eef4102e4",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-whiskers-in-the-dark.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-whiskers-in-the-dark de hackropole.fr"
+  },
+  {
+    "id": "398",
+    "author": "BitK",
+    "name": "Whiskers in the dark (Harder)",
+    "dirname": "fcsc2023-web-whiskers-in-the-dark-harder",
+    "files": {
+      "whiskers-in-the-dark-harder-public.tar.gz": "https://hackropole.fr/challenges/fcsc2023-web-whiskers-in-the-dark-harder/public/whiskers-in-the-dark-harder-public.tar.gz"
+    },
+    "techno": "web / NodeJS",
+    "category": "fcsc_2023",
+    "level": "4",
+    "flag_validation": "f331dd2dff27fda0432cfc9bb989c835fdcc7f47704e8b3b93d5b0cdccf91a19",
+    "repository": "https://github.com/Hack-Oeil/fcsc2023-web-whiskers-in-the-dark-harder.git",
+    "type": "docker",
+    "description": "Challenge fcsc2023-web-whiskers-in-the-dark-harder de hackropole.fr"
+  }
+]
