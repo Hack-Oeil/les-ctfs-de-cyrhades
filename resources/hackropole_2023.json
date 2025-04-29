@@ -144,22 +144,6 @@
   },
   {
     "id": "334",
-    "author": "Cryptanalyse",
-    "name": "uid",
-    "dirname": "fcsc2023-pwn-uid",
-    "files": {
-      "uid": "https://hackropole.fr/challenges/fcsc2023-pwn-uid/public/uid"
-    },
-    "techno": "pwn / x86/x64",
-    "category": "fcsc_2023",
-    "level": "1",
-    "flag_validation" : "2acb2f23168ddd8d81d15635cb2fdd66a9a755e96a0d126f34a5857270537ecc",
-    "repository": "https://github.com/Hack-Oeil/fcsc2023-pwn-uid.git",
-    "type": "docker",
-    "description": "Challenge fcsc2023-pwn-uid de hackropole.fr"
-  },
-  {
-    "id": "335",
     "author": "rbe",
     "name": "Au Boolot",
     "dirname": "fcsc2023-hardware-au-boolot",
@@ -172,7 +156,7 @@
     "description": "Challenge fcsc2023-hardware-au-boolot de hackropole.fr"
   },
   {
-    "id": "336",
+    "id": "335",
     "author": "rbe",
     "name": "canflag",
     "dirname": "fcsc2023-hardware-canflag",
@@ -188,7 +172,7 @@
     "description": "Challenge fcsc2023-hardware-canflag de hackropole.fr"
   },
   {
-    "id": "337",
+    "id": "336",
     "author": "Cryptanalyse",
     "name": "Chaussette (XS)",
     "dirname": "fcsc2023-reverse-chaussette-xs",
@@ -204,7 +188,7 @@
     "description": "Challenge fcsc2023-reverse-chaussette-xs de hackropole.fr"
   },
   {
-    "id": "338",
+    "id": "337",
     "author": "ElyKar",
     "name": "Chiffre Unique",
     "dirname": "fcsc2023-reverse-chiffre-unique",
@@ -220,7 +204,7 @@
     "description": "Challenge fcsc2023-reverse-chiffre-unique de hackropole.fr"
   },
   {
-    "id": "339",
+    "id": "338",
     "author": "rbe",
     "name": "Des p'tits trous",
     "dirname": "fcsc2023-misc-des-ptits-trous",
@@ -236,7 +220,7 @@
     "description": "Challenge fcsc2023-misc-des-ptits-trous de hackropole.fr"
   },
   {
-    "id": "340",
+    "id": "339",
     "author": "Cryptanalyse",
     "name": "Elliptic Addventure",
     "dirname": "fcsc2023-crypto-elliptic-addventure",
@@ -253,7 +237,7 @@
     "description": "Challenge fcsc2023-crypto-elliptic-addventure de hackropole.fr"
   },
   {
-    "id": "341",
+    "id": "340",
     "author": "Cryptanalyse",
     "name": "ENISA Flag Store 1/2",
     "readme": "README_1_2.md",
@@ -270,7 +254,7 @@
     "description": "Challenge fcsc2023-web-enisa-flag-store-1 de hackropole.fr"
   },
   {
-    "id": "342",
+    "id": "341",
     "author": "Ludo",
     "name": "Evil Plant",
     "dirname": "fcsc2023-misc-evil-plant",
@@ -283,7 +267,7 @@
     "description": "Challenge fcsc2023-misc-evil-plant de hackropole.fr"
   },
   {
-    "id": "343",
+    "id": "342",
     "author": "Neige",
     "name": "Fibonacci",
     "dirname": "fcsc2023-hardware-asm-fibonacci",
@@ -301,7 +285,7 @@
     "description": "Challenge fcsc2023-hardware-asm-fibonacci de hackropole.fr"
   },
   {
-    "id": "344",
+    "id": "343",
     "author": "DrStache",
     "name": "Hello from the inside",
     "dirname": "fcsc2023-web-hello-from-the-inside",
@@ -314,7 +298,7 @@
     "description": "Challenge fcsc2023-web-hello-from-the-inside de hackropole.fr"
   },
   {
-    "id": "345",
+    "id": "344",
     "author": "Cryptanalyse",
     "name": "La base",
     "dirname": "fcsc2023-misc-la-base",
@@ -330,7 +314,7 @@
     "description": "Challenge fcsc2023-misc-la-base de hackropole.fr"
   },
   {
-    "id": "346",
+    "id": "345",
     "author": "erdnaxe",
     "name": "Lapin Blanc",
     "dirname": "fcsc2023-hardware-lapin-blanc",
@@ -343,7 +327,7 @@
     "description": "Challenge fcsc2023-hardware-lapin-blanc de hackropole.fr"
   },
   {
-    "id": "347",
+    "id": "346",
     "author": "Cryptanalyse",
     "name": "Le hash qui rit",
     "dirname": "fcsc2023-crypto-le-hash-qui-rit",
@@ -359,7 +343,7 @@
     "description": "Challenge fcsc2023-crypto-le-hash-qui-rit de hackropole.fr"
   },
   {
-    "id": "348",
+    "id": "347",
     "author": "cde",
     "name": "May the Forth",
     "dirname": "fcsc2023-pwn-may-the-forth",
@@ -376,7 +360,7 @@
     "description": "Challenge fcsc2023-pwn-may-the-forth de hackropole.fr"
   },
   {
-    "id": "349",
+    "id": "348",
     "author": "haxom",
     "name": "Ransomémoire 0/3 - Pour commencer",
     "readme": "README_0_3.md",
@@ -393,7 +377,7 @@
     "description": "Challenge fcsc2023-forensics-ransomemoire-1 de hackropole.fr"
   },
   {
-    "id": "350",
+    "id": "349",
     "author": "Neige",
     "name": "RSA Secure Dev 1/3",
     "readme": "README_1_3.md",
@@ -413,7 +397,7 @@
     "description": "Challenge fcsc2023-hardware-rsa-secure-dev-1 de hackropole.fr"
   },
   {
-    "id": "351",
+    "id": "350",
     "author": "DrStache",
     "name": "Salty authentication",
     "dirname": "fcsc2023-web-salty-authentication",
@@ -426,7 +410,7 @@
     "description": "Challenge fcsc2023-web-salty-authentication de hackropole.fr"
   },
   {
-    "id": "352",
+    "id": "351",
     "author": "\\E",
     "name": "Sensor Watch",
     "dirname": "fcsc2023-reverse-sensorwatch",
@@ -443,7 +427,7 @@
     "description": "Challenge fcsc2023-reverse-sensorwatch de hackropole.fr"
   },
   {
-    "id": "353",
+    "id": "352",
     "author": "Cryptanalyse",
     "name": "Tri Très Sélectif",
     "dirname": "fcsc2023-misc-tri-tres-selectif",
@@ -460,7 +444,7 @@
     "description": "Challenge fcsc2023-misc-tri-tres-selectif de hackropole.fr"
   },
   {
-    "id": "354",
+    "id": "353",
     "author": "Ker",
     "name": "Un truc qui cloche",
     "dirname": "fcsc2023-hardware-un-truc-qui-cloche",
@@ -473,7 +457,7 @@
     "description": "Challenge fcsc2023-hardware-un-truc-qui-cloche de hackropole.fr"
   },
   {
-    "id": "355",
+    "id": "354",
     "author": "ribt",
     "name": "Weird Shell",
     "dirname": "fcsc2023-forensics-weird-shell",
@@ -490,7 +474,7 @@
     "description": "Challenge fcsc2023-forensics-weird-shell de hackropole.fr"
   },
   {
-    "id": "356",
+    "id": "355",
     "author": "Cryptanalyse",
     "name": "Zéro Pointé",
     "dirname": "fcsc2023-misc-zero-pointe",
@@ -507,7 +491,7 @@
     "description": "Challenge fcsc2023-misc-zero-pointe de hackropole.fr"
   },
   {
-    "id": "357",
+    "id": "356",
     "author": "Ludo",
     "name": "Baleine sous graviers",
     "dirname": "fcsc2023-forensics-baleine-sous-graviers",
@@ -523,7 +507,7 @@
     "description": "Challenge fcsc2023-forensics-baleine-sous-graviers de hackropole.fr"
   },
   {
-    "id": "358",
+    "id": "357",
     "author": "Cryptanalyse",
     "name": "Chaussette",
     "dirname": "fcsc2023-reverse-chaussette",
@@ -539,7 +523,7 @@
     "description": "Challenge fcsc2023-reverse-chaussette de hackropole.fr"
   },
   {
-    "id": "359",
+    "id": "358",
     "author": "Cryptanalyse",
     "name": "Elliptic Addrenaline",
     "dirname": "fcsc2023-crypto-elliptic-addrenaline",
@@ -556,7 +540,7 @@
     "description": "Challenge fcsc2023-crypto-elliptic-addrenaline de hackropole.fr"
   },
   {
-    "id": "360",
+    "id": "359",
     "author": "Cryptanalyse",
     "name": "ENISA Flag Store 2/2",
     "readme": "README_2_2.md",
@@ -573,7 +557,7 @@
     "description": "Challenge fcsc2023-web-enisa-flag-store-2 de hackropole.fr"
   },
   {
-    "id": "361",
+    "id": "360",
     "author": "Cryptanalyse",
     "name": "Keskidi",
     "dirname": "fcsc2023-pwn-keskidi",
@@ -589,7 +573,7 @@
     "description": "Challenge fcsc2023-pwn-keskidi de hackropole.fr"
   },
   {
-    "id": "362",
+    "id": "361",
     "author": "rbe",
     "name": "keypadbol",
     "dirname": "fcsc2023-hardware-keypadbol",
@@ -605,7 +589,7 @@
     "description": "Challenge fcsc2023-hardware-keypadbol de hackropole.fr"
   },
   {
-    "id": "363",
+    "id": "362",
     "author": "cde / Cryptanalyse",
     "name": "May the Fifth",
     "dirname": "fcsc2023-pwn-may-the-fifth",
@@ -622,7 +606,7 @@
     "description": "Challenge fcsc2023-pwn-may-the-fifth de hackropole.fr"
   },
   {
-    "id": "364",
+    "id": "363",
     "author": "jrr",
     "name": "Niagara",
     "dirname": "fcsc2023-crypto-niagara",
@@ -639,7 +623,7 @@
     "description": "Challenge fcsc2023-crypto-niagara de hackropole.fr"
   },
   {
-    "id": "365",
+    "id": "364",
     "author": "Cryptanalyse",
     "name": "Pain in the Hash",
     "dirname": "fcsc2023-crypto-pain-in-the-hash",
@@ -655,7 +639,7 @@
     "description": "Challenge fcsc2023-crypto-pain-in-the-hash de hackropole.fr"
   },
   {
-    "id": "366",
+    "id": "365",
     "author": "BitK",
     "name": "Peculiar Caterpillar",
     "dirname": "fcsc2023-web-peculiar-caterpillar",
@@ -671,7 +655,7 @@
     "description": "Challenge fcsc2023-web-peculiar-caterpillar de hackropole.fr"
   },
   {
-    "id": "367",
+    "id": "366",
     "author": "Cryptanalyse",
     "name": "Prechall FCSC 2023",
     "dirname": "fcsc2023-misc-teaser",
@@ -687,7 +671,7 @@
     "description": "Challenge fcsc2023-misc-teaser de hackropole.fr"
   },
   {
-    "id": "368",
+    "id": "367",
     "author": "Cryptanalyse",
     "name": "Ptérodactyle",
     "dirname": "fcsc2023-pwn-pterodactyle",
@@ -703,7 +687,7 @@
     "description": "Challenge fcsc2023-pwn-pterodactyle de hackropole.fr"
   },
   {
-    "id": "369",
+    "id": "368",
     "author": "rbe",
     "name": "pwnduino",
     "dirname": "fcsc2023-pwn-pwnduino",
@@ -720,7 +704,7 @@
     "description": "Challenge fcsc2023-pwn-pwnduino de hackropole.fr"
   },
   {
-    "id": "370",
+    "id": "369",
     "author": "haxom",
     "name": "Ransomémoire 1/3 - Mon précieux",
     "readme": "README_1_3.md",
@@ -737,7 +721,7 @@
     "description": "Challenge fcsc2023-forensics-ransomemoire-2 de hackropole.fr"
   },
   {
-    "id": "371",
+    "id": "370",
     "author": "haxom",
     "name": "Ransomémoire 2/3 - Début d'investigation",
     "readme": "README_2_3.md",
@@ -754,7 +738,7 @@
     "description": "Challenge fcsc2023-forensics-ransomemoire-3 de hackropole.fr"
   },
   {
-    "id": "372",
+    "id": "371",
     "author": "pva",
     "name": "Rechatdrage",
     "dirname": "fcsc2023-misc-rechatdrage",
@@ -770,7 +754,7 @@
     "description": "Challenge fcsc2023-misc-rechatdrage de hackropole.fr"
   },
   {
-    "id": "373",
+    "id": "372",
     "author": "AMI",
     "name": "Robot",
     "dirname": "fcsc2023-pwn-robot",
@@ -787,7 +771,7 @@
     "description": "Challenge fcsc2023-pwn-robot de hackropole.fr"
   },
   {
-    "id": "374",
+    "id": "373",
     "author": "AMI",
     "name": "Rouge Saumon",
     "dirname": "fcsc2023-misc-rouge-saumon",
@@ -803,7 +787,7 @@
     "description": "Challenge fcsc2023-misc-rouge-saumon de hackropole.fr"
   },
   {
-    "id": "375",
+    "id": "374",
     "author": "Neige",
     "name": "RSA Secure Dev 2/3",
     "readme": "README_2_3.md",
@@ -823,7 +807,7 @@
     "description": "Challenge fcsc2023-hardware-rsa-secure-dev-2 de hackropole.fr"
   },
   {
-    "id": "376",
+    "id": "375",
     "author": "cde",
     "name": "sadmind",
     "dirname": "fcsc2023-forensics-sadmind",
@@ -840,7 +824,7 @@
     "description": "Challenge fcsc2023-forensics-sadmind de hackropole.fr"
   },
   {
-    "id": "377",
+    "id": "376",
     "author": "erdnaxe",
     "name": "Sous marin",
     "dirname": "fcsc2023-hardware-sous-marin",
@@ -856,7 +840,7 @@
     "description": "Challenge fcsc2023-hardware-sous-marin de hackropole.fr"
   },
   {
-    "id": "378",
+    "id": "377",
     "author": "BitK",
     "name": "Tweedle Dum",
     "dirname": "fcsc2023-web-tweedle-dum",
@@ -872,7 +856,7 @@
     "description": "Challenge fcsc2023-web-tweedle-dum de hackropole.fr"
   },
   {
-    "id": "379",
+    "id": "378",
     "author": "hg / jrr / Cryptanalyse",
     "name": "Black Block",
     "dirname": "fcsc2023-crypto-black-block",
@@ -889,7 +873,7 @@
     "description": "Challenge fcsc2023-crypto-black-block de hackropole.fr"
   },
   {
-    "id": "380",
+    "id": "379",
     "author": "Cryptanalyse",
     "name": "Brachiosaure",
     "dirname": "fcsc2023-reverse-brachiosaure",
@@ -905,7 +889,7 @@
     "description": "Challenge fcsc2023-reverse-brachiosaure de hackropole.fr"
   },
   {
-    "id": "381",
+    "id": "380",
     "author": "sheidan",
     "name": "Contrôleur de licence",
     "dirname": "fcsc2023-reverse-controleur-de-licence",
@@ -921,7 +905,7 @@
     "description": "Challenge fcsc2023-reverse-controleur-de-licence de hackropole.fr"
   },
   {
-    "id": "382",
+    "id": "381",
     "author": "Cryptanalyse",
     "name": "Cry Me a River",
     "dirname": "fcsc2023-crypto-cry-me-a-river",
@@ -937,7 +921,7 @@
     "description": "Challenge fcsc2023-crypto-cry-me-a-river de hackropole.fr"
   },
   {
-    "id": "383",
+    "id": "382",
     "author": "BitK",
     "name": "Follow the Rabbit",
     "dirname": "fcsc2023-web-follow-the-rabbit",
@@ -953,7 +937,7 @@
     "description": "Challenge fcsc2023-web-follow-the-rabbit de hackropole.fr"
   },
   {
-    "id": "384",
+    "id": "383",
     "author": "BitK",
     "name": "Follow the Rabbit (Harder)",
     "dirname": "fcsc2023-web-follow-the-rabbit-harder",
@@ -969,7 +953,7 @@
     "description": "Challenge fcsc2023-web-follow-the-rabbit-harder de hackropole.fr"
   },
   {
-    "id": "385",
+    "id": "384",
     "author": "hr",
     "name": "Grabin",
     "dirname": "fcsc2023-crypto-grabin",
@@ -986,7 +970,7 @@
     "description": "Challenge fcsc2023-crypto-grabin de hackropole.fr"
   },
   {
-    "id": "386",
+    "id": "385",
     "author": "rbe",
     "name": "Hola Amigo",
     "dirname": "fcsc2023-reverse-hola-amigo",
@@ -1003,7 +987,7 @@
     "description": "Challenge fcsc2023-reverse-hola-amigo de hackropole.fr"
   },
   {
-    "id": "387",
+    "id": "386",
     "author": "XeR",
     "name": "HTTP 2",
     "dirname": "fcsc2023-pwn-http2",
@@ -1019,7 +1003,7 @@
     "description": "Challenge fcsc2023-pwn-http2 de hackropole.fr"
   },
   {
-    "id": "388",
+    "id": "387",
     "author": "XeR",
     "name": "ktruc",
     "dirname": "fcsc2023-pwn-ktruc",
@@ -1035,7 +1019,7 @@
     "description": "Challenge fcsc2023-pwn-ktruc de hackropole.fr"
   },
   {
-    "id": "389",
+    "id": "388",
     "author": "johndoe",
     "name": "Mauvaise baleine",
     "dirname": "fcsc2023-misc-mauvaise-baleine",
@@ -1051,7 +1035,7 @@
     "description": "Challenge fcsc2023-misc-mauvaise-baleine de hackropole.fr"
   },
   {
-    "id": "390",
+    "id": "389",
     "author": "rbe",
     "name": "PALeoTV",
     "dirname": "fcsc2023-hardware-paleotv",
@@ -1067,7 +1051,7 @@
     "description": "Challenge fcsc2023-hardware-paleotv de hackropole.fr"
   },
   {
-    "id": "391",
+    "id": "390",
     "author": "Cryptanalyse",
     "name": "Picasso",
     "dirname": "fcsc2023-reverse-picasso",
@@ -1083,7 +1067,7 @@
     "description": "Challenge fcsc2023-reverse-picasso de hackropole.fr"
   },
   {
-    "id": "392",
+    "id": "391",
     "author": "haxom",
     "name": "Ransomémoire 3/3 - Doppelgänger",
     "readme": "README_3_3.md",
@@ -1100,7 +1084,7 @@
     "description": "Challenge fcsc2023-forensics-ransomemoire-4 de hackropole.fr"
   },
   {
-    "id": "393",
+    "id": "392",
     "author": "Neige",
     "name": "RSA Secure Dev 3/3",
     "readme": "README_3_3.md",
@@ -1120,7 +1104,7 @@
     "description": "Challenge fcsc2023-hardware-rsa-secure-dev-3 de hackropole.fr"
   },
   {
-    "id": "394",
+    "id": "393",
     "author": "erdnaxe",
     "name": "The Colour of Magic",
     "dirname": "fcsc2023-misc-the-colour-of-magic",
@@ -1136,7 +1120,7 @@
     "description": "Challenge fcsc2023-misc-the-colour-of-magic de hackropole.fr"
   },
   {
-    "id": "395",
+    "id": "394",
     "author": "BitK",
     "name": "Tweedle Dee",
     "dirname": "fcsc2023-web-tweedle-dee",
@@ -1152,7 +1136,7 @@
     "description": "Challenge fcsc2023-web-tweedle-dee de hackropole.fr"
   },
   {
-    "id": "396",
+    "id": "395",
     "author": "pva",
     "name": "Video Games Awards",
     "dirname": "fcsc2023-reverse-video-games-awards",
@@ -1168,7 +1152,7 @@
     "description": "Challenge fcsc2023-reverse-video-games-awards de hackropole.fr"
   },
   {
-    "id": "397",
+    "id": "396",
     "author": "BitK",
     "name": "Whiskers in the dark",
     "dirname": "fcsc2023-web-whiskers-in-the-dark",
@@ -1184,7 +1168,7 @@
     "description": "Challenge fcsc2023-web-whiskers-in-the-dark de hackropole.fr"
   },
   {
-    "id": "398",
+    "id": "397",
     "author": "BitK",
     "name": "Whiskers in the dark (Harder)",
     "dirname": "fcsc2023-web-whiskers-in-the-dark-harder",
