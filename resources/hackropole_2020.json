@@ -982,7 +982,7 @@
     "techno": "pwn / kernel / x86/x64",
     "category": "fcsc_2020",
     "level": "3",
-    "flag_validation" : "-",
+    "flag_validation" : "7643cafef8286d2137c7a7323232c78a5e44437d91ce601118c4293a90dc811f",
     "repository": "https://github.com/Hack-Oeil/fcsc2020-pwn-hello-rootkitty-harder.git",
     "type": "docker",
     "description": "Challenge fcsc2020-pwn-hello-rootkitty-harder de hackropole.fr"
