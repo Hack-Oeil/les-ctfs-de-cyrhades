@@ -925,7 +925,7 @@
     "techno": "hardware / radio",
     "category": "fcsc_2020",
     "level": "3",
-    "flag_validation" : "-",
+    "flag_validation" : "ec7842c5e230863f1a96c6f5b8860d6449ea13ba8ef56ea25755c2566aea384c",
     "repository": "https://github.com/Hack-Oeil/fcsc2020-hardware-bluetooth-low-energy.git",
     "type": "file",
     "description": "Challenge fcsc2020-hardware-bluetooth-low-energy de hackropole.fr"
