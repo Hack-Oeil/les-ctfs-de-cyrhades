@@ -1,0 +1,1566 @@
+[
+    {
+      "id": "398",
+      "author": "Maxime / Cryptanalyse",
+      "name": "AdveRSArial Crypto (Infant)",
+      "dirname": "fcsc2024-crypto-adversarial-crypto-1",
+      "files": {
+        "adversarial-crypto-infant.py": "https://hackropole.fr/challenges/fcsc2024-crypto-adversarial-crypto/public/infant/adversarial-crypto-infant.py",
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-crypto-adversarial-crypto/public/infant/output.txt"
+      },
+      "techno": "crypto / RSA",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "65455d538028e4afd3ea78023a8bfa76f1a1f6d105492c06ca7224c41eb15008",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-adversarial-crypto-1.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-crypto-adversarial-crypto-1 de hackropole.fr"
+    },
+    {
+      "id": "399",
+      "author": "Cryptanalyse",
+      "name": "Blind Attack",
+      "dirname": "fcsc2024-pwn-blind-attack",
+      "techno": "pwn / attaque-défense / x86/x64",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "be83f013a9ac1131545316580315ec547bde7b85aff7734e1126bc114cad9316",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-blind-attack.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-blind-attack de hackropole.fr"
+    },
+    {
+      "id": "400",
+      "author": "Cryptanalyse",
+      "name": "Call Me Blah",
+      "dirname": "fcsc2024-pwn-call-me-blah",
+      "files": {
+        "call-me-blah": "https://hackropole.fr/challenges/fcsc2024-pwn-call-me-blah/public/call-me-blah",
+        "call-me-blah.c": "https://hackropole.fr/challenges/fcsc2024-pwn-call-me-blah/public/call-me-blah.c",
+        "ld-2.36.so": "https://hackropole.fr/challenges/fcsc2024-pwn-call-me-blah/public/ld-2.36.so",
+        "libc-2.36.so": "https://hackropole.fr/challenges/fcsc2024-pwn-call-me-blah/public/libc-2.36.so"
+      },
+      "techno": "pwn / x86/x64",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "b51154fdd9a31fc97c20fe31e4a6a8149d9e3aa894c791bae800307f9f1a3aa9",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-call-me-blah.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-call-me-blah de hackropole.fr"
+    },
+    {
+      "id": "401",
+      "author": "erdnaxe",
+      "name": "Docker et Netcat",
+      "dirname": "fcsc2024-misc-welcome-docker",
+      "techno": "misc",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "0b3f4eff59b4da0e83efee63c66a1abd8bb4a5e1d989d1cc1ba31bf7a0e37257",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-welcome-docker.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-misc-welcome-docker de hackropole.fr"
+    },
+    {
+      "id": "402",
+      "author": "ElyKar",
+      "name": "FFTea",
+      "dirname": "fcsc2024-hardware-fftea",      
+      "files": {
+        "fftea": "https://hackropole.fr/challenges/fcsc2024-hardware-fftea/public/fftea",
+        "craft_signal.py": "https://hackropole.fr/challenges/fcsc2024-hardware-fftea/public/craft_signal.py"
+      },
+      "techno": "hardware / radio",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "8629015c1204c30b02b0f23554b0fcc6d3750e805246a187b8f45c6efe2a699c",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-fftea.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-hardware-fftea de hackropole.fr"
+    },
+    {
+      "id": "403",
+      "author": "Cryptanalyse",
+      "name": "Fifty Shades of White (Junior)",
+      "dirname": "fcsc2024-reverse-fifty-shades-of-white-1",
+      "files": {
+        "fifty-shades-of-white": "https://hackropole.fr/challenges/fcsc2024-reverse-fifty-shades-of-white/public/fifty-shades-of-white",
+        "license-walter-white-junior.txt": "https://hackropole.fr/challenges/fcsc2024-reverse-fifty-shades-of-white/public/license-walter-white-junior.txt"
+      },
+      "techno": "reverse / linux / x86/x64",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "583faaaf9bec0a89ad8be053bdd29dd4bb6734f7002e459040ddaa7884835aa5",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-fifty-shades-of-white-1.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-reverse-fifty-shades-of-white-1 de hackropole.fr"
+    },
+    {
+      "id": "405",
+      "author": "Neige",
+      "name": "Intégration par parties",
+      "dirname": "fcsc2024-hardware-integration-par-parties",
+      "files": {
+        "integration-par-parties.py": "https://hackropole.fr/challenges/fcsc2024-hardware-integration-par-parties/public/integration-par-parties.py",
+        "shared_value.py": "https://hackropole.fr/challenges/fcsc2024-hardware-integration-par-parties/public/shared_value.py",
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-hardware-integration-par-parties/public/output.txt"
+      },
+      "techno": "hardware / attaque side channel",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "3437cadc1d9bc31bf11f4428a8884110a0df76560c682f556e3678634e69cda3",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-integration-par-parties.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-hardware-integration-par-parties de hackropole.fr"
+    },
+    {
+      "id": "406",
+      "author": "nop",
+      "name": "Layer Cake 1/3",
+      "dirname": "fcsc2024-forensics-layer-cake-1",
+      "techno": "forensics / docker",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "2d73bba3c0025569993a705d49b7d4ee82b65b9fa007560680402e8fef9e94cc",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-layer-cake-1.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-layer-cake-1 de hackropole.fr"
+    },
+    {
+      "id": "407",
+      "author": "nop",
+      "name": "Layer Cake 2/3",
+      "dirname": "fcsc2024-forensics-layer-cake-2",
+      "techno": "forensics / docker",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "1ee31deef1313f28533fbeefc9c48fbfe3defe2989be3f6552510ea3bf0f0879",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-layer-cake-2.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-layer-cake-2 de hackropole.fr"
+    },
+    {
+      "id": "408",
+      "author": "nop / erdnaxe",
+      "name": "Layer Cake 3/3",
+      "dirname": "fcsc2024-forensics-layer-cake-3",
+      "techno": "forensics / docker",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "e4ba241427b6a1dbd3ce27f56b541ddcde56b8c841147550a72ecd2dde356abc",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-layer-cake-3.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-layer-cake-3 de hackropole.fr"
+    },
+    {
+      "id": "409",
+      "author": "Cryptanalyse",
+      "name": "Rien à signaler",
+      "dirname": "fcsc2024-crypto-rien-a-signaler",
+      "files": {
+        "rien-a-signaler.py": "https://hackropole.fr/challenges/fcsc2024-crypto-rien-a-signaler/public/rien-a-signaler.py",
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-crypto-rien-a-signaler/public/output.txt"
+      },
+      "techno": "crypto / RSA",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "c08bf075b84d09b635f519481ab0c4d914537dec385561ca9e6be4b2a415edac",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-rien-a-signaler.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-crypto-rien-a-signaler de hackropole.fr"
+    },
+    {
+      "id": "410",
+      "author": "rbe",
+      "name": "Strike",
+      "dirname": "fcsc2024-reverse-strike",
+      "files": {
+        "strike": "https://hackropole.fr/challenges/fcsc2024-reverse-strike/public/strike"
+      },
+      "techno": "reverse / linux / x86/x64",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "e24f083331aade84f80c98b5f7a65ede9e083001ad7711d7a4b95ae57e2fedec",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-strike.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-strike de hackropole.fr"
+    },
+    {
+      "id": "411",
+      "author": "rbe",
+      "name": "Very Cute Data",
+      "dirname": "fcsc2024-hardware-very-cute-data",
+      "files": {
+        "very-cute-data.vcd": "https://hackropole.fr/challenges/fcsc2024-hardware-very-cute-data/public/very-cute-data.vcd"
+      },
+      "techno": "hardware / bus de communication",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "d32f49f02115b72afed557ebbd16a800a4c6d77139f489b250f4c0245a8efb8e",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-very-cute-data.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-hardware-very-cute-data de hackropole.fr"
+    },
+    {
+      "id": "412",
+      "author": "BitK",
+      "name": "Welcome Admin 1/2",
+      "dirname": "fcsc2024-web-welcome-admin-1",
+      "files": {
+        "welcome-admin.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-welcome-admin/public/welcome-admin.tar.xz"
+      },
+      "techno": "web / python",
+      "category": "fcsc_2024",
+      "level": "1",
+      "flag_validation" : "8c1e133bc6e4ad9f6aed415c02a3515ae2104b4a1bfa04843ccf76d19eb96147",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-welcome-admin-1.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-welcome-admin-1 de hackropole.fr"
+    },
+    {
+      "id": "413",
+      "author": "pva",
+      "name": "À temps tôt",
+      "dirname": "fcsc2024-reverse-a-temps-tot",
+      "files": {
+        "time.exe": "https://hackropole.fr/challenges/fcsc2024-reverse-a-temps-tot/public/time.exe"
+      },
+      "techno": "reverse / windows / x86/x64",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "2ea190a606e72bb44a4fc8d0fd93c2dbc592c4ac196a78bb1775839e310c86f0",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-a-temps-tot.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-a-temps-tot de hackropole.fr"
+    },
+    {
+      "id": "414",
+      "author": "BitK",
+      "name": "Abyssal Odds",
+      "dirname": "fcsc2024-web-abyssal-odds",
+      "files": {
+        "abyssal-odds.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-abyssal-odds/public/abyssal-odds.tar.xz"
+      },
+      "techno": "web / NodeJS",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "ff7de7485afbc94ed617a0bc4eac74cda1bcbf99bee6d395e3d89509970880ea",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-abyssal-odds.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-abyssal-odds de hackropole.fr"
+    },
+    {
+      "id": "415",
+      "author": "Maxime / Cryptanalyse",
+      "name": "AdveRSArial Crypto (Baby)",
+      "dirname": "fcsc2024-crypto-adversarial-crypto-2",
+      "files": {
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-crypto-adversarial-crypto/public/baby/output.txt"
+      },
+      "techno": "crypto / RSA",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "5ed50bda2c2274211cc55a09915ce8dafcfec32a0f11fe5cb7ba2db6eb8d07af",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-adversarial-crypto-2.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-crypto-adversarial-crypto-2 de hackropole.fr"
+    },
+    {
+      "id": "416",
+      "author": "AMI",
+      "name": "Book Writer (Easy)",
+      "dirname": "fcsc2024-pwn-book-writer-easy",
+      "files": {
+        "book-writer-easy": "https://hackropole.fr/challenges/fcsc2024-pwn-book-writer-easy/public/book-writer-easy",
+        "book-writer-easy.c": "https://hackropole.fr/challenges/fcsc2024-pwn-book-writer-easy/public/book-writer-easy.c"
+      },
+      "techno": "pwn / x86/x64",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "6467d4387c8e80fc272e99de85edf2cfd73f02ac07c7b5b7298f848f047d645f",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-book-writer-easy.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-book-writer-easy de hackropole.fr"
+    },
+    {
+      "id": "417",
+      "author": "ElyKar",
+      "name": "Castafiore",
+      "dirname": "fcsc2024-hardware-castafiore",
+      "files": {
+        "silent.wav": "https://hackropole.fr/challenges/fcsc2024-hardware-castafiore/public/silent.wav"
+      },
+      "techno": "hardware / radio",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "f4a39c2b494ee910329bfaa47dfeb64f7776c5b45a72c4c607744533dbc9ee7a",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-castafiore.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-hardware-castafiore de hackropole.fr"
+    },
+    {
+      "id": "418",
+      "author": "erdnaxe",
+      "name": "Chrominausor",
+      "dirname": "fcsc2024-reverse-chrominausor",
+      "files": {
+        "dino.wasm": "https://hackropole.fr/challenges/fcsc2024-reverse-chrominausor/public/dino.wasm"
+      },
+      "techno": "reverse / wasm",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-chrominausor.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-reverse-chrominausor de hackropole.fr"
+    },
+    {
+      "id": "419",
+      "author": "rbe",
+      "name": "Chrono Rage",
+      "dirname": "fcsc2024-hardware-chrono-rage",
+      "files": {
+        "chrono-rage.pcap": "https://hackropole.fr/challenges/fcsc2024-hardware-chrono-rage/public/chrono-rage.pcap",
+        "chrono-rage-server.py": "https://hackropole.fr/challenges/fcsc2024-hardware-chrono-rage/public/chrono-rage-server.py"
+      },
+      "techno": "hardware / attaque side channel",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-chrono-rage.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-hardware-chrono-rage de hackropole.fr"
+    },
+    {
+      "id": "420",
+      "author": "Neige",
+      "name": "Connaître ses tables 1/2",
+      "dirname": "fcsc2024-hardware-connaitre-ses-tables-1",
+      "files": {
+        "connaitre-ses-tables-easy.tar.xz": "https://hackropole.fr/challenges/fcsc2024-hardware-connaitre-ses-tables/public/connaitre-ses-tables-easy.tar.xz"
+      },
+      "techno": "hardware / crypto / attaque side channel",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "5b2d9fb4d3278a773899686e3b36d8c95ea666e22ac92c306f51234ac4c7845c",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-connaitre-ses-tables-1.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-hardware-connaitre-ses-tables-1 de hackropole.fr"
+    },
+    {
+      "id": "421",
+      "author": "Mizu",
+      "name": "CORS Playground",
+      "dirname": "fcsc2024-web-cors-playground",
+      "files": {
+        "cors-playground.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-cors-playground/public/cors-playground.tar.xz"
+      },
+      "techno": "web / NodeJS",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "dc81b979ebac7242d5f1497a5421e9e15dc8b2a4ce30222674c642f4292a8e02",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-cors-playground.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-cors-playground de hackropole.fr"
+    },
+    {
+      "id": "422",
+      "author": "JD",
+      "name": "El Gamal Fait 1/2",
+      "dirname": "fcsc2024-crypto-el-gamal-fait-1",
+      "files": {
+        "el-gamal-fait-1.py": "https://hackropole.fr/challenges/fcsc2024-crypto-el-gamal-fait-1/public/el-gamal-fait-1.py"
+      },
+      "techno": "crypto",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "e19e109387909f60f1800bd83ac32a310291e6235c2eaff193e4b12e89f3541e",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-el-gamal-fait-1.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-crypto-el-gamal-fait-1 de hackropole.fr"
+    },
+    {
+      "id": "423",
+      "author": "JD",
+      "name": "El Gamal Fait 2/2",
+      "dirname": "fcsc2024-crypto-el-gamal-fait-2",
+      "files": {
+        "el-gamal-fait-2.py": "hhttps://hackropole.fr/challenges/fcsc2024-crypto-el-gamal-fait-2/public/el-gamal-fait-2.py"
+      },
+      "techno": "crypto",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "8193a4fa685a7afafb8b6085376d60513928d806cab8e5f806c8b34160149c01",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-el-gamal-fait-2.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-crypto-el-gamal-fait-2 de hackropole.fr"
+    },
+    {
+      "id": "424",
+      "author": "Cryptanalyse",
+      "name": "Fifty Shades of White (Pinkman)",
+      "dirname": "fcsc2024-reverse-fifty-shades-of-white-2",
+      "files": {
+        "fifty-shades-of-white": "https://hackropole.fr/challenges/fcsc2024-reverse-fifty-shades-of-white/public/fifty-shades-of-white",
+        "license-walter-white-junior.txt": "https://hackropole.fr/challenges/fcsc2024-reverse-fifty-shades-of-white/public/license-walter-white-junior.txt"
+      },
+      "techno": "reverse / linux / x86/x64",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "583faaaf9bec0a89ad8be053bdd29dd4bb6734f7002e459040ddaa7884835aa5",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-fifty-shades-of-white-2.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-reverse-fifty-shades-of-white-2 de hackropole.fr"
+    },
+    {
+      "id": "425",
+      "author": "rbe",
+      "name": "Golgrot13",
+      "dirname": "fcsc2024-hardware-golgrot13",
+      "files": {
+        "fifty-shades-of-white": "https://hackropole.fr/challenges/fcsc2024-reverse-fifty-shades-of-white/public/fifty-shades-of-white",
+        "license-walter-white-junior.txt": "https://hackropole.fr/challenges/fcsc2024-reverse-fifty-shades-of-white/public/license-walter-white-junior.txt"
+      },
+      "techno": "hardware / bus de communication",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "bc26ede83eae43a15af76fd2fe1091295de52c4c484a32773fd35e1acfb9b425",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-golgrot13.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-hardware-golgrot13 de hackropole.fr"
+    },
+    {
+      "id": "426",
+      "author": "\\E",
+      "name": "Horreur, malheur 5/5 - Un peu de CTI",
+      "dirname": "fcsc2024-forensics-horreur-malheur-5",
+      "files": {
+        "archive.encrypted": "https://hackropole.fr/challenges/fcsc2024-forensics-horreur-malheur/public/archive.encrypted",
+        "horreur-malheur.tar.xz": "https://hackropole.fr/challenges/fcsc2024-forensics-horreur-malheur/public/horreur-malheur.tar.xz"
+      },
+      "techno": "forensics",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "03b1f408b735c850e195160e8a81347828ffa94264e55703fc909496bd108c66",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-horreur-malheur-5.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-horreur-malheur-5 de hackropole.fr"
+    },
+    {
+      "id": "427",
+      "author": "erdnaxe",
+      "name": "Illuminated",
+      "dirname": "fcsc2024-misc-illuminated",
+      "files": {
+        "capture.pcap": "https://hackropole.fr/challenges/fcsc2024-misc-illuminated/public/capture.pcap",
+        "cheatsheet.pdf": "https://hackropole.fr/challenges/fcsc2024-misc-illuminated/public/cheatsheet.pdf"
+      },
+      "techno": "misc / protocole industriel",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "c88efd3067bcf9b5857440b1c58ffdf02910de840f5f1fe924fd14a653841193",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-illuminated.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-misc-illuminated de hackropole.fr"
+    },
+    {
+      "id": "428",
+      "author": "BitK",
+      "name": "Noise",
+      "dirname": "fcsc2024-web-noise",
+      "files": {
+        "noise.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-noise/public/noise.tar.xz",
+        "noise-fix.patch": "https://hackropole.fr/challenges/fcsc2024-web-noise/public/noise-fix.patch"
+      },
+      "techno": "web / bot / NodeJS",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "ff3a7fae0b177a8b69333ad4d770806b57e479951288e7631cd46d0ecbe5777b",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-noise.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-noise de hackropole.fr"
+    },
+    {
+      "id": "429",
+      "author": "Cryptanalyse",
+      "name": "Note a Bug (d0g bUt h4ppY)",
+      "dirname": "fcsc2024-pwn-note-a-bug",
+      "techno": "pwn / attaque-défense / x86/x64",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "729cc3384b5e8be907854811312ae5b0030f95f7b6bd30e0c5588b5f73285400",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-note-a-bug.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-note-a-bug-2 de hackropole.fr"
+    },
+    {
+      "id": "430",
+      "author": "Cryptanalyse",
+      "name": "Note a Bug (Red Beer)",
+      "dirname": "fcsc2024-pwn-note-a-bug",
+      "techno": "pwn / attaque-défense / x86/x64",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "8a4e38cb161f876220c3d2cff32767a0e3e614fbf87c4d5775692fb961bbaa9c",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-note-a-bug.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-note-a-bug-2 de hackropole.fr"
+    },
+    {
+      "id": "431",
+      "author": "rbe",
+      "name": "Puzzle Trouble 1/2",
+      "dirname": "fcsc2024-misc-puzzle-trouble-1",
+      "files": {
+        "puzzle-trouble-easy.jpg": "https://hackropole.fr/challenges/fcsc2024-misc-puzzle-trouble/public/puzzle-trouble-easy.jpg"
+      },
+      "techno": "misc",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "137044322a00404e462aa17ddd0cb39242de5746550c05435248e30c7d25db5c",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-puzzle-trouble-1.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-misc-puzzle-trouble-1 de hackropole.fr"
+    },
+    {
+      "id": "432",
+      "author": "ElyKar",
+      "name": "Simple FM",
+      "dirname": "fcsc2024-hardware-simple-fm",
+      "files": {
+        "simple-fm.iq.tar.xz": "https://hackropole.fr/challenges/fcsc2024-hardware-simple-fm/public/simple-fm.iq.tar.xz"
+      },
+      "techno": "hardware / radio",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-simple-fm.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-hardware-simple-fm de hackropole.fr"
+    },
+    {
+      "id": "433",
+      "author": "ribt",
+      "name": "SOC Simulator 2/5 - Vol de secret 1",      
+      "readme": "README_2_5.md",
+      "dirname": "fcsc2024-forensics-soc-simulator",
+      "files": {
+        "soc_events.zip": "https://hackropole.fr/filer/fcsc2024-forensics-soc-simulator/public_filer/soc_events.zip"
+      },
+      "techno": "forensics / logs",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-soc-simulator.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-soc-simulator-2 de hackropole.fr"
+    },
+    {
+      "id": "434",
+      "author": "ribt",
+      "name": "SOC Simulator 4/5 - Latéralisation",      
+      "readme": "README_4_5.md",
+      "dirname": "fcsc2024-forensics-soc-simulator",
+      "files": {
+        "soc_events.zip": "https://hackropole.fr/filer/fcsc2024-forensics-soc-simulator/public_filer/soc_events.zip"
+      },
+      "techno": "forensics / logs",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-soc-simulator.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-soc-simulator-4 de hackropole.fr"
+    },
+    {
+      "id": "435",
+      "author": "Maxime",
+      "name": "The pake is a lie",
+      "dirname": "fcsc2024-crypto-the-pake-is-a-lie",
+      "files": {
+        "the-pake-is-a-lie.py": "https://hackropole.fr/challenges/fcsc2024-crypto-the-pake-is-a-lie/public/the-pake-is-a-lie.py",
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-crypto-the-pake-is-a-lie/public/output.txt"
+      },
+      "techno": "crypto",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "f4ee0eeaed7bbf907b9ba65787d752e1cecdb8ccb4c10ac90a4655a48cb4c9f9",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-the-pake-is-a-lie.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-crypto-the-pake-is-a-lie de hackropole.fr"
+    },
+    {
+      "id": "436",
+      "author": "Cryptanalyse",
+      "name": "Tortuga",
+      "dirname": "fcsc2024-misc-tortuga",
+      "files": {
+        "the-pake-is-a-lie.py": "https://hackropole.fr/challenges/fcsc2024-misc-tortuga/public/tortuga-flag.txt",
+        "tortuga-example.txt": "https://hackropole.fr/challenges/fcsc2024-misc-tortuga/public/tortuga-example.txt",
+        "tortuga-example.png": "https://hackropole.fr/challenges/fcsc2024-misc-tortuga/public/tortuga-example.png"
+      },
+      "techno": "misc",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "1bce942be63422c2681959e6eed39b0b8286c2d11b128a46302b423f02f50316",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-tortuga.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-misc-tortuga de hackropole.fr"
+    },
+    {
+      "id": "437",
+      "author": "BitK",
+      "name": "Welcome Admin 2/2",
+      "dirname": "fcsc2024-web-welcome-admin-2",
+      "files": {
+        "welcome-admin.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-welcome-admin/public/welcome-admin.tar.xz"
+      },
+      "techno": "web / python",
+      "category": "fcsc_2024",
+      "level": "2",
+      "flag_validation" : "49bc1b280081a4965614b7270b1c15c530d4d62e1837a6afafdec95c4981a221",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-welcome-admin-2.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-web-welcome-admin-2 de hackropole.fr"
+    },
+    {
+      "id": "438",
+      "author": "Maxime / Cryptanalyse",
+      "name": "AdveRSArial Crypto (Kiddo)",
+      "dirname": "fcsc2024-crypto-adversarial-crypto-3",
+      "files": {
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-crypto-adversarial-crypto/public/kiddo/output.txt"
+      },
+      "techno": "crypto / RSA",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "691582e6bdf1fb2f41cd70d505ac2b54b142cb421abf757a14d4a0e19a270db0",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-adversarial-crypto-3.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-crypto-adversarial-crypto-3 de hackropole.fr"
+    },
+    {
+      "id": "439",
+      "author": "commial / YoMama",
+      "name": "Archiver",
+      "dirname": "fcsc2024-reverse-archiver",
+      "files": {
+        "result.fcsc": "https://hackropole.fr/challenges/fcsc2024-reverse-archiver/public/result.fcsc",
+        "archiver.exe": "https://hackropole.fr/challenges/fcsc2024-reverse-archiver/public/archiver.exe"
+      },
+      "techno": "reverse / windows / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "ceca67531944651329bda3b123ffd937a8a81838b0d07540c018dd04f1815ffa",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-archiver.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-archiver de hackropole.fr"
+    },
+    {
+      "id": "440",
+      "author": "AMI",
+      "name": "Book Writer",
+      "dirname": "fcsc2024-pwn-book-writer",
+      "files": {
+        "book-writer": "https://hackropole.fr/challenges/fcsc2024-pwn-book-writer/public/book-writer",
+        "book-writer.c": "https://hackropole.fr/challenges/fcsc2024-pwn-book-writer/public/book-writer.c",
+        "ld-2.36.so": "https://hackropole.fr/challenges/fcsc2024-pwn-book-writer/public/ld-2.36.so",
+        "libc-2.36.so": "https://hackropole.fr/challenges/fcsc2024-pwn-book-writer/public/libc-2.36.so"
+      },
+      "techno": "pwn / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "1d0fe86782e7b4fd3e0f308d71b4743a6c5ac1644a09b63a5b9a43c370aa265c",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-book-writer.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-book-writer de hackropole.fr"
+    },
+    {
+      "id": "441",
+      "author": "exti0p",
+      "name": "broadcastopol",
+      "dirname": "fcsc2024-crypto-broadcastopol",
+      "files": {
+        "flag.wav.enc": "https://hackropole.fr/challenges/fcsc2024-crypto-broadcastopol/public/flag.wav.enc",
+        "known.wav": "https://hackropole.fr/challenges/fcsc2024-crypto-broadcastopol/public/known.wav",
+        "known.wav.enc": "https://hackropole.fr/challenges/fcsc2024-crypto-broadcastopol/public/known.wav.enc"
+      },
+      "techno": "crypto",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "bf17cc1ed8bb6f970e63467e646e8525475c7097ccb5365f0fe8542b6ea2444a",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-broadcastopol.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-crypto-broadcastopol de hackropole.fr"
+    },
+    {
+      "id": "442",
+      "author": "Neige",
+      "name": "Broken RSA Keys",
+      "dirname": "fcsc2024-hardware-broken-rsa-keys",
+      "files": {
+        "broken-rsa-keys.py": "https://hackropole.fr/challenges/fcsc2024-hardware-broken-rsa-keys/public/broken-rsa-keys.py",
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-hardware-broken-rsa-keys/public/output.txt"
+      },
+      "techno": "hardware / RSA / attaque par faute",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-broken-rsa-keys.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-hardware-broken-rsa-keys de hackropole.fr"
+    },
+    {
+      "id": "443",
+      "author": "jrr / Cryptanalyse",
+      "name": "Centaure sur Tore",
+      "dirname": "fcsc2024-misc-centaure-sur-tore",
+      "files": {
+        "example-empty.png": "https://hackropole.fr/challenges/fcsc2024-misc-centaure-sur-tore/public/example-empty.png",
+        "example-directions.png": "https://hackropole.fr/challenges/fcsc2024-misc-centaure-sur-tore/public/example-directions.png",
+        "example-solved.png": "https://hackropole.fr/challenges/fcsc2024-misc-centaure-sur-tore/public/example-solved.png"
+      },
+      "techno": "misc / algo",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "557048dd95cdd61360d711e2cbd025838ecc6f6d4f08122e6d7b22d709bcc16c",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-centaure-sur-tore.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-misc-centaure-sur-tore de hackropole.fr"
+    },
+    {
+      "id": "444",
+      "author": "Cryptanalyse",
+      "name": "cheapolata",
+      "dirname": "fcsc2024-pwn-cheapolata",
+      "files": {
+        "cheapolata": "https://hackropole.fr/challenges/fcsc2024-pwn-cheapolata/public/cheapolata",
+        "cheapolata.c": "https://hackropole.fr/challenges/fcsc2024-pwn-cheapolata/public/cheapolata.c",
+        "ld-2.27.so": "https://hackropole.fr/challenges/fcsc2024-pwn-cheapolata/public/ld-2.27.so",
+        "libc-2.27.so": "https://hackropole.fr/challenges/fcsc2024-pwn-cheapolata/public/libc-2.27.so"
+      },
+      "techno": "pwn / x86/x64 / heap",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "2a66c4dc07b6a1a2561e293cd975a4d36f36cca26349d029e8779200afa7a1f5",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-cheapolata.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-cheapolata de hackropole.fr"
+    },
+    {
+      "id": "445",
+      "author": "Neige",
+      "name": "Connaître ses tables 2/2",
+      "dirname": "fcsc2024-hardware-connaitre-ses-tables-2",
+      "files": {
+        "connaitre-ses-tables-medium.tar.xz": "https://hackropole.fr/challenges/fcsc2024-hardware-connaitre-ses-tables/public/connaitre-ses-tables-medium.tar.xz"
+      },
+      "techno": "hardware / crypto / attaque side channel",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-connaitre-ses-tables-2.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-hardware-connaitre-ses-tables-2 de hackropole.fr"
+    },
+    {
+      "id": "446",
+      "author": "rbe",
+      "name": "Dans Ta Meilleure Forme",
+      "dirname": "fcsc2024-misc-dans-ta-meilleure-forme",
+      "files": {
+        "dans-ta-meilleur-forme.wav": "https://hackropole.fr/filer/fcsc2024-misc-dans-ta-meilleure-forme/public_filer/dans-ta-meilleur-forme.wav"
+      },
+      "techno": "misc",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-dans-ta-meilleure-forme.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-misc-dans-ta-meilleure-forme de hackropole.fr"
+    },
+    {
+      "id": "447",
+      "author": "Cryptanalyse",
+      "name": "Hashed Shellcode",
+      "dirname": "fcsc2024-pwn-hashed-shellcode",
+      "files": {
+        "hashed-shellcode": "https://hackropole.fr/challenges/fcsc2024-pwn-hashed-shellcode/public/hashed-shellcode"
+      },
+      "techno": "pwn / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "7dce5623529fb7dc32861be6645677dd4c897257f374d91c59f2679adfd27ab7",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-hashed-shellcode.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-hashed-shellcode de hackropole.fr"
+    },
+    {
+      "id": "448",
+      "author": "\\E",
+      "name": "Horreur, malheur 1/5 - Archive chiffrée",
+      "dirname": "fcsc2024-forensics-horreur-malheur-1",
+      "files": {
+        "archive.encrypted": "https://hackropole.fr/challenges/fcsc2024-forensics-horreur-malheur/public/archive.encrypted"
+      },
+      "techno": "forensics",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "633cd5c8e3102c04dc9646bead37ce4c86449ef937b4d9491168ebcf77da4d90",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-horreur-malheur-1.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-horreur-malheur-1 de hackropole.fr"
+    },
+    {
+      "id": "449",
+      "author": "\\E",
+      "name": "Horreur, malheur 2/5 - Accès initial",
+      "dirname": "fcsc2024-forensics-horreur-malheur-2",
+      "files": {
+        "horreur-malheur.tar.xz": "https://hackropole.fr/challenges/fcsc2024-forensics-horreur-malheur/public/horreur-malheur.tar.xz"
+      },
+      "techno": "forensics",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "a0340a80815aa23fe174e5b36b353e5b89628c6cf001dc82d2cb86bb9873af68",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-horreur-malheur-2.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-horreur-malheur-2 de hackropole.fr"
+    },
+    {
+      "id": "450",
+      "author": "\\E",
+      "name": "Horreur, malheur 3/5 - Simple persistance",
+      "dirname": "fcsc2024-forensics-horreur-malheur-3",
+      "files": {
+        "archive.encrypted": "https://hackropole.fr/challenges/fcsc2024-forensics-horreur-malheur/public/archive.encrypted",
+        "horreur-malheur.tar.xz": "https://hackropole.fr/challenges/fcsc2024-forensics-horreur-malheur/public/horreur-malheur.tar.xz"
+      },
+      "techno": "forensics",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "5764e2c02191104ebbbb665042614e9bfcb33ce33ff1f79ca0b6935a099d7294",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-horreur-malheur-3.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-horreur-malheur-3 de hackropole.fr"
+    },
+    {
+      "id": "451",
+      "author": "\\E",
+      "name": "Horreur, malheur 4/5 - Pas si simple persistance",
+      "dirname": "fcsc2024-forensics-horreur-malheur-4",
+      "files": {
+        "archive.encrypted": "https://hackropole.fr/challenges/fcsc2024-forensics-horreur-malheur/public/archive.encrypted",
+        "horreur-malheur.tar.xz": "https://hackropole.fr/challenges/fcsc2024-forensics-horreur-malheur/public/horreur-malheur.tar.xz"
+      },
+      "techno": "forensics",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "bc4f79a95fe1200680a376a0f18058d2933f6b6606e0623e576699b823ac250b",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-horreur-malheur-4.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-horreur-malheur-4 de hackropole.fr"
+    },
+    {
+      "id": "452",
+      "author": "Cryptanalyse",
+      "name": "Los Polllos Hermanos",
+      "dirname": "fcsc2024-reverse-los-polllos-hermanos",
+      "files": {
+        "los-polllos-hermanos": "https://hackropole.fr/challenges/fcsc2024-reverse-los-polllos-hermanos/public/los-polllos-hermanos"
+      },
+      "techno": "reverse / linux / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-los-polllos-hermanos.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-los-polllos-hermanos de hackropole.fr"
+    },
+    {
+      "id": "453",
+      "author": "graniter",
+      "name": "Mega Sudoku",
+      "dirname": "fcsc2024-misc-mega-sudoku",
+      "files": {
+        "mega-sudoku.py": "https://hackropole.fr/challenges/fcsc2024-misc-mega-sudoku/public/mega-sudoku.py"
+      },
+      "techno": "misc",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "6fbf8659289069042978223078c4646b439d3bed3f4b1c48406a9208078b83b8",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-mega-sudoku.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-misc-mega-sudoku de hackropole.fr"
+    },
+    {
+      "id": "454",
+      "author": "BitK",
+      "name": "Monopoly",
+      "dirname": "fcsc2024-web-monopoly",
+      "files": {
+        "monopoly.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-monopoly/public/monopoly.tar.xz"
+      },
+      "techno": "web / NodeJS",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "aa24766d6ade048df45bda0eef8df30910827c74ecaebdfca4da3e36e0509c8c",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-monopoly.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-monopoly de hackropole.fr"
+    },
+    {
+      "id": "455",
+      "author": "Cryptanalyse",
+      "name": "Note a Bug (Nordic Mollusks)",
+      "dirname": "fcsc2024-pwn-note-a-bug-3",
+      "techno": "pwn / attaque-défense / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-note-a-bug-3.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-note-a-bug-3 de hackropole.fr"
+    },
+    {
+      "id": "456",
+      "author": "Quanthor_ic",
+      "name": "Parmentier",
+      "dirname": "fcsc2024-reverse-parmentier",
+      "files": {
+        "parmentier": "https://hackropole.fr/challenges/fcsc2024-reverse-parmentier/public/parmentier",
+        "export.pdt": "https://hackropole.fr/challenges/fcsc2024-reverse-parmentier/public/export.pdt"
+      },
+      "techno": "reverse / linux / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-parmentier.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-parmentier de hackropole.fr"
+    },
+    {
+      "id": "457",
+      "author": "erdnaxe",
+      "name": "PewPew",
+      "dirname": "fcsc2024-hardware-pewpew",
+      "techno": "hardware / attaque par faute",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-pewpew.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-hardware-pewpew de hackropole.fr"
+    },
+    {
+      "id": "458",
+      "author": "sheidan",
+      "name": "PTSD - Init",
+      "dirname": "fcsc2024-reverse-ptsd",
+      "files": {
+        "server": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/server",
+        "libcrypto.so.3": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/libcrypto.so.3",
+        "libssl.so.3": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/libssl.so.3",
+        "keys.db": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/data/keys.db",
+        "lv1.flag": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/data/lv1.flag",
+        "lv2.flag": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/data/lv2.flag"
+      },
+      "techno": "reverse / linux / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "3af19814c09d3e93c80a381a2110483ea9cce4a4375649a2cca1beabbfa27b51",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-ptsd.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-reverse-ptsd-1 de hackropole.fr"
+    },
+    {
+      "id": "459",
+      "author": "sheidan",
+      "name": "PTSD - Encore une fois",
+      "dirname": "fcsc2024-reverse-ptsd",
+      "files": {
+        "server": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/server",
+        "libcrypto.so.3": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/libcrypto.so.3",
+        "libssl.so.3": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/libssl.so.3",
+        "records.txt": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/data/records.txt",
+        "keys.db": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/data/keys.db",
+        "lv1.flag": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/data/lv1.flag",
+        "lv2.flag": "https://hackropole.fr/challenges/fcsc2024-reverse-ptsd/public/data/lv2.flag"
+      },
+      "techno": "reverse / linux / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "79d5331b2f520d0fbdb3f8b72113ac0d14639e49c1499aa3182f7a7abcd371bc",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-ptsd.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-reverse-ptsd-2 de hackropole.fr"
+    },
+    {
+      "id": "460",
+      "author": "jp",
+      "name": "Salade de fruits",
+      "dirname": "fcsc2024-crypto-salade-de-fruits",
+      "files": {
+        "salade-de-fruits.py": "https://hackropole.fr/challenges/fcsc2024-crypto-salade-de-fruits/public/salade-de-fruits.py"
+      },
+      "techno": "crypto",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "3d08a11a08a2f21c083bf9e8b4dd955702c8f4605b9d506dcb290d3b42854399",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-salade-de-fruits.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-crypto-salade-de-fruits de hackropole.fr"
+    },
+    {
+      "id": "461",
+      "author": "ElyKar",
+      "name": "Secure FM",
+      "dirname": "fcsc2024-hardware-secure-fm",
+      "files": {
+        "secure-fm.iq.tar.xz": "https://hackropole.fr/filer/fcsc2024-hardware-secure-fm/public_filer/secure-fm.iq.tar.xz"
+      },
+      "techno": "hardware / radio",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-secure-fm.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-hardware-secure-fm de hackropole.fr"
+    },
+    {
+      "id": "462",
+      "author": "erdnaxe",
+      "name": "Sésame, ouvre-toi",
+      "dirname": "fcsc2024-hardware-sesame",
+      "files": {
+        "bootloader.bin": "https://hackropole.fr/challenges/fcsc2024-hardware-sesame/public/bootloader.bin"
+      },
+      "techno": "hardware / boot security",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "2f37db4956bdf374b1159cf86b2d2f27f5475cb7229adc96b5920e4d58fa5f41",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-sesame.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-hardware-sesame de hackropole.fr"
+    },
+    {
+      "id": "463",
+      "author": "graniter",
+      "name": "Share a Saucisse",
+      "dirname": "fcsc2024-crypto-share-a-saucisse",
+      "files": {
+        "share-a-saucisse.py": "https://hackropole.fr/challenges/fcsc2024-crypto-share-a-saucisse/public/share-a-saucisse.py", 
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-crypto-share-a-saucisse/public/output.txt"
+      },
+      "techno": "crypto",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "efa67c21aa169c89b4361b09580c285df064d5cb289a4c341780e953a1198aa6",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-share-a-saucisse.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-crypto-share-a-saucisse de hackropole.fr"
+    },
+    {
+      "id": "464",
+      "author": "pva",
+      "name": "Silence",
+      "dirname": "fcsc2024-forensics-silence",
+      "files": {
+        "SilenceExport.zip": "https://hackropole.fr/challenges/fcsc2024-forensics-silence/public/SilenceExport.zip"
+      },
+      "techno": "forensics / android",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-silence.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-silence de hackropole.fr"
+    },
+    {
+      "id": "465",
+      "author": "ribt",
+      "name": "SOC Simulator 1/5 - Vecteur initial",      
+      "readme": "README_1_5.md",
+      "dirname": "fcsc2024-forensics-soc-simulator",
+      "files": {
+        "soc_events.zip": "https://hackropole.fr/filer/fcsc2024-forensics-soc-simulator/public_filer/soc_events.zip"
+      },
+      "techno": "forensics / logs",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-soc-simulator.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-soc-simulator-1 de hackropole.fr"
+    },
+    {
+      "id": "466",
+      "author": "ribt",
+      "name": "SOC Simulator 3/5 - Exfiltration",      
+      "readme": "README_3_5.md",
+      "dirname": "fcsc2024-forensics-soc-simulator",
+      "files": {
+        "soc_events.zip": "https://hackropole.fr/filer/fcsc2024-forensics-soc-simulator/public_filer/soc_events.zip"
+      },
+      "techno": "forensics / logs",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-soc-simulator.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-soc-simulator-3 de hackropole.fr"
+    },
+    {
+      "id": "467",
+      "author": "ribt",
+      "name": "SOC Simulator 5/5 - Vol de secret 2",      
+      "readme": "README_5_5.md",
+      "dirname": "fcsc2024-forensics-soc-simulator",
+      "files": {
+        "soc_events.zip": "https://hackropole.fr/filer/fcsc2024-forensics-soc-simulator/public_filer/soc_events.zip"
+      },
+      "techno": "forensics / logs",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-soc-simulator.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-soc-simulator-5 de hackropole.fr"
+    },
+    {
+      "id": "468",
+      "author": "rbe",
+      "name": "Soupe MISO",
+      "dirname": "fcsc2024-hardware-soupe-miso",
+      "files": {
+        "soupe-miso.vcd.tar.xz": "https://hackropole.fr/challenges/fcsc2024-hardware-soupe-miso/public/soupe-miso.vcd.tar.xz"
+      },
+      "techno": "hardware / bus de communication",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "523624026f9bd1284d6e2ec169db85b6b3b7524d49ec784e904cc170aac208d5",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-forensics-soc-simulator.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-forensics-soc-simulator de hackropole.fr"
+    },
+    {
+      "id": "469",
+      "author": "XeR",
+      "name": "Super Factorizer",
+      "dirname": "fcsc2024-pwn-super-factorizer",
+      "files": {
+        "factor.sh": "https://hackropole.fr/challenges/fcsc2024-pwn-super-factorizer/public/factor.sh",
+        "ld-2.36.so": "https://hackropole.fr/challenges/fcsc2024-pwn-super-factorizer/public/ld-2.36.so",
+        "libc-2.36.so": "https://hackropole.fr/challenges/fcsc2024-pwn-super-factorizer/public/libc-2.36.so",
+        "super-factorizer": "https://hackropole.fr/challenges/fcsc2024-pwn-super-factorizer/public/super-factorizer",
+        "super-factorizer.c": "https://hackropole.fr/challenges/fcsc2024-pwn-super-factorizer/public/super-factorizer.c"
+      },
+      "techno": "pwn / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-super-factorizer.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-super-factorizer de hackropole.fr"
+    },
+    {
+      "id": "470",
+      "author": "BitK",
+      "name": "Super Rock Quizz",
+      "dirname": "fcsc2024-web-super-rock-quizz",
+      "files": {
+        "super-rock-quizz.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-super-rock-quizz/public/super-rock-quizz.tar.xz"
+      },
+      "techno": "web / NodeJS",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "5e93fe2d6cb6c52b0cadb831c760217663d34cb18c88c10a60f6eb9ede5f08e5",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-super-rock-quizz.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-super-rock-quizz de hackropole.fr"
+    },
+    {
+      "id": "471",
+      "author": "pva",
+      "name": "TV Hacks 1/2",
+      "dirname": "fcsc2024-reverse-tv-hacks-1",
+      "files": {
+        "ipopt.ko": "https://hackropole.fr/challenges/fcsc2024-reverse-tv-hacks/public/ipopt.ko",
+        "capture.pcap": "https://hackropole.fr/challenges/fcsc2024-reverse-tv-hacks/public/capture.pcap"
+      },
+      "techno": "reverse / linux / kernel / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-tv-hacks-1.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-tv-hacks-1 de hackropole.fr"
+    },
+    {
+      "id": "472",
+      "author": "Mizu",
+      "name": "Twisty Python",
+      "dirname": "fcsc2024-web-twisty-python-1",
+      "files": {
+        "twisty-python.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-twisty-python/public/twisty-python.tar.xz"
+      },
+      "techno": "web / python",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "2dcb0a54c4e5d2d8e884a2ce61eb857ed617e261e6fb32815e77252f046e141b",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-twisty-python-1.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-twisty-python-1 de hackropole.fr"
+    },
+    {
+      "id": "473",
+      "author": "Maxime / graniter",
+      "name": "Vers l'infini et au delà",
+      "dirname": "fcsc2024-misc-vers-infini-et-au-dela",
+      "files": {
+        "vers-infini-et-au-dela.py": "https://hackropole.fr/challenges/fcsc2024-misc-vers-infini-et-au-dela/public/vers-infini-et-au-dela.py"
+      },
+      "techno": "misc",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-vers-infini-et-au-dela.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-misc-vers-infini-et-au-dela de hackropole.fr"
+    },
+    {
+      "id": "474",
+      "author": "erdnaxe",
+      "name": "Virtual SPInash",
+      "dirname": "fcsc2024-hardware-virtual-spinash",
+      "techno": "hardware / circuit",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "52e915e2ce439bc9b75e99eefd4a8bc2032e8e319b9d8976f60f33bf7e7a7916",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-virtual-spinash.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-hardware-virtual-spinash de hackropole.fr"
+    },
+    {
+      "id": "475",
+      "author": "Maxime",
+      "name": "Winternitz is coming",
+      "dirname": "fcsc2024-crypto-winternitz-is-coming",
+      "files": {
+        "winternitz-is-coming.py": "https://hackropole.fr/challenges/fcsc2024-crypto-winternitz-is-coming/public/winternitz-is-coming.py"
+      },
+      "techno": "crypto",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-winternitz-is-coming.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-crypto-winternitz-is-coming de hackropole.fr"
+    },
+    {
+      "id": "476",
+      "author": "Cryptanalyse / XeR",
+      "name": "Zarby Write",
+      "dirname": "fcsc2024-pwn-zarby-write",
+      "files": {
+        "zarby-write": "https://hackropole.fr/challenges/fcsc2024-pwn-zarby-write/public/zarby-write",
+        "ld-2.37.so": "https://hackropole.fr/challenges/fcsc2024-pwn-zarby-write/public/ld-2.37.so",
+        "libc-2.37.so": "https://hackropole.fr/challenges/fcsc2024-pwn-zarby-write/public/libc-2.37.so"
+      },
+      "techno": "pwn / x86/x64",
+      "category": "fcsc_2024",
+      "level": "3",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-zarby-write.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-zarby-write de hackropole.fr"
+    },
+    {
+      "id": "477",
+      "author": "graniter",
+      "name": "Appellation d'Origine Protégée",
+      "dirname": "fcsc2024-crypto-appellation-origine-protegee",
+      "files": {
+        "appellation-origine-protegee.py": "https://hackropole.fr/challenges/fcsc2024-crypto-appellation-origine-protegee/public/appellation-origine-protegee.py"
+      },
+      "techno": "crypto / symétrique",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-appellation-origine-protegee.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-crypto-appellation-origine-protegee de hackropole.fr"
+    },
+    {
+      "id": "478",
+      "author": "erdnaxe",
+      "name": "Dazzled",
+      "dirname": "fcsc2024-misc-dazzled",
+      "files": {
+        "capture.pcap": "https://hackropole.fr/challenges/fcsc2024-misc-dazzled/public/capture.pcap",
+        "projector.pdf": "https://hackropole.fr/challenges/fcsc2024-misc-dazzled/public/projector.pdf"
+      },
+      "techno": "misc / protocole industriel",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-dazzled.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-misc-dazzled de hackropole.fr"
+    },
+    {
+      "id": "479",
+      "author": "XeR",
+      "name": "File Checker",
+      "dirname": "fcsc2024-pwn-file-checker",
+      "files": {
+        "file-checker": "https://hackropole.fr/challenges/fcsc2024-pwn-file-checker/public/file-checker",
+        "file-checker-src.tar.xz": "https://hackropole.fr/challenges/fcsc2024-pwn-file-checker/public/file-checker-src.tar.xz",
+        "ld-2.39.so": "https://hackropole.fr/challenges/fcsc2024-pwn-file-checker/public/ld-2.39.so",
+        "libc-2.39.so": "https://hackropole.fr/challenges/fcsc2024-pwn-file-checker/public/libc-2.39.so"
+      },
+      "techno": "pwn / x86/x64 / heap",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "40c243b95b8481366e25b9abe9b43b04e2db8d1f8fcdd9f61bb3e6a4861b3653",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-file-checker.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-pwn-file-checker de hackropole.fr"
+    },
+    {
+      "id": "480",
+      "author": "aiolia",
+      "name": "Holy Cow",
+      "dirname": "fcsc2024-pwn-holy-cow",
+      "files": {
+        "d8": "https://hackropole.fr/filer/fcsc2024-pwn-holy-cow/public_filer/d8",
+        "file-checker-src.tar.xz": "https://hackropole.fr/challenges/fcsc2024-pwn-holy-cow/public/holy-cow.patch",
+        "snapshot_blob.bin": "https://hackropole.fr/challenges/fcsc2024-pwn-holy-cow/public/snapshot_blob.bin"
+      },
+      "techno": "pwn / x86/x64",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "7dc1165347225aabd3a8e334f3a8ed757be26052799b700f461cd5d53044c2ff",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-pwn-holy-cow.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-pwn-holy-cow de hackropole.fr"
+    },
+    {
+      "id": "481",
+      "author": "rbe",
+      "name": "Kraken",
+      "dirname": "fcsc2024-reverse-kraken",
+      "files": {
+        "Dockerfile.kraken": "https://hackropole.fr/challenges/fcsc2024-reverse-kraken/public/Dockerfile.kraken",
+        "kraken": "https://hackropole.fr/challenges/fcsc2024-reverse-kraken/public/kraken",
+        "Makefile": "https://hackropole.fr/challenges/fcsc2024-reverse-kraken/public/Makefile",
+        "README.md": "https://hackropole.fr/challenges/fcsc2024-reverse-kraken/public/README.md"
+      },
+      "techno": "reverse / exotique",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "8a8db228a1209611e84da30736d425941be4d127ae1287b295d974f97dbb02a0",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-kraken.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-kraken de hackropole.fr"
+    },
+    {
+      "id": "482",
+      "author": "Cryptanalyse",
+      "name": "Mégalosaure",
+      "dirname": "fcsc2024-reverse-megalosaure",
+      "files": {
+        "megalosaure": "https://hackropole.fr/challenges/fcsc2024-reverse-megalosaure/public/megalosaure"
+      },
+      "techno": "reverse / linux / x86/x64",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "228b499fa626c09c6ff21450b8f08c6837538e2d040577877d77a1eca969a249",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-megalosaure.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-megalosaure de hackropole.fr"
+    },
+    {
+      "id": "484",
+      "author": "rbe",
+      "name": "Midas Touch",
+      "dirname": "fcsc2024-hardware-midas-touch",
+      "files": {
+        "midas-touch.tar.gz": "https://hackropole.fr/challenges/fcsc2024-hardware-midas-touch/public/midas-touch.tar.gz"
+      },
+      "techno": "hardware / bus de communication",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "c7c11848d60d0bde8270700ed77af7333f583c72b75a19a1af3ffa4ba738def3",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-midas-touch.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-hardware-midas-touch de hackropole.fr"
+    },
+    {
+      "id": "485",
+      "author": "BitK",
+      "name": "Noise (Harder)",
+      "dirname": "fcsc2024-web-noise-harder",
+      "files": {
+        "noise-harder.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-noise-harder/public/noise-harder.tar.xz",
+        "noise-fix.patch": "https://hackropole.fr/challenges/fcsc2024-web-noise-harder/public/noise-fix.patch"
+      },
+      "techno": "web / bot / NodeJS",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-noise-harder.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-noise-harder de hackropole.fr"
+    },
+    {
+      "id": "486",
+      "author": "Mizu",
+      "name": "Pong",
+      "dirname": "fcsc2024-web-pong",
+      "files": {
+        "pong.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-pong/public/pong.tar.xz"
+      },
+      "techno": "web / PHP",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "557cf836da66c1caef88cf5a88f3a078333128d9ee0fe9a131ddb9e182bed909",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-pong.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-pong de hackropole.fr"
+    },
+    {
+      "id": "487",
+      "author": "rbe",
+      "name": "Puzzle Trouble 2/2",
+      "dirname": "fcsc2024-misc-puzzle-trouble-2",
+      "files": {
+        "puzzle-trouble-hard.jpg": "https://hackropole.fr/challenges/fcsc2024-misc-puzzle-trouble/public/puzzle-trouble-hard.jpg"
+      },
+      "techno": "misc",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "d3e6d0c40185fad6530e4870b516f6817b298ee3a2f6212b1ac4fc72c29e4ce5",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-misc-puzzle-trouble-2.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-misc-puzzle-trouble-2 de hackropole.fr"
+    },
+    {
+      "id": "488",
+      "author": "rbe",
+      "name": "Secret SHenanigans",
+      "dirname": "fcsc2024-crypto-secret-shenanigans",
+      "files": {
+        "secret-shenanigans.tar.xz": "https://hackropole.fr/challenges/fcsc2024-crypto-secret-shenanigans/public/secret-shenanigans.tar.xz",
+        "README.md": "https://hackropole.fr/challenges/fcsc2024-crypto-secret-shenanigans/public/README.md"
+      },
+      "techno": "crypto / réseau",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "e38378c2c65548c733158a1ab061681aa7d312d85f419fb53948db11fee15ef3",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-secret-shenanigans.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-crypto-secret-shenanigans de hackropole.fr"
+    },
+    {
+      "id": "489",
+      "author": "erdnaxe",
+      "name": "Sésame, ouvre-toi (harder)",
+      "dirname": "fcsc2024-hardware-sesame-harder",
+      "files": {
+        "bootloader.bin": "https://hackropole.fr/challenges/fcsc2024-hardware-sesame-harder/public/bootloader.bin"
+      },
+      "techno": "hardware / boot security",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-sesame-harder.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-hardware-sesame-harder de hackropole.fr"
+    },
+    {
+      "id": "490",
+      "author": "Quanthor_ic",
+      "name": "svartalfheim",
+      "dirname": "fcsc2024-reverse-svartalfheim",
+      "files": {
+        "svartalfheim": "https://hackropole.fr/challenges/fcsc2024-reverse-svartalfheim/public/svartalfheim"
+      },
+      "techno": "reverse / linux / x86/x64",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-svartalfheim.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-svartalfheim de hackropole.fr"
+    },
+    {
+      "id": "491",
+      "author": "Cryptanalyse / hg",
+      "name": "Tight Schedule",
+      "dirname": "fcsc2024-crypto-tight-schedule",
+      "files": {
+        "tight-schedule.py": "https://hackropole.fr/challenges/fcsc2024-crypto-tight-schedule/public/tight-schedule.py",
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-crypto-tight-schedule/public/output.txt"
+      },
+      "techno": "crypto / symétrique",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "996864b3b014f0d9c1777dad799faeb200858f48f7dfc2b998ea71a8e929f6eb",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-crypto-tight-schedule.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-crypto-tight-schedule de hackropole.fr"
+    },
+    {
+      "id": "492",
+      "author": "pva",
+      "name": "TV Hacks 2/2",
+      "dirname": "fcsc2024-reverse-tv-hacks-2",
+      "files": {
+        "ipopt.ko": "https://hackropole.fr/challenges/fcsc2024-reverse-tv-hacks/public/ipopt.ko",
+        "ipopt.tar.gz": "https://hackropole.fr/challenges/fcsc2024-reverse-tv-hacks/public/ipopt.tar.gz",
+        "capture.pcap": "https://hackropole.fr/challenges/fcsc2024-reverse-tv-hacks/public/capture.pcap",
+        "capture.ts": "https://hackropole.fr/filer/fcsc2024-reverse-tv-hacks/public_filer/capture.ts"
+      },
+      "techno": "reverse / linux / kernel / x86/x64",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-reverse-tv-hacks-2.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-reverse-tv-hacks-2 de hackropole.fr"
+    },
+    {
+      "id": "493",
+      "author": "Mizu",
+      "name": "Twisty Python (Fixed)",
+      "dirname": "fcsc2024-web-twisty-python-2",
+      "files": {
+        "twisty-python.tar.xz": "https://hackropole.fr/challenges/fcsc2024-web-twisty-python/public/twisty-python.tar.xz"
+      },
+      "techno": "web / python / bot",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "76afd46af01a655cec33a6c8411b76d68394d867b979ac2f208a2bb9dfab7147",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-web-twisty-python-2.git",
+      "type": "docker",
+      "description": "Challenge fcsc2024-web-twisty-python-2 de hackropole.fr"
+    },
+    {
+      "id": "494",
+      "author": "Neige / erdnaxe",
+      "name": "Unknown Public Key",
+      "dirname": "fcsc2024-hardware-unknown-public-key",
+      "files": {
+        "unknown-public-key.tar.xz": "https://hackropole.fr/challenges/fcsc2024-hardware-unknown-public-key/public/unknown-public-key.tar.xz",
+        "output.txt": "https://hackropole.fr/challenges/fcsc2024-hardware-unknown-public-key/public/output.txt"
+      },
+      "techno": "hardware / attaque side channel",
+      "category": "fcsc_2024",
+      "level": "4",
+      "flag_validation" : "-",
+      "repository": "https://github.com/Hack-Oeil/fcsc2024-hardware-unknown-public-key.git",
+      "type": "file",
+      "description": "Challenge fcsc2024-hardware-unknown-public-key de hackropole.fr"
+    }
+]
