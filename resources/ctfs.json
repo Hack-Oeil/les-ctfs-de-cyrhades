@@ -480,5 +480,18 @@
         "repository": "https://github.com/Hack-Oeil/BAD_COFFEE.git",
         "type": "docker",
         "description": "Vous devez réussir à lire le contenu du fichier .passwd"
+    },
+    {
+        "id": "404",
+        "author" : "Cyrhades",
+        "name":  "Blog Aliboron et Domotique",
+        "dirname": "ctf_vivatech",
+        "techno": "web",
+        "category": "various",
+        "level": "2",
+        "flag_validation" : "8e5e637fd9b661070ad891791554c08541a204c0b0d212d5c86860357f7f3f00",
+        "repository": "https://github.com/Hack-Oeil/ctf_vivatech.git",
+        "type": "docker",
+        "description": "Obtenez de façon éthique le flag final"
     }
 ]
