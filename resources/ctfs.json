@@ -47,7 +47,7 @@
         "techno": "NodeJS PUG",
         "category": "web_server",
         "level": "3",
-        "flag_validation" : "c9df363632243448673bb042b669afebd33431513fe81e76b5144e6d608465a7",
+        "flag_validation" : "bf6e504c34a6e6bb5e86353aeeb2c2291fbff942d5f6993d080bebb5c5fafc3d",
         "repository": "https://github.com/Hack-Oeil/NODE_PUG_DOCTYPE_ZERO_DAY.git",
         "type": "docker",
         "description": "Faille déclarée mais ignorée sur PUG"
