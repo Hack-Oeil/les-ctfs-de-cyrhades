@@ -255,7 +255,7 @@
         "techno": "PHP",
         "category": "web_server",
         "level": "1",
-        "flag_validation" : "1d28fada97c2f808fad72396ea64d3bb338c8fd0a8f003264488a5889176773e",
+        "flag_validation" : "8388b377d52eddfbd72aafe3e46753291772b55e0328ef6ec2b8c98078158d75",
         "repository": "https://github.com/Hack-Oeil/LOCAL_FILE_INCLUSION_BUILD_CSS.git",
         "type": "docker",
         "description": "Un builder CSS maison mal conçu !"
@@ -329,7 +329,7 @@
         "id": "26",
         "author" : "Cyrhades",
         "name":  "XSS Stored + CRLF + vol de session",
-        "dirname": "b",
+        "dirname": "CRLF_XSS_STORED_SESSION",
         "techno": "-",
         "category": "web_client",
         "level": "2",
