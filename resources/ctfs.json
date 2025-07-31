@@ -398,7 +398,7 @@
         "techno": "SQL",
         "category": "web_server",
         "level": "1",
-        "flag_validation" : "97048be1dce58110f66ceddc25894538ab20c4077d15c5f6da7853b532ae0c9a",
+        "flag_validation" : "a0712ee0d74d3c45d7cdd512e9c004b6e4deb4f2ab36ccacf2345043f1ee9ed5",
         "repository": "https://github.com/Hack-Oeil/INJECTION_SQL_AUTHENTIFICATION_1.git",
         "type": "docker",
         "description": "L'email puis le password (hashé) dans une requête SQL non sécurisée"
