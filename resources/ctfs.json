@@ -229,7 +229,7 @@
         "techno": "PHP",
         "category": "web_server",
         "level": "2",
-        "flag_validation" : "bbf26d7e3890f46766d2805917036a1762cd22c9d2c1f5ee822e471f3f8dd8e6",
+        "flag_validation" : "a0712ee0d74d3c45d7cdd512e9c004b6e4deb4f2ab36ccacf2345043f1ee9ed5",
         "repository": "https://github.com/Hack-Oeil/PHP_COOKIE_SERIALIZE_LOOSE_COMPARAISON.git",
         "type": "docker",
         "description": "Devenez admin en émiettant le cookie"
